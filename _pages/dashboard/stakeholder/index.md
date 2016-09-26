@@ -13,5 +13,5 @@ The pages outline the different components of the MaRIUS research and are struct
 
 
 *[MaRIUS]: Expand MaRIUS
-*[science dashboard] Link to science dashboard here
-*[selected set of drought events] define here
+*[science dashboard]: Link to science dashboard here
+*[selected set of drought events]: define here
