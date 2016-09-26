@@ -5,22 +5,13 @@ permalink: /dashboard/stakeholder/
 _title: Management Dashboard
 ---
 
-The **MaRIUS** project explored how best to manage future droughts, introducing a risk-based approach [hover here] to drought and water scarcity in order to inform management decisions and prepare households.
+The **management dashboard** synthesises environmental, economic and social dimensions of water scarcity. It provides a common platform for the exploration of the multiple impacts of water scarcity, the effectiveness of drought management options, and potential trade-offs.
 
-The management dashboard summarises the key findings from the project and provides a common platform for the communication and exploration of the multiple impacts of water scarcity, the effectiveness of drought management options, and potential trade-offs, for a range of stakeholders.
+The dashboard is designed to be non-technical (with technical aspects available via the science dashboard), to enable the user to readily understand, visualise, explore, and compare likely outcomes arising from applying pre-existing drought management arrangements and/or enhanced or innovative management strategies. The pages provide key results and examples of how these could be used to support drought management.
 
-Key findings from the project are synthesised
-*Outline of the pages and explain results display e.g. outline the sub-set of droughts selected for use in results e.g. level 1 – mild, level 2 moderate, level 3, severe, level 4 – extreme drought??*
+The pages outline the different components of the MaRIUS research and are structured to provide an end-to-end overview of drought and water scarcity, impacts, and management options. The graphics are interactive to allow users to visualise different results and compare these across the pages for a selected set of drought events.
 
-<div id="thing" class="extended row">
-	dfdfd
-</div>
-
-Aim: To 
-
-*Explain the dashboard: What is its purpose and how to use, potential uses and users…*
-
-The interdisciplinary tool aims to enable easy comparison of likely outcomes arising from applying both pre-existing drought management arrangements and enhanced/innovative management strategies…
 
 *[MaRIUS]: Expand MaRIUS
-
+*[science dashboard] Link to science dashboard here
+*[selected set of drought events] define here
