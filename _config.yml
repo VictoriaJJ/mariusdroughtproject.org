@@ -19,11 +19,11 @@ markdown: kramdown
 # kramdown:
 #   parse_block_html: true
 
-baseurl: /githubpages-test
+baseurl: /mariusdroughtproject.org
 
 # ------------------------------------------------------------------------------
-science_url: /githubpages-test/dashboard/science
-stakeholder_url: /githubpages-test/dashboard/stakeholder
+science_url: /mariusdroughtproject.org/dashboard/science
+stakeholder_url: /mariusdroughtproject.org/dashboard/stakeholder
 
 # ------------------------------------------------------------------------------
 # prose.io config
@@ -31,7 +31,7 @@ stakeholder_url: /githubpages-test/dashboard/stakeholder
 # ------------------------------------------------------------------------------
 prose:
   rooturl: ''
-  siteurl: "https://simonabele.github.io/githubpages-test/"
+  siteurl: "https://5j4.github.io/mariusdroughtproject.org/"
   # relativeLinks: "http://prose.github.io/starter/links.jsonp"
   media: 'assets/img'
   ignore:
