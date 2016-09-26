@@ -40,6 +40,7 @@ prose:
     - Gemfile.lock
     - README.md
     - _config.yml
+    - /_site
     - /_layouts
     - /_plugins
   metadata:
