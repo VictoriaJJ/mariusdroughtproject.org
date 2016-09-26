@@ -2,7 +2,7 @@
 layout: stakeholder
 published: true
 permalink: /dashboard/stakeholder/
-_title: Management
+_title: Management Dashboard
 ---
 
 The **MaRIUS** project explored how best to manage future droughts, introducing a risk-based approach [hover here] to drought and water scarcity in order to inform management decisions and prepare households.
