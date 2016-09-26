@@ -1,8 +1,9 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/river_response_and_recovery/
-subsection: Drought Impacts Management  > Water Quality
+permalink: >-
+  /dashboard/science/drought_impacts_management/ecology/river_response_and_recovery/
+subsection: Drought Impacts Management  > Ecology
 _title: Response and recovery of river ecosystems to drought
 ---
 
@@ -59,5 +60,3 @@ Modelled depths are then used to assess loss of connectivity within major catchm
 Dr Cedric Laize Contact: clai@ceh.ac.uk	 
 Prof Mike Acreman
 Dr Francois Edwards
-	 
-
