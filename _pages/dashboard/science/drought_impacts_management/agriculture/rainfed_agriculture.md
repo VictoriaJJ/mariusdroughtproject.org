@@ -1,6 +1,6 @@
 ---
 layout: science
-published: true
+published: false
 permalink: /dashboard/science/drought_impacts_mgmt/agriculture/rainfed/
 subsection: Drought Impacts Management > Agriculture
 _title: Rainfed agriculture
