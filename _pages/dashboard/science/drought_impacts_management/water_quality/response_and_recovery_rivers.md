@@ -1,8 +1,7 @@
 ---
 layout: science
 published: true
-permalink: >-
-  /dashboard/science/drought_impacts_management/ecology/river_response_and_recovery/
+permalink: dashboard/science/drought_impacts_mgmt/ecology/river_response_and_recovery/
 subsection: Drought Impacts Management  > Ecology
 _title: Response and recovery of river ecosystems to drought
 ---
