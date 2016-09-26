@@ -20,6 +20,8 @@ One element of the MaRIUS project is to explore and review options for drought m
 to be useful in cases where there is fairly good knowledge regarding how the system works at present, but one is interested in exploring the consequences of alternative developments in drought management
 * The scenario building workshop is an interactive workshop bringing together different stakeholders’ and researchers’ perspectives on drought management.
 
+![Figure 1: Overview critical drivers for resilient drought and water scarcity management before ranking]({{site.baseurl}}/assets/img/KevinS2.jpg)![KevinS2.jpg]({{site.baseurl}}/assets/img/KevinS2.jpg)
+
 ## Research methods
 
 **Explorative Scenario Building Workshop**
@@ -32,6 +34,8 @@ The workshop has an interactive format and requires active participation from ev
 * scenario description based on critical drivers
 * ßscenario story lines (first ideas)
  
+![Figure 2: Particpant arranging influencing factors according to uncertainty and importance]({{site.baseurl}}/assets/img/KevinS1.jpg)
+
 ## Research team
 
 * Kevin Grecksch
