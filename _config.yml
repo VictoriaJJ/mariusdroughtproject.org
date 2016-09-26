@@ -110,7 +110,7 @@ prose:
           element: "text"
           label: "Subtitle"
           value: ""
-    _pages/dashboard/stakeholder:
+    _pages/dashboard/management:
       - name: "layout"
         field:
           element: "hidden"
