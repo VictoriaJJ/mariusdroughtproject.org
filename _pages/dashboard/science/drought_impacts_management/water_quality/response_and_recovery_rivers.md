@@ -1,8 +1,8 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/water_quality/river_response_and_recovery/
-subsection: Water quality
+permalink: /dashboard/science/river_response_and_recovery/
+subsection: Drought Impacts Management  > Water Quality
 _title: Response and recovery of river ecosystems to drought
 ---
 ## A New Post
