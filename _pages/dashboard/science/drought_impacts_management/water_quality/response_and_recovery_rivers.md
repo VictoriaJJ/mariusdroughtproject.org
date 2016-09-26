@@ -1,11 +1,10 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/river_response_and_recovery/
+permalink: /dashboard/science/drought_impacts_mgmt/water_quality/river_response_and_recovery/
 subsection: Drought Impacts Management  > Water Quality
 _title: Response and recovery of river ecosystems to drought
 ---
-
 ## Key science findings: 
 * Droughts can alter the processes that govern ecosystems, causing changes to physical character, species occurrences and numbers, their interactions and benefits they provide to people.
 * River flows are reduced by droughts, making conditions unsuitable for many species
