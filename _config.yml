@@ -1,0 +1,144 @@
+# exclude: ["ReadMe.md", "Rakefile", "License.md"]
+include: ["_pages"]
+
+# This will require each of these gems automatically.
+# gems: [liquid-inheritance]
+
+permalink: /:title/
+
+# Pages permalink
+defaults:
+  -
+    scope:
+      type: "pages"
+    values:
+      permalink: /:path/:basename:output_ext
+
+markdown: kramdown
+# kramdown config to force interpretation into html block
+# kramdown:
+#   parse_block_html: true
+
+baseurl: /githubpages-test
+
+# ------------------------------------------------------------------------------
+science_url: /githubpages-test/dashboard/science
+stakeholder_url: /githubpages-test/dashboard/stakeholder
+
+# ------------------------------------------------------------------------------
+# prose.io config
+# https://github.com/prose/prose/wiki/Getting-Started
+# ------------------------------------------------------------------------------
+prose:
+  rooturl: ''
+  siteurl: "https://simonabele.github.io/githubpages-test/"
+  # relativeLinks: "http://prose.github.io/starter/links.jsonp"
+  media: 'assets/img'
+  ignore:
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - _config.yml
+    - /_layouts
+    - /_plugins
+  metadata:
+    _pages:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          help: "true = live/visible, false = draft/hidden"
+          value: true
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          help: "1) Replace 'PAGE_NAME' with the name of the page, 2) the link should start AND end with a forward slash (/)"
+          value: "/PAGE_NAME/"
+      - name: "subsection"
+        field:
+          element: "text"
+          label: "Subsection"
+          value: ""
+      - name: "_title"
+        field:
+          element: "text"
+          label: "Title"
+          help: "page title"
+          value: ""
+      - name: "sub_title"
+        field:
+          element: "text"
+          label: "Subtitle"
+          value: ""
+    _pages/dashboard/science:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "science"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          help: "true = live/visible, false = draft/hidden"
+          value: true
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          help: "1) Replace 'PAGE_NAME' with the name of the page, 2) the link should start AND end with a forward slash (/)"
+          value: "/dashboard/science/PAGE_NAME/"
+      - name: "subsection"
+        field:
+          element: "text"
+          label: "Subsection"
+          value: ""
+      - name: "_title"
+        field:
+          element: "text"
+          label: "Title"
+          help: "page title"
+          value: ""
+      - name: "sub_title"
+        field:
+          element: "text"
+          label: "Subtitle"
+          value: ""
+    _pages/dashboard/stakeholder:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "science"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          help: "true = live/visible, false = draft/hidden"
+          value: true
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          help: "1) Replace 'PAGE_NAME' with the name of the page, 2) the link should start AND end with a forward slash (/)"
+          value: "/dashboard/science/PAGE_NAME/"
+      - name: "subsection"
+        field:
+          element: "text"
+          label: "Subsection"
+          value: ""
+      - name: "_title"
+        field:
+          element: "text"
+          label: "Title"
+          help: "page title"
+          value: ""
+      - name: "sub_title"
+        field:
+          element: "text"
+          label: "Subtitle"
+          value: ""

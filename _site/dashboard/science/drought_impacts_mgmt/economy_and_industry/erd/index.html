@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" dir="ltr"><!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Economic risk of droughts</title>
+
+    <!-- <link rel="shortcut icon" href="/media/img/favicon.ico"> -->
+    <!-- <link rel="shortcut icon" href="/githubpages-test/assets/favicon.ico"> -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    
+    <link href="/githubpages-test/assets/libs/css/nv.d3.css" rel="stylesheet">
+    <script src="/githubpages-test/assets/libs/js/d3.v3.js"></script>
+    <script src="/githubpages-test/assets/libs/js/nv.d3.js"></script>
+    
+</head>
+
+<body class="">
+<!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+  <header class="expanded row">
+    <div class="row">
+      <div class="large-6 medium-3 columns">
+          <h1>MaRIUS - Science</h1> 
+      </div>
+      <div class="large-6 medium-3 columns"></div>
+    </div>
+  </header>
+  
+  <div id="" class="expanded row">
+
+    <div class="large-3 medium-3 columns" id="side-nav">
+    
+      <!-- nav for section: science -->
+    	<ul class="vertical menu" data-accordion-menu data-multi-open="false">
+    <li><a href="/githubpages-test/">MaRIUS Home</a></li>
+    
+    <hr>
+    
+    <li><a href="/githubpages-test/dashboard/science/"><b>Science Dashboard</b></a></li>
+
+    <li><a href="/githubpages-test/dashboard/science/drought_climatology/">Drought Climatology</a>
+    <ul class="menu vertical nested">
+      <li><a href="/githubpages-test/dashboard/science/drought_climatology/meteorological_droughts/">Meteorological droughts and the impact of climate change</a></li>
+      <li><a href="/githubpages-test/dashboard/science/drought_climatology/20th_century_reanalysis/">20th century reanalysis</a></li>
+      <li><a href="/githubpages-test/dashboard/science/drought_climatology/baseline_drought_event_set/">Baseline drought event-set</a></li>
+      <li><a href="/githubpages-test/dashboard/science/drought_climatology/future_drought_event_set/">Future drought event-set</a></li>
+    </ul>
+    </li>
+
+    <li>
+    <a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/">Drought Impacts and Management</a>
+
+    <ul class="menu vertical nested">
+      <li>
+        <a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/hydrology/">Hydrology</a>
+        <ul class="menu vertical nested">
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/hydrology/nshmd">National scale hydrological modelling of droughts</a></li>
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/hydrology/idhns">Integrating drought hydrology to the national scale</a></li>
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/hydrology/iirplf">Identifying and improving process representation for low flows</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/water_resources/">Water Resources</a>
+        <ul class="menu vertical nested">
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/water_resources/mncns/">Modelling: Nested catchment &amp; national scale</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/water_quality/">Water Quality</a>
+        <ul class="menu vertical nested">
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/water_quality/ndocs/">Overview</a></li>
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/water_quality/rtwqd/">Thames water quality data</a></li>
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/water_quality/diwqrt/">Drought impacts on water quality - River Thames</a></li>
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/water_quality/abr/">River Thames Reservoir Phytoplankton water quality</a></li>
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/water_quality/nswq/">National scale water quality</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/agriculture/">Agriculture</a>
+        <ul class="menu vertical nested">
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/agriculture/irrigated/">Irrigated agriculture</a></li>
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/agriculture/rainfed/">Rainfed agriculture</a></li>
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/agriculture/uklu/">UK land use</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/ecology/">Ecology</a>
+        <ul class="menu vertical nested">
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/ecology/sem/">Species envelope modelling</a></li>
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/ecology/vts/">Vulnerability of tree species</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/economy_and_industry/">Economy &amp; Industry</a>
+        <ul class="menu vertical nested">
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/economy_and_industry/erd/">Economic risk of droughts</a></li>
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/economy_and_industry/esd/">Electricity supply disruption</a></li>
+          <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/economy_and_industry/eides/">Economic impacts of drought on the electricity sector</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/governance/">Governance</a>
+        <ul class="menu vertical nested">
+            <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/governance/mdpgs/">Mapping the drought planning governance space</a></li>
+            <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/governance/dgps/">Drought planning governance space</a></li>
+            <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/governance/dgo/">Drought governance options</a></li>
+            <li><a href="/githubpages-test/dashboard/science/drought_impacts_mgmt/governance/dgs">Drought mangement scenarios</a></li>
+        </ul>
+       </li>
+       <li><a href="/githubpages-test/dashboard/science/human_geography/">Human Geography</a></li>
+    </ul>
+    </li>
+</ul>
+
+<hr>
+
+<ul class="vertical menu" data-accordion-menu data-multi-open="false">
+    <li><a href="/githubpages-test/dashboard/stakeholder/">Stakeholder Dashboard</a></li>
+</ul>
+    
+    </div>
+
+    <div class="large-9 medium-9 columns content">
+
+      <span class="section">Drought Impacts Management > Economy & Industry</h3></span>
+      <h1>
+      Economic risk of droughts
+      </h1>
+
+      <h2 id="key-science-findings">Key science findings</h2>
+
+<ul>
+  <li>Direct, indirect and total output losses caused by different severity droughts and different water policy management options</li>
+  <li>Impact on electricity generation</li>
+  <li>Highlight economically most vulnerable communities and sectors</li>
+</ul>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Economic impacts of drought can be large and far-ranging. The quantification of the potential scale of economic losses during droughts is important to inform trade-offs between uses of water and to help decision makers understand the scale of economic risks and need for investment and regulatory action. The economic impacts of past droughts and more extreme simulated droughts on specific sectors is assessed, providing output measures such as: changes in relative input or production costs; and changes in relative final output or production levels. Analysis of the economic impacts of droughts has focused upon domestic and commercial water consumers and upon major industrial abstractors, notably electricity generation. This is important as in England and Wales, the electricity sector is responsible for 40% of non-tidal surface water abstractions. When sufficient cooling is not possible, power station operators are required to ‘ramp down’ the generation output in order to reduce cooling demand. The risk of this occurring is computed.</p>
+
+<h2 id="research-methods">Research methods</h2>
+
+<p>A new analytical framework was developed, to capture all the factors that contribute to, or mitigate against, the economic costs or impacts of a drought (including policy-making, planning and management actions). Using an Economic I-O model the direct and indirect losses of drought on domestic and commercial water consumers and major industrial abstractors, notably electricity generation are quantified. The approach combines empirical analysis based on evidence from past droughts, and extends to more extreme simulated droughts in order to construct a more complete picture of the full distribution of possible impacts and associated losses.</p>
+
+<h2 id="research-team">Research team</h2>
+
+<ul>
+  <li>Katie Jenkins (katie.jenkins@eci.ox.ac.uk)</li>
+  <li>Chris Decker</li>
+  <li>Jim Hall</li>
+</ul>
+
+
+    </div>
+    
+  </div>
+  
+  <footer class="expanded row">
+    <div class="large-12 columns">footer</div>
+  </footer>
+
+<!-- stylesheets -->
+<link rel="stylesheet" href="/githubpages-test/assets/libs/css/foundation-6.2.3-custom.min.css">
+<link rel="stylesheet" href="/githubpages-test/assets/css/main.css"> <!-- app -->
+
+<!-- layout|page: extra_css -->
+
+
+
+
+<!-- javascript -->
+<script src="/githubpages-test/assets/libs/js/jquery_foundation-6.2.3-custom.min.js"></script>
+<script src="/githubpages-test/assets/libs/js/foundation-6.2.3-custom.min.js"></script>
+<script src="/githubpages-test/assets/libs/js/app_foundation-6.2.3-custom.min.js"></script>
+<script src="/githubpages-test/assets/js/main.js"></script> <!-- app -->
+
+
+  <!-- style for section: science -->
+  <link rel="stylesheet" href="/githubpages-test/assets/css/science.css" media="screen" type="text/css">
+
+ 
+<!-- layout|page: extra_js -->
+
+
+
+
+</body>
+</html>

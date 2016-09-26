@@ -1,0 +1,38 @@
+   __  ___       ___   ____ __  __ ____
+  /  |/  /___ _ / _ \ /  _// / / // __/
+ / /|_/ // _ `// , _/_/ / / /_/ /_\ \  
+/_/  /_/ \_,_//_/|_|/___/ \____//___/  
+
+CONGRATULATIONS, you found our humans.txt file!
+
+/* http://humanstxt.org */
+
+/* TEAM */
+                            
+Your _title: Your name.
+Site: email, link to a contact form, etc.
+Twitter: your Twitter username.
+Location: City, Country.
+
+[...]
+							
+/* THANKS */
+
+[...]
+
+/* SITE */
+
+Last update: YYYY/MM/DD 
+Standards: HTML5, CSS3
+Components: 
+	Modernizr
+	jQuery
+	Fallback.js (http://fallback.io)
+	D3 (http://d3.js)
+Software:
+	Flask
+		Flask-FlatPages
+		Flask-Freeze
+	Carto (https://carto.com)
+
+[...]
