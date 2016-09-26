@@ -1,8 +1,8 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/water_quality/wetlands
-subsection: Drought Impacts Management > Water Quality
+permalink: /dashboard/science/ecology/wetlands
+subsection: Drought Impacts Management > Ecology
 _title: Response and recovery of wetland ecosystems to drought
 ---
 
