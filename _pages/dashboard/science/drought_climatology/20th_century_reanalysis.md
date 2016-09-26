@@ -2,9 +2,8 @@
 layout: science
 published: true
 permalink: /dashboard/science/drought_climatology/20th_century_reanalysis/
-
 subsection: Drought Climatology
-_title: 20th Century Reanalysis
+_title: Sample data explorer
 ---
 
 ## Key science findings and outputs
