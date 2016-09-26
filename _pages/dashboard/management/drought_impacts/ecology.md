@@ -1,10 +1,10 @@
 ---
-layout: stakeholder
+layout: management
 published: true
-permalink: /dashboard/stakeholder/drought_impacts/water_quality/
+permalink: /dashboard/management/drought_impacts/ecology/
 
 subsection: Drought Impacts
-_title: Water Quality
+_title: Ecology
 ---
 
 Droughts and water scarcity jointly pose a substantial threat to the environment, agriculture, infrastructure, society and culture in the UK, yet our ability to characterise and predict their occurrence, duration and intensity, as well as minimise their impacts, is often inadequate.
@@ -13,17 +13,17 @@ In MaRIUS we developed new methodologies and models for analysis of the impacts 
 
 ///
 
-Droughts can affect water quality in rivers and reservoirs due to reduced dilution of discharges and runoff, enhanced biogeochemical processes [hover over to define] and longer residence times in rivers. Moreover, at the end of a drought the sudden wetting of the soils releases significant fluxes of sediments and chemicals that can disrupt public water supplies, trigger algal blooms and damage ecosystems.  In MaRIUS water quality models were extended and developed for different spatial scales.
+Water is fundamental for the functioning of all ecosystems, but they may display different responses depending on their ecological characteristics and the severity and duration of water shortages. In MaRIUS ecological models were refined and combined for improved assessment of the impacts of drought on aquatic and wetland habitats and their species. These impacts were also linked to ecosystem function and services, and potential effectiveness of ecosystem management and conservation explored.
 
-*Historical analysis of droughts highlighted that water quality was affected and impacts seen in terms of xxxx… In the Thames catchment water quality was shown to e.g. reduce in response to droughts, for the near (2030s) and far (2080s) future….*
+*The analysis highlighted the implications of drought for fish, macro-invertebrates and macrophytes.  Maps of spatial patterns of risk for river-fed wetlands in the Thames Basin indicated that xxxx, for the near (2030s) and far (2080s) future…. The climate suitability of species xx and xx in the Thames Basin….These impacts were greatest under management scenario x, and reduced under management scenario xx whereby….*
 
-MaRIUS has produced tools to guide decision makers. These tools will be both models and new methodological approaches. These outcomes are expected to be of use for catchment managers towards the definition of resilience strategies for climate change adaptation.
 
-* [Ecology](drought_impacts_ecology/)
-* [Agriculture](drought_impacts_agriculture)
-* [Economy](drought_impacts_economy)
+* [Water Quality]({{ site.management_url }}/drought_impacts/water_quality/)
+* [Agriculture]({{ site.management_url }}/drought_impacts/agriculture/)
+* [Economy]({{ site.management_url }}/drought_impacts/economy/)
 
-<div class="large-6 medium-6 columns">
+
+<div class="large-6 medium-3 columns">
 	<label>Select a <b>drought event</b></label>
 	<input type="radio" name="drought_event" value="drought_event_01" id="drought_event_01"><label for="drought_event_01">01</label>
 	<input type="radio" name="drought_event" value="drought_event_02" id="drought_event_02"><label for="drought_event_02">02</label>
@@ -43,12 +43,10 @@ MaRIUS has produced tools to guide decision makers. These tools will be both mod
 </div>
 
 <div class="large-6 medium-6 columns">
-
-	<div id='chart' width="100%">
-		Change in Water Quality…
-		<svg style='height:300px'></svg>
-	</div>
-
+	<ol>
+		<li>Horizontal bar (100%)</li>
+		<li>Spatial distribution map</li>
+	</ol>
 </div>
 
-<script src='{{ site.baseurl }}/assets/js/line_plus_bar_chart.js' type='text/javascript'> </script>
+<script src='{{ site.baseurl }}/assets/js/pie_chart.js' type='text/javascript'> </script>

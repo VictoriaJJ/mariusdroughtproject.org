@@ -23,7 +23,7 @@ baseurl: /mariusdroughtproject.org
 
 # ------------------------------------------------------------------------------
 science_url: /mariusdroughtproject.org/dashboard/science
-stakeholder_url: /mariusdroughtproject.org/dashboard/stakeholder
+management_url: /mariusdroughtproject.org/dashboard/management
 
 # ------------------------------------------------------------------------------
 # prose.io config

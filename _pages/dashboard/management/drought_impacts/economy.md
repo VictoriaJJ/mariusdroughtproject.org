@@ -1,7 +1,7 @@
 ---
-layout: stakeholder
+layout: management
 published: true
-permalink: /dashboard/stakeholder/drought_impacts/economy/
+permalink: /dashboard/management/drought_impacts/economy/
 
 subsection: Drought Impacts
 _title: Economy

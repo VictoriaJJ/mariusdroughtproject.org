@@ -1,7 +1,7 @@
 ---
-layout: stakeholder
+layout: management
 published: true
-permalink: /dashboard/stakeholder/what_is_marius/
+permalink: /dashboard/management/what_is_marius/
 
 _title: The MaRIUS Project
 ---

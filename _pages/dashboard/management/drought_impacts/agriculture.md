@@ -1,7 +1,7 @@
 ---
-layout: stakeholder
+layout: management
 published: true
-permalink: /dashboard/stakeholder/drought_impacts/agriculture/
+permalink: /dashboard/management/drought_impacts/agriculture/
 
 subsection: Drought Impacts
 _title: Agriculture

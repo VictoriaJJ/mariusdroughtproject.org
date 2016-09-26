@@ -1,7 +1,7 @@
 ---
-layout: stakeholder
+layout: management
 published: true
-permalink: /dashboard/stakeholder/admo/
+permalink: /dashboard/management/admo/
 
 _title: Analysing drought management options
 ---

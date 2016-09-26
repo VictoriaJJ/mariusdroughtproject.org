@@ -1,7 +1,7 @@
 ---
-layout: stakeholder
+layout: management
 published: true
-permalink: /dashboard/stakeholder/drought_mgmt/options/
+permalink: /dashboard/management/drought_mgmt/options/
 
 subsection: Drought Management
 _title: Options

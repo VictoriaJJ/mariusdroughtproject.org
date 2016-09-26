@@ -1,7 +1,7 @@
 ---
-layout: stakeholder
+layout: management
 published: true
-permalink: /dashboard/stakeholder/drought_mgmt/dpgs/
+permalink: /dashboard/management/drought_mgmt/dpgs/
 
 subsection: Drought Management
 _title: Drought planning governance space
@@ -14,6 +14,5 @@ This figure maps the drought planning framework in England. The key actors in th
 *The full details of each key actor above will be in the science pages – would like to make the actors names (e.g. ‘water company’) in the figure clickable so some text can come up for each if possible?*
 
 *Add summary of key findings and link to Drought Primer when available.*
-
 
 1. Diagram - Interactive figure to show drought planning framework in England

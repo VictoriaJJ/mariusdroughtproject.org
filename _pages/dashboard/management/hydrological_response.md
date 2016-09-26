@@ -1,7 +1,7 @@
 ---
-layout: stakeholder
+layout: management
 published: true
-permalink: /dashboard/stakeholder/hydrological_response/
+permalink: /dashboard/management/hydrological_response/
 
 _title: Hydrological Response
 ---

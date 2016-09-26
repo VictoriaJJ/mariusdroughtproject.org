@@ -1,7 +1,7 @@
 ---
-layout: stakeholder
+layout: management
 published: true
-permalink: /dashboard/stakeholder/future_challenges/
+permalink: /dashboard/management/future_challenges/
 
 _title: Future challenges
 ---

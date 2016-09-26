@@ -1,7 +1,7 @@
 ---
-layout: stakeholder
+layout: management
 published: true
-permalink: /dashboard/stakeholder/water_use_scarcity/
+permalink: /dashboard/management/water_use_scarcity/
 
 _title: Water Use and Scarcity
 ---

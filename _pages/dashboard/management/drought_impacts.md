@@ -1,7 +1,7 @@
 ---
-layout: stakeholder
+layout: management
 published: true
-permalink: /dashboard/stakeholder/drought_impacts/
+permalink: /dashboard/management/drought_impacts/
 
 _title: Drought Impacts
 ---
