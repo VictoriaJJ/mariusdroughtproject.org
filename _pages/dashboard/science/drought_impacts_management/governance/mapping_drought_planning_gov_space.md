@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/governance/mdpgs/
+permalink: /dashboard/science/drought_impacts_management/governance/mdpgs/
 
 subsection: Drought Impacts Management > Governance
 _title: Mapping the drought planning governance space

@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/governance/dgs/
+permalink: /dashboard/science/drought_impacts_management/governance/dgs/
 subsection: Drought Impacts Management > Governance
 _title: Drought governance scenarios
 ---

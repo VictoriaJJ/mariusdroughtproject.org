@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/agriculture/irrigated/
+permalink: /dashboard/science/drought_impacts_management/agriculture/irrigated/
 
 subsection: Drought Impacts Management
 _title: Irrigated agriculture

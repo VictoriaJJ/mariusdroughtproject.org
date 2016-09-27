@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/economy_and_industry/eides/
+permalink: /dashboard/science/drought_impacts_management/economy_and_industry/eides/
 
 subsection: Drought Impacts Management > Economy & Industry
 _title: Economic impacts of drought on electricity sector

@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/economy_and_industry/
+permalink: /dashboard/science/drought_impacts_management/economy_and_industry/
 
 subsection: Drought Impacts Management
 _title: Economy and Industry

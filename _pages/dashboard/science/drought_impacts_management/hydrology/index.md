@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/hydrology/
+permalink: /dashboard/science/drought_impacts_management/hydrology/
 
 subsection: Drought Impacts Management
 _title: Hydrology

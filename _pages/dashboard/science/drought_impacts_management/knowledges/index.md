@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: dashboard/science/drought_impacts_mgmt/knowledges/
+permalink: dashboard/science/drought_impacts_management/knowledges/
 subsection: Drought Impacts Management > Knowledges
 _title: Drought Knowledges
 ---

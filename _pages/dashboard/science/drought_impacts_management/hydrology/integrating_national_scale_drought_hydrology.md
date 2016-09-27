@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/hydrology/idhns/
+permalink: /dashboard/science/drought_impacts_management/hydrology/idhns/
 
 subsection: Drought Impacts Management > Hydrology
 _title: Integrating drought hydrology to the national scale

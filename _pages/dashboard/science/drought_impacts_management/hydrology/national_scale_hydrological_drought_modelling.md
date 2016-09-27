@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/hydrology/nshmd/
+permalink: /dashboard/science/drought_impacts_management/hydrology/nshmd/
 subsection: Drought Impacts Management > Hydrology
 _title: National scale hydrological modelling of droughts
 ---

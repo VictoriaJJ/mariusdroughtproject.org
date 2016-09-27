@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/water_resources/mncns/
+permalink: /dashboard/science/drought_impacts_management/water_resources/mncns/
 
 subsection: Drought Impacts Management > Water Resources
 _title: Modelling - Nested catchment and national scale

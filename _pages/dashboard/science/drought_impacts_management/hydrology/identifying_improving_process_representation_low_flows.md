@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/hydrology/iirplf/
+permalink: /dashboard/science/drought_impacts_management/hydrology/iirplf/
 
 subsection: Drought Impacts Management > Hydrology
 _title: Identification and improved representation of processes during low flows

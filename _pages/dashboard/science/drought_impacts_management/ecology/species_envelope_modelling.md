@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/ecology/sem/
+permalink: /dashboard/science/drought_impacts_management/ecology/sem/
 
 subsection: Drought Impacts Management > Ecology
 _title: Species envelope modelling

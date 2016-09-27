@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/agriculture/
+permalink: /dashboard/science/drought_impacts_management/agriculture/
 
 subsection: Drought Impacts Management
 _title: Agriculture

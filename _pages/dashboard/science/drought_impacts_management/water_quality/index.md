@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/water_quality/
+permalink: /dashboard/science/drought_impacts_management/water_quality/
 
 subsection: Drought Impacts Management
 _title: Water Quality

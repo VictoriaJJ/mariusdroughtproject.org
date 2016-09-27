@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/water_quality/abr/
+permalink: /dashboard/science/drought_impacts_management/water_quality/abr/
 subsection: Drought Impacts Management > Water Quality
 _title: Algal blooms in reservoirs
 ---

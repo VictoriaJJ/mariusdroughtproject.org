@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/water_quality/diwqrt/
+permalink: /dashboard/science/drought_impacts_management/water_quality/diwqrt/
 
 subsection: Drought Impacts Management > Water Quality
 _title: Drought impacts on water quality – River Thames

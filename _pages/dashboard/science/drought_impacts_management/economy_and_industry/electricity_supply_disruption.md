@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/economy_and_industry/esd/
+permalink: /dashboard/science/drought_impacts_management/economy_and_industry/esd/
 
 subsection: Drought Impacts Management > Economy & Industry
 _title: Electricity supply disruption

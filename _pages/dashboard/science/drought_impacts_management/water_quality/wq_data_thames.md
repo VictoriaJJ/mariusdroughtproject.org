@@ -1,7 +1,7 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_mgmt/water_quality/rtwqd/
+permalink: /dashboard/science/drought_impacts_management/water_quality/rtwqd/
 
 subsection: Drought Impacts Management > Water Quality
 _title: River Thames water quality data
