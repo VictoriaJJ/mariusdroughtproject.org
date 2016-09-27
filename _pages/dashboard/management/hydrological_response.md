@@ -16,3 +16,22 @@ The models can provide estimates of catchment and national-scale soil-moisture, 
 *For example, results from the improved models highlight that…*
 
 The hydrological indicators are used within the ecological, agricultural, and economic models for impact assessment.
+
+<div class="large-6 medium-6 columns">
+	<label>Select a <b>drought event</b></label>
+	<input type="radio" name="drought_event" value="drought_event_01" id="drought_event_01"><label for="drought_event_01">01</label>
+	<input type="radio" name="drought_event" value="drought_event_02" id="drought_event_02"><label for="drought_event_02">02</label>
+	<input type="radio" name="drought_event" value="drought_event_03" id="drought_event_03"><label for="drought_event_03">03</label>
+	<input type="radio" name="drought_event" value="drought_event_04" id="drought_event_04"><label for="drought_event_04">04</label>
+
+	<label>Select an <b>spatial scale</b></label>
+	<input type="radio" name="spatial_scale" value="spatial_scale_thames" id="spatial_scale_thames"><label for="spatial_scale_thames">Thames</label>
+	<input type="radio" name="spatial_scale" value="spatial_scale_severn" id="spatial_scale_severn"><label for="spatial_scale_severn">Severn</label>
+	<input type="radio" name="spatial_scale" value="spatial_scale_england" id="spatial_scale_england"><label for="spatial_scale_england">England</label>
+
+	<label>Select an <b>indicator</b></label>
+	<input type="radio" name="impact" value="River flow" id="River flow"><label for="impact_water_quality">Water quality</label>
+	<input type="radio" name="impact" value="Run-off" id="Run-off"><label for="impact_ecology">Ecology</label>
+	<input type="radio" name="impact" value="impact_agriculture" id="impact_groundwater"><label for="impact_groundwater">Agriculture</label>
+	<input type="radio" name="impact" value="impact_economy" id="impact_economy"><label for="impact_economy">Economy</label>
+</div>
