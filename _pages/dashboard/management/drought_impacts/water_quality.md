@@ -20,6 +20,8 @@ _*[Placeholder for text outlining key results at different spatial scales e.g.:
 3. Response of phytoplankton to drought/climate variability - Thames
 4. Response of water chemistry to droughts/climate - National]_
 
+_[Response surface maps? - tbc]_
+
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>drought event</b></label>
 	<input type="radio" name="drought_event" value="drought_event_01" id="drought_event_01"><label for="drought_event_01">01</label>
@@ -54,7 +56,5 @@ _*[Placeholder for text outlining key results at different spatial scales e.g.:
 * [Ecology](drought_impacts_ecology)
 * [Agriculture](drought_impacts_agriculture)
 * [Economy](drought_impacts_economy)
-
-__*[Placeholder for Response surface maps - tbc]
 
 *[biogeochemical processes]: Define in pop-up
