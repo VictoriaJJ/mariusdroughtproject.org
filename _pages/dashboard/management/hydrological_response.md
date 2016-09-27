@@ -40,7 +40,7 @@ The hydrological indicators are used within the [ecological](https://5j4.github.
 <div class="large-6 medium-6 columns">
 
 <div id='mlc_chart1' style='width:100%'>
-		River Flow
+		Hydrological indicators
 		<svg style='height:300px'></svg>
 	</div>
 
