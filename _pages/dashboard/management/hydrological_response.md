@@ -11,11 +11,11 @@ Hydrological models represent the land surface, rivers, vegetation and sub-surfa
 
 In MaRIUS advances were made in **hydrological modelling** at a national and catchment level to facilitate more realistic modelling of droughts and support drought risk assessment, management and water resource planning. 
 
-The models can provide estimates of catchment and national-scale soil-moisture, runoff, river flows and groundwater resources, and provides a platform to assess the sensitivity of the system to different human activity scenarios. The enhanced process representation in national level models will lead to improved performance of those models. Where such models are used as for decision making or management purposes, better decisions are expected.
+The models can provide estimates of catchment and national-scale soil-moisture, runoff, river flows and groundwater resources, provide a platform to assess the sensitivity of the system to different human activity scenarios, and allow quantification and analysis of uncertainties in hydrological modelling of drought. The enhanced process representation in national level models will lead to improved performance of those models. Where such models are used for decision making or management purposes, better decisions are expected, including influencing UK policies governing water management and abstraction scenarios.
 
 *For example, results from the improved models highlight that…*
 
-The hydrological indicators are used within the ecological, agricultural, and economic models for impact assessment.
+The hydrological indicators are used within the [ecological](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/drought_impacts/ecology/ "Ecological impact page"), [agricultural](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/drought_impacts/agriculture/ "Agricultural impact page"), and [economic](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/drought_impacts/economy/ "Economic impact page") models for impact assessment.
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>drought event</b></label>
@@ -32,7 +32,7 @@ The hydrological indicators are used within the ecological, agricultural, and ec
 	<label>Select an <b>indicator</b></label>
 	<input type="radio" name="impact" value="River flow" id="River flow">
     <label for="River flow">River flow</label>
-	<input type="radio" name="impact" value="Run-off" id="Run-off"><label for="impact_ecology">Ecology</label>
-	<input type="radio" name="impact" value="impact_agriculture" id="impact_groundwater"><label for="impact_groundwater">Agriculture</label>
-	<input type="radio" name="impact" value="impact_economy" id="impact_economy"><label for="impact_economy">Economy</label>
+	<input type="radio" name="impact" value="Run-off" id="Run-off"><label for="Run-off">Run-off</label>
+	<input type="radio" name="impact" value="Ground water" id="Ground water"><label for="Ground water">Ground water</label>
+	<input type="radio" name="impact" value="Soil moisture" id="Soil moisture"><label for="Soil moisture">Soil moisture</label>
 </div>
