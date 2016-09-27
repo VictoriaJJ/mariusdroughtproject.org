@@ -36,3 +36,15 @@ The hydrological indicators are used within the [ecological](https://5j4.github.
 	<input type="radio" name="impact" value="Ground water" id="Ground water"><label for="Ground water">Ground water</label>
 	<input type="radio" name="impact" value="Soil moisture" id="Soil moisture"><label for="Soil moisture">Soil moisture</label>
 </div>
+
+<div class="large-6 medium-6 columns">
+
+<div id='mlc_chart1' style='width:100%'>
+		River Flow
+		<svg style='height:300px'></svg>
+	</div>
+
+</div>
+
+<script src='{{ site.baseurl }}/assets/js/multi_line_chart.js' type='text/javascript'> </script>
+
