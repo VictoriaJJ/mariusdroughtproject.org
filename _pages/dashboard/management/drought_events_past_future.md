@@ -73,7 +73,7 @@ However, a study of historical events alone does not provide sufficiently divers
 
 <div class="large-6 medium-6 columns">
 	<div id='sgnb_chart1' style='width:100%'>
-		Change in **frequency** of drought events
+		Change in **intensity** of drought events
 		<svg style='height:300px' />
 	</div>
 
