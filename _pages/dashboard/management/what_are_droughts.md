@@ -98,7 +98,8 @@ The SPEI can be calculated for different time periods so that the dynamics of di
 <script src='{{ site.baseurl }}/assets/libs/js/stream_layers.js' type='text/javascript'> </script>
 <script src='{{ site.baseurl }}/assets/js/stacked_grouped_nbar_chart.js' type='text/javascript'> </script>
 
-![See how the SPEI changes over time for the UK]({{site.baseurl}}/assets/img/SPEI_timeseries_map_placeholder.png)
+See how the SPEI changes over time for the UK
+![]({{ site.baseurl}}/assets/img/SPEI_timeseries_map_placeholder.png){:width="50%"}
 
 
 *[MaRIUS]: Expand MaRIUS
