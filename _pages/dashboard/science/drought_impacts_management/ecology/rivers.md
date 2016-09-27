@@ -1,13 +1,8 @@
 ---
 layout: science
 published: true
-<<<<<<< HEAD:_pages/dashboard/science/drought_impacts_management/water_quality/response_and_recovery_rivers.md
-permalink: /dashboard/science/drought_impacts_mgmt/water_quality/river_response_and_recovery/
-subsection: Drought Impacts Management  > Water Quality
-=======
 permalink: /dashboard/science/drought_impacts_management/ecology/rivers/
 subsection: Drought Impacts Management > Ecology
->>>>>>> VictoriaJJ_mariusdroughtproject.org/gh-pages:_pages/dashboard/science/drought_impacts_management/ecology/rivers.md
 _title: Response and recovery of river ecosystems to drought
 ---
 ## Key science findings: 
