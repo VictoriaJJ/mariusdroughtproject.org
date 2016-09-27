@@ -2,26 +2,23 @@
 layout: management
 published: true
 permalink: /dashboard/management/drought_impacts/water_quality/
-
 subsection: Drought Impacts
 _title: Water Quality
 ---
 
 Droughts and water scarcity jointly pose a substantial threat to the environment, agriculture, infrastructure, society and culture in the UK, yet our ability to characterise and predict their occurrence, duration and intensity, as well as minimise their impacts, is often inadequate.
 
-In MaRIUS we developed new methodologies and models for analysis of the impacts of water scarcity on ecosystems, society and various economic activities including agriculture, industry and household consumers. By supporting the analysis of a full range of impacts in a common framework MaRIUS provides multi-attribute characterisation of drought impacts and evidence to evaluate trade-offs between different impacts. [Click on the below categories to see further information on the analysis and impacts of water scarcity]
+In MaRIUS we developed new methodologies and models for analysis of the impacts of water scarcity on ecosystems, society and various economic activities including agriculture, industry and household consumers. By supporting the analysis of a full range of impacts in a common framework MaRIUS provides multi-attribute characterisation of drought impacts and evidence to evaluate trade-offs between different impacts.
 
-///
+Droughts can affect **water quality** in rivers and reservoirs due to reduced dilution of discharges and runoff, enhanced biogeochemical processes and longer residence times in rivers. Moreover, at the end of a drought the sudden wetting of the soils releases significant fluxes of sediments and chemicals that can disrupt public water supplies, trigger algal blooms and damage ecosystems.  
 
-Droughts can affect water quality in rivers and reservoirs due to reduced dilution of discharges and runoff, enhanced biogeochemical processes [hover over to define] and longer residence times in rivers. Moreover, at the end of a drought the sudden wetting of the soils releases significant fluxes of sediments and chemicals that can disrupt public water supplies, trigger algal blooms and damage ecosystems.  In MaRIUS water quality models were extended and developed for different spatial scales.
+In MaRIUS water quality models were extended and developed for different spatial scales. Overall, the national scale data and modelling analysis of the impact of drought on water quality in UK rivers will provide us with a better understanding of how water quality changes during droughts across multiple catchments.  This is essential information for many different stakeholders so that we can anticipate and, if possible, mitigate the impact of future drought and maintain resilience of freshwater systems to these extreme events.
 
-*Historical analysis of droughts highlighted that water quality was affected and impacts seen in terms of xxxx… In the Thames catchment water quality was shown to e.g. reduce in response to droughts, for the near (2030s) and far (2080s) future….*
-
-MaRIUS has produced tools to guide decision makers. These tools will be both models and new methodological approaches. These outcomes are expected to be of use for catchment managers towards the definition of resilience strategies for climate change adaptation.
-
-* [Ecology](drought_impacts_ecology/)
-* [Agriculture](drought_impacts_agriculture)
-* [Economy](drought_impacts_economy)
+*[Placeholder for text outlining key results at different spatial scales e.g.: 
+1. Risk of cyanobacteria bloom in reservoir 
+2. Response of water chemistry to drought/climate variability - Thames
+3. Response of phytoplankton to drought/climate variability - Thames
+4. Response of water chemistry to droughts/climate - National]
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>drought event</b></label>
@@ -52,3 +49,9 @@ MaRIUS has produced tools to guide decision makers. These tools will be both mod
 </div>
 
 <script src='{{ site.baseurl }}/assets/js/line_plus_bar_chart.js' type='text/javascript'> </script>
+
+* [Ecology](drought_impacts_ecology/)
+* [Agriculture](drought_impacts_agriculture)
+* [Economy](drought_impacts_economy)
+
+*[biogeochemical processes]: Define in pop-up
