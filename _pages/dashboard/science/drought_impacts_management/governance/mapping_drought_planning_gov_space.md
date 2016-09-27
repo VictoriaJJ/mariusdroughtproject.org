@@ -6,6 +6,7 @@ permalink: /dashboard/science/drought_impacts_management/governance/mdpgs/
 subsection: Drought Impacts Management > Governance
 _title: Mapping the drought planning governance space
 ---
+
 ## Key science findings
 
 Relationships of power between key institutional actors involved in managing drought are central to understanding how regulatory tools are used.

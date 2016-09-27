@@ -7,6 +7,7 @@ subsection: Drought Impacts Management
 _title: Irrigated agriculture
 sub__title: Agricultural droughts impacts and responses
 ---
+
 ## Key science findings
 
 * The net economic benefit of agricultural irrigation in England and Wales in a dry year is around £665 million.

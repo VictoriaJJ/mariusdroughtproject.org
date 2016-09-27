@@ -10,13 +10,17 @@ _title: National scale hydrological modelling of droughts
 
 Our aim is to provide enhanced scientific understanding and hydrological modelling capability to represent drought processes at the national scale, for historic, present and future climate conditions. CEH’s national gridded hydrological model Grid-to-Grid (G2G) provides 1km resolution estimates of naturalised river flows across the UK, and while originally developed to simulate and forecast high river flows, is now being assessed during low flow and drought conditions.  A national scale model can maintain a national- or regional-scale water-balance, ensuring coherence between neighbouring catchments/regions and allowing us to assess the potential impact of water management scenarios on drought occurrence and severity at the national scale.
 
-![Figure 1: 1km x 1km Grid-to-Grid simulated mean monthly river flows for May 1995. Flow output can be produced daily or monthly.]({{site.baseurl}}/assets/img/Vicky1.jpg.png)
+![1km x 1km Grid-to-Grid simulated mean monthly river flows for May 1995. Flow output can be produced daily or monthly.]({{site.baseurl}}/assets/img/Vicky1.jpg.png){:widht="50%"}
+
+1km x 1km Grid-to-Grid simulated mean monthly river flows for May 1995. Flow output can be produced daily or monthly.
 
 ## Research methods
 
 Under Marius, G2G will be enhanced to include the effect of abstractions and returns, enabling exploration of drought management scenarios at the national scale. Ongoing work is using model estimates of river flows and soil-moisture, driven by weather observations, to assess change in drought occurrence, duration and severity over the historical period 1910 to 2010. A regional climate model (RCM) also provides an extended simulation of historical weather, allowing us to include the severe droughts that occurred at the end of the 19th Century in our assessments of long-term change. An ensemble of near- and far-future weather outputs from multiple RCM runs will provide the driving data needed to understand how drought occurrence and characteristics might change in the future.
 
-![Figure 2: Grid-to-Grid model output (1km x 1km) can provide annual maps of drought severity, intensity, duration and number of drought periods per year for river flow and soil moisture. The example maps shown here are standardised drought severity (river flow) for 1975, 1976 and 1977. They show the most severe drought in each year. The darker the colour the more severe the drought.]({{site.baseurl}}/assets/img/Vicky2.jpg.png)![Vicky2.jpg.png]({{site.baseurl}}/assets/img/Vicky2.jpg.png)
+![Grid-to-Grid model output (1km x 1km) can provide annual maps of drought severity, intensity, duration and number of drought periods per year for river flow and soil moisture. The example maps shown here are standardised drought severity (river flow) for 1975, 1976 and 1977. They show the most severe drought in each year. The darker the colour the more severe the drought.]({{site.baseurl}}/assets/img/Vicky2.jpg.png)![Vicky2.jpg.png]({{site.baseurl}}/assets/img/Vicky2.jpg.png){:widht="50%"}
+
+Grid-to-Grid model output (1km x 1km) can provide annual maps of drought severity, intensity, duration and number of drought periods per year for river flow and soil moisture. The example maps shown here are standardised drought severity (river flow) for 1975, 1976 and 1977. They show the most severe drought in each year. The darker the colour the more severe the drought.
 
 ## Further information
 

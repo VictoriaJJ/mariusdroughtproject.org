@@ -5,4 +5,5 @@ permalink: /dashboard/science/drought_impacts_management/water_resources/nationa
 subsection: Drought Impacts Management > Water Resources
 _title: National-scale water availability
 ---
+
 ## No template sent
