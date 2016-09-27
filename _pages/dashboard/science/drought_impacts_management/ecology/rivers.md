@@ -33,12 +33,11 @@ In addition to a detailed review of evidence of how droughts affect river ecosys
 ## Result 1: Hydrological alteration !THIS SECTION IS TOO LONG!
 
 The eco-hydrological literature supports the concept that all aspects of the flow regime matter to riverine ecosystems. Any major departure from usual conditions is therefore associated with the risk of an impact to the system. This forms the basis for the two hydrological alteration approaches used in his project:
-
-1. Ecological Risk due to Flow Alteration (ERFA) method, developed by CEH, and adapted for MaRIUS
-2. Drought-specific G2G metrics
-
-TERFA used 16 hydrological indicators based on monthly flow data to characterise all aspects of the flow regime. Baseline G2G flows are processed to derive baseline indicators. Then, the period of record for each drought event are similarly processed. Last, the two sets of indicators are compared to assess how much each drought event period departs from baseline. Results are aggregated as colour-coded classes. This approach captures the whole period in which drought events occur, as opposed to the actual drought events themselves, and the whole flow range is considered, including the high flows. Hydrological conditions during the period leading to a declared drought may have an impact on the ecology even if the drought is very short (e.g. conditions leading to summer drought may include lower than usual winter freshets ).
-Drought-specific G2G metrics include: month of longest flow deficit of the year ending (if any); month of longest flow deficit of the year starting; number of flow deficits per year (ie frequency of droughts); highest change in flow going into a deficit; highest change in flow recovering from a deficit; length of drought. These metrics are event-focused and can therefore bring complementary insights to those of ERFA, which is concerned with ecologically-relevant flow envelopes.
+(1)	Ecological Risk due to Flow Alteration (ERFA) method, developed by CEH, and adapted for MaRIUS
+(2)	Drought-specific G2G metrics
+T
+ERFA used 16 hydrological indicators based on monthly flow data to characterise all aspects of the flow regime. 
+Drought-specific G2G metrics include: month of longest flow deficit of the year ending (if any); month of longest flow deficit of the year starting; number of flow deficits per year (ie frequency of droughts); highest change in flow going into a deficit; highest change in flow recovering from a deficit; length of drought. 
 
 ![Example of ecological risk classes (ERFA method) due to the departure of future hydrology (2050s) from baseline 1961-90.]({{site.baseurl}}/assets/img/Cedric1.jpg.png){:width="50%"}
 
@@ -56,12 +55,11 @@ Example of LIFE biological index (species level) response to flow predictors (Q1
 
 River organisms not only react indirectly to discharge, but also are directly sensitive to river hydraulics (the “missing link between hydrology and [river] ecology”) in two main ways:
 
-1. Loss of physical habitat diversity, in terms of depth, velocity, etc., created by the interaction between discharge and the channel morphology
-2. loss of longitudinal connectivity between sections of the river network when channels dry out (ie less opportunity to explore food sources, or to find most suitable conditions); particularly relevant to more mobile organisms like fish
+(1)	Loss of physical habitat diversity, in terms of depth, velocity, etc., created by the interaction between discharge and the channel morphology
+(2)	loss of longitudinal connectivity between sections of the river network when channels dry out (ie less opportunity to explore food sources, or to find most suitable conditions); particularly relevant to more mobile organisms like fish
 
-Hydraulic geometry models have been fitted at ~200 sites in England and Wales. Modelled flow data (G2G) are used as inputs to generate series of mean velocity, mean depth, and wetted width at these sites. A site-by-site analysis allows to gauge how much physical habitat may be lost during droughts.
-
-Modelled depths are then used to assess loss of connectivity within major catchments. A connectivity threshold was set at 10cm (a rough estimate of how much depth bigger organisms would need to be able to swim). For a given catchment, if one site is below the threshold once during a given year, it is marked as ‘dried’, hence the basin is fragmented (red on map). Network fragmentation has a significant impact on mobile organisms like fish in terms of limiting their access to food sources, to better suited habitat (e.g. if thermal conditions become too warm), etc.
+Hydraulic geometry models have been fitted at ~200 sites in England and Wales. Modelled flow data (G2G) are used as inputs to generate series of mean velocity, mean depth, and wetted width at these sites. A site-by-site analysis allows to gauge how much physical habitat may be lost during droughts. 
+Modelled depths are then used to assess loss of connectivity within major catchments.
 
 ![Catchment fragmentation mapping; year 1976 (red, loss of connectivity at least once at one site; green, no loss).]({{site.baseurl}}/assets/img/Cedric3.jpg.png){:width="50%"}
 
@@ -72,4 +70,3 @@ Catchment fragmentation mapping; year 1976 (red, loss of connectivity at least o
 Dr Cedric Laize Contact: clai@ceh.ac.uk	 
 Prof Mike Acreman
 Dr Francois Edwards
-
