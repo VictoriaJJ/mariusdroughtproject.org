@@ -2,7 +2,6 @@
 layout: management
 published: true
 permalink: /dashboard/management/water_use_scarcity/
-
 _title: Water Use and Scarcity
 ---
 
@@ -12,12 +11,9 @@ These water allocation decisions need to be made in the context of abstraction l
 
 In MaRIUS we have improved on existing WRSMs to provide capability to model the potential for, and robustness of, more sophisticated water allocation and management arrangements during droughts. This provides information on the probability of water shortages for different users under given management strategies, and allows us to test a wide range of water abstraction, allocation and transfer strategies before and during droughts and during drought recovery.
 
-*For example, assuming current drought management practices sectors xx and xx were shown to be at most risk from water scarcity. The probability of water shortages increased by xx% and xx% respectively for the near (2030s) and far (2080s) future…*
+Key outputs of the research include the ability to model how water scarcity will change; testing the feasibility of water transfers; impacts/benefits of demand and supply options on scarcity; impacts of water quality on scarcity; and the impact of sustainability reductions (i.e. more water for the environment).
 
-*Changing current drought management practices by xxx were shown to have the most beneficial impacts. For example, could reduce drought duration by xx and reduce recovery time by xx.*
-
-*Simulation of water resources to show potential trajectories for water companies*
-
+*[Placeholder for key findings]
 
 
 <div class="large-6 medium-6 columns">
