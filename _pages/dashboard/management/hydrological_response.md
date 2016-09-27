@@ -30,7 +30,8 @@ The hydrological indicators are used within the ecological, agricultural, and ec
 	<input type="radio" name="spatial_scale" value="spatial_scale_england" id="spatial_scale_england"><label for="spatial_scale_england">England</label>
 
 	<label>Select an <b>indicator</b></label>
-	<input type="radio" name="impact" value="River flow" id="River flow"><label for="impact_water_quality">Water quality</label>
+	<input type="radio" name="impact" value="River flow" id="River flow">
+    <label for="River flow">River flow</label>
 	<input type="radio" name="impact" value="Run-off" id="Run-off"><label for="impact_ecology">Ecology</label>
 	<input type="radio" name="impact" value="impact_agriculture" id="impact_groundwater"><label for="impact_groundwater">Agriculture</label>
 	<input type="radio" name="impact" value="impact_economy" id="impact_economy"><label for="impact_economy">Economy</label>
