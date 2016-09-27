@@ -18,6 +18,7 @@ _title: Drought planning governance space
 
 <hr class="section">
 <a name="water_companies"></a>
+
 ## Water Companies
 
 ### Descriptive
@@ -36,6 +37,7 @@ Water companies are compelled to operate in particular ways by the regulatory fr
 
 ***
 <a name="ea"></a>
+
 ## The Environment Agency for England
 
 ### Descriptive
@@ -58,6 +60,7 @@ There is an increasing sense that the EA is pushing water companies and/or consu
 
 ***
 <a name="consultants"></a>
+
 ## Consultants
 
 ### Descriptive
@@ -76,6 +79,7 @@ Consultants are subject to legal rules as they work as agents for their clients 
 
 ***
 <a name="customer_citizens"></a>
+
 ## Customer-Citizens
 
 ### Descriptive
@@ -96,6 +100,7 @@ There is a sense that perhaps the public doesn’t understand the difference bet
 
 ***
 <a name="ofwat"></a>
+
 ## OFWAT
 
 ### Descriptive
@@ -114,6 +119,7 @@ Ofwat has minimal input into the process of drought planning and it seems to be 
 
 ***
 <a name="defra"></a>
+
 ## DEFRA
 
 ### Descriptive
@@ -132,6 +138,7 @@ Our research suggests that Defra engages in minimal transfer of information. It 
 
 ***
 <a name="ne"></a>
+
 ## Natural England (NE)
 
 ### Descriptive
@@ -150,6 +157,7 @@ NE provides to the EA and water companies environmental science knowledge of des
 
 ***
 <a name="ccw"></a>
+
 ## The Consumer Council for Water (CCW)
 
 ### Descriptive
@@ -166,6 +174,7 @@ The legislative mandate of the CCW is to exercise its powers and perform its dut
 
 ***
 <a name="dwi"></a>
+
 ## The Drinking Water Inspectorate (DWI)
 
 ### Descriptive

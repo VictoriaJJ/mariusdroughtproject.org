@@ -20,6 +20,7 @@ to be useful in cases where there is fairly good knowledge regarding how the sys
 * The scenario building workshop is an interactive workshop bringing together different stakeholders’ and researchers’ perspectives on drought management.
 
 ![Overview critical drivers for resilient drought and water scarcity management before ranking]({{site.baseurl}}/assets/img/KevinS2.jpg){:width="50%"}
+
 Overview critical drivers for resilient drought and water scarcity management before ranking
 
 ## Research methods
@@ -35,8 +36,8 @@ The workshop has an interactive format and requires active participation from ev
 * ßscenario story lines (first ideas)
  
 ![Particpant arranging influencing factors according to uncertainty and importance]({{site.baseurl}}/assets/img/KevinS1.jpg){:width="50%"}
- 
-Particpant arranging influencing factors according to uncertainty and importance
+
+Participant arranging influencing factors according to uncertainty and importance
 
 ## Research team
 
