@@ -42,7 +42,7 @@ _*[Placeholder for text outlining key results at different spatial scales e.g.:
 <div class="large-6 medium-6 columns">
 
 	<div id='chart' width="100%">
-		Change in Water Quality…
+		Example: Phosphorous and Chlorophyll Concentrations
 		<svg style='height:300px'></svg>
 	</div>
 
@@ -54,5 +54,7 @@ _*[Placeholder for text outlining key results at different spatial scales e.g.:
 * [Ecology](drought_impacts_ecology)
 * [Agriculture](drought_impacts_agriculture)
 * [Economy](drought_impacts_economy)
+
+__*[Placeholder for Response surface maps - tbc]
 
 *[biogeochemical processes]: Define in pop-up
