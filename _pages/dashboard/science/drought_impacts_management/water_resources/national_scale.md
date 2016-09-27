@@ -6,4 +6,4 @@ subsection: Drought Impacts Management > Water Resources
 _title: National-scale water availability
 ---
 
-## No template sent
+## No template received
