@@ -1,2 +1,3 @@
-# mariusdroughtproject
+# mariusdroughtproject.org
+
 MaRIUS project website
