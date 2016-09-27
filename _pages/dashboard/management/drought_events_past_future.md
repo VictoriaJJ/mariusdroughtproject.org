@@ -13,6 +13,7 @@ However, a study of historical events alone does not provide sufficiently divers
 1. The frequency and intensity of droughts experienced in the past is likely to change e.g. a drought with similar intensity to 2010-2012 may occur x times more frequently in the future, or drought intensity likely to increase by x%....
 2. Drought conditions unprecedented in the recent past may be experienced in the future e.g. a drought x times more intense and x months longer in duration than the 1975-1976 event could occur…
 
+
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>time period</b></label>
 	<input type="radio" name="time_period" value="time_period_present" id="time_period_present"><label for="time_period_present">Present</label>
