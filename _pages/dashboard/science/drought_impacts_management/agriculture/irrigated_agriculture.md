@@ -2,7 +2,6 @@
 layout: science
 published: true
 permalink: /dashboard/science/drought_impacts_management/agriculture/irrigated/
-
 subsection: Drought Impacts Management
 _title: Irrigated agriculture
 sub__title: Agricultural droughts impacts and responses
@@ -15,7 +14,7 @@ sub__title: Agricultural droughts impacts and responses
 * The apparent impact of drought on irrigated farm businesses has declined since the 1975-76 drought, due to on-farm measures to reduce drought risk and a move towards partnership working during droughts by the Regulator.
 * Increased water scarcity will lead to changes in agricultural landuse as relative crop and farm profitability change within the UK and Europe.
  
-## Introduction
+## Introduction
 
 Rainfed and irrigated agriculture is one of the most sensitive UK sectors to drought and water scarcity.  Past drought events, such as 1975-76 and 2010-12, have led to significant impacts arising from reduced production, reduced product quality and animal welfare concerns.  Irrigated agribusinesses can face abstraction restrictions imposed by the Regulator during droughts and increased competition for water resources from public water supply and the environment.   MaRIUS aims to understand how long term farm planning will change due to increased water scarcity; and the impacts and response of farmers, processors and food retailers to drought.
 
@@ -27,7 +26,7 @@ A range of qualitative and quantitative methods are being used to investigate th
 * Assessment of the economic value of irrigation during droughts through combining industry and farm level economic data, with geospatial information on agricultural land use, agro-climate, soils and irrigation practices
 * Evaluation of the changing risk of abstraction restrictions on agriculture under climate change through application of drought management rules to hydrological model outputs
  
-### The net economic benefit of agricultural irrigation in England and Wales during drought is around £665 million (2010 prices) 
+## The net economic benefit of agricultural irrigation in England and Wales during drought is around £665 million (2010 prices) 
  
 Irrigation is an essential component of crop production to meet retailer demands for premium quality. Under drought conditions, irrigation can be constrained by water resources availability, with consequent impacts on yield, quality and revenue. By combining industry and farm level economic data, with geospatial information on agricultural land use, agroclimate, soils and irrigation practices within a GIS, research in MaRIUS estimated the total net financial benefit of outdoor irrigated production in England and Wales in a ‘design’ dry year to be around £665 million.  The highest benefits (and therefore the greatest economic risks due to imposed abstraction constraints during drought events) accrue in Anglian, Midlands and Southern EA regions, where high-value crops (soft fruit, potatoes and vegetables) are concentrated.
 
@@ -35,7 +34,7 @@ Irrigation is an essential component of crop production to meet retailer demands
 
 Estimated irrigation benefits (£) per 2km x 2km grid cell (from Rey et al., In Press)
 
-### Water productivity in UK irrigation during drought averages in excess of £3.30/m3
+## Water productivity in UK irrigation during drought averages in excess of £3.30/m3
  
 Research in MaRIUS has shown that the areas with the highest water productivity are mainly in the south-east, around the Bristol Channel and in the midlands.  Irrigation benefits tend to be highest for high-value crops, where irrigation can make most difference to yield and farm-gate price; and for crops such as soft fruit that are associated with relatively high capital and labour production costs, helping to secure their viability, but which are highly vulnerable to drought restrictions.  Soft fruit and early potatoes have the highest average water productivity (£52 and £1.94 per m3, respectively), with cereals (£0.08 per m3) and grass (£0.11 per m3) having the lowest values.
 
@@ -43,7 +42,7 @@ Research in MaRIUS has shown that the areas with the highest water productivity 
 
 Irrigation water productivity (£/m3) (from Rey et al., In Press)
 
-### The apparent impact of drought on irrigated farm businesses has declined since the 1976-77 drought, due to on-farm measures to reduce drought risk and a move towards partnership working during droughts by the Regulator
+## The apparent impact of drought on irrigated farm businesses has declined since the 1976-77 drought, due to on-farm measures to reduce drought risk and a move towards partnership working during droughts by the Regulator
 
 The apparent impact of drought on irrigated farm businesses has declined since the 1975-76 drought in the Anglian region (the most productive agricultural region in the UK), due to on-farm investments (on-farm reservoirs and water distribution networks; improved irrigation efficiency) and improved farm planning to reduce drought risk; greater collaboration within farming (formation of Water Abstractor Groups); and a move towards partnership working during droughts by the Regulator (Environment Agency)
 
@@ -59,4 +58,4 @@ The apparent impact of drought on irrigated farm businesses has declined since t
 * Dr David Parsons
 * Dr Lola Rey Vicario
 * Dr Victoria Janes
-* Dr Nirman Shrestha 
+* Dr Nirman Shrestha
