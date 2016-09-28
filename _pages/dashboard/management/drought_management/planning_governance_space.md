@@ -12,6 +12,6 @@ The below figure maps the drought planning framework in England. The key actors 
 
 ![A2_Mapping drought planning in England.png]({{site.baseurl}}/assets/img/A2_Mapping drought planning in England.png){:width="50%"}
 
-_[Placeholder: Full details of each key actor above will be in the science pages – in the managemnt pages could make the actors names (e.g. ‘water company’) in the figure clickable so some text can come up for each if possible?]_
+_[Placeholder: Full details of each key actor above will be in the science pages – in the management pages could make the actors names (e.g. ‘water company’) in the figure clickable so some text can come up for each if possible?]_
 
 _[Placeholder: Summary / key findings and/or link to Drought Primer here?]_
