@@ -30,7 +30,7 @@ In addition to a detailed review of evidence of how droughts affect river ecosys
 2. eco-hydrological modelling (response of biological index to flow change)
 3. eco-hydraulics (physical habitat and connectivity); analysis of physical habitat structure, focusing on fragmentation during droughts
 
-## Result 1: Hydrological alteration !THIS SECTION IS TOO LONG!
+## Result 1: Hydrological alteration
 
 The eco-hydrological literature supports the concept that all aspects of the flow regime matter to riverine ecosystems. Any major departure from usual conditions is therefore associated with the risk of an impact to the system. This forms the basis for the two hydrological alteration approaches used in his project:
 (1)	Ecological Risk due to Flow Alteration (ERFA) method, developed by CEH, and adapted for MaRIUS
@@ -51,7 +51,7 @@ We investigate observed biological data, in order to model the biological respon
 
 Example of LIFE biological index (species level) response to flow predictors (Q10 and Q95 of 6-month period prior to biological half-year sampling); top plot, observed index in grey, predicted in black (including simulation for missing samples).
 
-## Result 3: Eco-hydraulics !THIS SECTION IS TOO LONG!
+## Result 3: Eco-hydraulics
 
 River organisms not only react indirectly to discharge, but also are directly sensitive to river hydraulics (the “missing link between hydrology and [river] ecology”) in two main ways:
 
