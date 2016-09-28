@@ -14,4 +14,4 @@ The range of drought management options will also be depend on the economic, env
 
 _[Placeholder: The interactive MaRIUS Integrated Drought Impact and Management dashboard can be used to explore and visualise alternative metrics and indicators of the performance of management options...Coming soon!!]_.
 
-*[**drought plans**, **drought orders** and **permits**]: Define in pop-up
+*[drought plans, drought orders and permits]: Define in pop-up
