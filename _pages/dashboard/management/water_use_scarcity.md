@@ -7,13 +7,13 @@ _title: Water Use and Scarcity
 
 Water scarcity describes the relationship between water demand and availability. Central to drought management are decisions about quantities of water to abstract (from a range of different sources), for storage or for allocation to different water users. 
 
-These water allocation decisions need to be made in the context of abstraction licencing, water resources planning and drought management planning.  Water resources simulation models (WRSM) simulate abstractions, stores (including groundwater), transfers, consumption of water and return flows. They can incorporate rule-based representation of the arrangements for managing water resources and/or optimisation for allocation of water to maximise an objective function.
+These water allocation decisions need to be made in the context of abstraction licencing, water resources planning and drought management planning.  **Water resources simulation models** (WRSM) simulate abstractions, stores (including groundwater), transfers, consumption of water and return flows. They can incorporate rule-based representation of the arrangements for managing water resources and/or optimisation for allocation of water to maximise an objective function.
 
 In MaRIUS we have improved on existing WRSMs to provide capability to model the potential for, and robustness of, more sophisticated water allocation and management arrangements during droughts. This provides information on the probability of water shortages for different users under given management strategies, and allows us to test a wide range of water abstraction, allocation and transfer strategies before and during droughts and during drought recovery.
 
 Key outputs of the research include the ability to model how water scarcity will change; testing the feasibility of water transfers; impacts/benefits of demand and supply options on scarcity; impacts of water quality on scarcity; and the impact of sustainability reductions (i.e. more water for the environment).
 
-*[Placeholder for key findings]
+_*[Placeholder for key findings]_
 
 
 <div class="large-6 medium-6 columns">
@@ -46,3 +46,5 @@ Key outputs of the research include the ability to model how water scarcity will
 <!-- <script src='{{ site.baseurl }}/assets/libs/js/stream_layers.js' type='text/javascript'> </script> -->
 <!--<script src='{{ site.baseurl }}/assets/js/stacked_grouped_nbar_chart.js' type='text/javascript'> </script>-->
 <script src='{{ site.baseurl }}/assets/js/pie_chart.js' type='text/javascript'> </script>
+
+*[WRSM]: Water resources simulation models
