@@ -12,7 +12,7 @@ In MaRIUS we developed new methodologies and models for analysis of the impacts 
 
 Droughts and water scarcity affect rain-fed and irrigated **agricultural systems** across multiple timescales.  Effects on long term yield and profit variability influence farm business planning and investment, for example affecting crop and rotation selection and investment in infrastructure for irrigation. In MaRIUS critical thresholds of drought characteristics that trigger changes in long term farm-level planning were established. Farm modelling tools were used to simulate agricultural impacts and farmer responses, and analyse the impacts and trade-offs of different irrigation management strategies and decisions.
 
-_[PLaceholder for key results:
+_[Placeholder for key results:
 1. Economic value of water for irrigated agriculture. 
 2. That water productivity (£/m3) in irrigated agriculture can be high.]_
 
