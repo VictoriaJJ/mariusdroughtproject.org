@@ -42,16 +42,5 @@ _*[Placeholder for key findings]_
 	</div>
 </div>
 
-<!-- <script src='{{ site.baseurl }}/assets/js/stacked_area.js' type='text/javascript'> </script> -->
-<!-- <script src='{{ site.baseurl }}/assets/libs/js/stream_layers.js' type='text/javascript'> </script> -->
-<!--<script src='{{ site.baseurl }}/assets/js/stacked_grouped_nbar_chart.js' type='text/javascript'> </script>-->
-<script src='{{ site.baseurl }}/assets/js/pie_chart.js' type='text/javascript'> </script>
-
-<div class="large-6 medium-6 columns">
-	<div id='sgnb_chart1' style='width:100%'>
-		Allocation of abstracted water to users
-		<svg style='height:300px' />
-	</div>
-</div>
 
 *[WRSM]: Water resources simulation models
