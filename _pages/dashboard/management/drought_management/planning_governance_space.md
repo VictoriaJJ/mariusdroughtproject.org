@@ -10,9 +10,8 @@ The current legal regime in the UK involves a range of statutory provisions, reg
 
 The below figure maps the drought planning framework in England. The key actors in the governance space for drought planning in England are Defra, Ofwat, the EA, water companies, customer-citizens, and consultants. Other actors include Natural England (NE), the Consumer Council for Water (CCW) the Drinking Water Inspectorate (DWI), and the European Union (EU). 
 
-![A2_Mapping drought planning in England.png]({{site.baseurl}}/assets/img/A2_Mapping drought planning in England.png)
+![A2_Mapping drought planning in England.png]({{site.baseurl}}/assets/img/A2_Mapping drought planning in England.png){:width="50%"}
 
 _[Placeholder: Full details of each key actor above will be in the science pages – in the managemnt pages could make the actors names (e.g. ‘water company’) in the figure clickable so some text can come up for each if possible?]_
 
 _[Placeholder: Summary / key findings and/or link to Drought Primer here?]_
-
