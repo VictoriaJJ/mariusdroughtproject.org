@@ -9,8 +9,8 @@ Management of water resources, droughts and water scarcity in the UK is undergoi
 
 A risk-based approach enables the development of management measures whose costs and impacts are in proportion to the probability and consequences of water scarcity, informed by a mature understanding of droughts from the perspectives of a range of communities and stakeholders. Improved understanding of associated uncertainties provides the basis for identification of management responses that are robust to uncertainty, reflect society’s attitude to risk, and help to make the case for adaptive management approaches informed by targeted data acquisition.
 
-_[Note: Aim of this page is to focus on synthesising and highlighting some of the key cross cutting results from analysing a portfolio of management options - select a sub-set of results from project to illustrate this.
-This differs to the interactive drought impact and management dashboard page which will let the user play around with these scenarios and look at how changing different options/criteria could affect a wide range of impacts and overall risk, presenting all the results visually]._
+_[Note: Aim of this page is to focus on highlighting some of the results from analysing a portfolio of management options - How management options could modify risk, acceptability of options, interactions and trade-offs.
+This differs to the interactive drought impact and management dashboard page which will let the user play around with management options and look at how changing different options/criteria could affect a wide range of impacts and overall risk, presenting all the results visually and together]._
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>drought event</b></label>
