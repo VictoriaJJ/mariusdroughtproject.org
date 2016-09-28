@@ -49,6 +49,7 @@ The ecological analysis is influential in demonstrating the complexity of ecolog
 
 <script src='{{ site.baseurl }}/assets/js/pie_chart.js' type='text/javascript'> </script>
 
+_[Placeholder - add tree composition chart and map showing change in composition of tree species for climate scenario by grid or catchment]._
 
 * [Water Quality]({{ site.management_url }}/drought_impacts/water_quality/)
 * [Agriculture]({{ site.management_url }}/drought_impacts/agriculture/)
