@@ -42,5 +42,5 @@ _*[Placeholder for key findings]_
 	</div>
 </div>
 
-
+<script src='{{ site.baseurl }}/assets/js/pie_chart.js' type='text/javascript'> </script>
 *[WRSM]: Water resources simulation models
