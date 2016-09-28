@@ -2,26 +2,24 @@
 layout: management
 published: true
 permalink: /dashboard/management/drought_impacts/ecology/
-
 subsection: Drought Impacts
 _title: Ecology
 ---
 
 Droughts and water scarcity jointly pose a substantial threat to the environment, agriculture, infrastructure, society and culture in the UK, yet our ability to characterise and predict their occurrence, duration and intensity, as well as minimise their impacts, is often inadequate.
 
-In MaRIUS we developed new methodologies and models for analysis of the impacts of water scarcity on ecosystems, society and various economic activities including agriculture, industry and household consumers. By supporting the analysis of a full range of impacts in a common framework MaRIUS provides multi-attribute characterisation of drought impacts and evidence to evaluate trade-offs between different impacts. [Click on the below categories to see further information on the analysis and impacts of water scarcity]
-
-///
-
-Water is fundamental for the functioning of all ecosystems, but they may display different responses depending on their ecological characteristics and the severity and duration of water shortages. In MaRIUS ecological models were refined and combined for improved assessment of the impacts of drought on aquatic and wetland habitats and their species. These impacts were also linked to ecosystem function and services, and potential effectiveness of ecosystem management and conservation explored.
-
-*The analysis highlighted the implications of drought for fish, macro-invertebrates and macrophytes.  Maps of spatial patterns of risk for river-fed wetlands in the Thames Basin indicated that xxxx, for the near (2030s) and far (2080s) future…. The climate suitability of species xx and xx in the Thames Basin….These impacts were greatest under management scenario x, and reduced under management scenario xx whereby….*
+In MaRIUS we developed new methodologies and models for analysis of the impacts of water scarcity on ecosystems, society and various economic activities including agriculture, industry and household consumers. By supporting the analysis of a full range of impacts in a common framework MaRIUS provides multi-attribute characterisation of drought impacts and evidence to evaluate trade-offs between different impacts.
 
 
-* [Water Quality]({{ site.management_url }}/drought_impacts/water_quality/)
-* [Agriculture]({{ site.management_url }}/drought_impacts/agriculture/)
-* [Economy]({{ site.management_url }}/drought_impacts/economy/)
+Water is fundamental for the functioning of all **ecosystems**, but they may display different responses depending on their ecological characteristics and the severity and duration of water shortages. In MaRIUS **ecological models** were refined and combined for improved assessment of the impacts of drought on aquatic and wetland habitats and their species. These impacts were also linked to ecosystem function and services, and potential effectiveness of ecosystem management and conservation explored. 
 
+_[Placeholder for key results:
+1. All ecosystems will respond to drought, but will vary in the magnitude of the impact and their ability to recover.
+2. Terrestrial (woodlands) – different mortality responses of species and change of mortality composition
+3. River flows are reduced by droughts, making conditions unsuitable for many species. River habitats can be fragmented preventing normal species movements required for feeding, predictor predator avoidance and reproduction. River ecosystems can recover from drought. The time taken depends on the species and much depends on the severity and duration of the drought.
+]_
+
+The ecological analysis is influential in demonstrating the complexity of ecological response to drought.
 
 <div class="large-6 medium-3 columns">
 	<label>Select a <b>drought event</b></label>
@@ -50,3 +48,8 @@ Water is fundamental for the functioning of all ecosystems, but they may display
 </div>
 
 <script src='{{ site.baseurl }}/assets/js/pie_chart.js' type='text/javascript'> </script>
+
+
+* [Water Quality]({{ site.management_url }}/drought_impacts/water_quality/)
+* [Agriculture]({{ site.management_url }}/drought_impacts/agriculture/)
+* [Economy]({{ site.management_url }}/drought_impacts/economy/)
