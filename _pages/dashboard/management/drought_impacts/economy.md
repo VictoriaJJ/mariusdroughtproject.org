@@ -126,7 +126,7 @@ initGraph('sgnb_chart1', 'scenario');
 
 <script src='{{ site.baseurl }}/assets/js/multi_line_chart.js' type='text/javascript'> </script>
 
-[Placeholder: Animation of UK map with location of ~20 key power plants, and showing their availability through time during an example drought event – e.g. green marker = 100% available; yellow marker = reduced operation; red marker = shutdown. Simultaneously, on the side a growing bar chart of economic costs growing…].
+_[Placeholder: Suggested animation of UK map with location of ~20 key power plants, and showing their availability through time during an example drought event – e.g. green marker = 100% available; yellow marker = reduced operation; red marker = shutdown. Simultaneously, on the side a growing bar chart of economic costs growing…]._
 
 * [Water Quality](drought_impacts_wq)
 * [Ecology](drought_impacts_ecology)
