@@ -10,8 +10,8 @@ However, a study of historical events alone does not provide sufficiently divers
 
 *The results highlights that: Placeholder for key statements e.g...*
 
-1. The frequency and intensity of droughts experienced in the past is likely to change e.g. a drought with similar intensity to 2010-2012 may occur x times more frequently in the future, or drought intensity likely to increase by x%....
-2. Drought conditions unprecedented in the recent past may be experienced in the future e.g. a drought x times more intense and x months longer in duration than the 1975-1976 event could occur…
+_1. The frequency and intensity of droughts experienced in the past is likely to change e.g. a drought with similar intensity to 2010-2012 may occur x times more frequently in the future, or drought intensity likely to increase by x%....
+2. Drought conditions unprecedented in the recent past may be experienced in the future e.g. a drought x times more intense and x months longer in duration than the 1975-1976 event could occur…_
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>time period</b></label>
@@ -72,7 +72,7 @@ However, a study of historical events alone does not provide sufficiently divers
 
 <div class="large-6 medium-6 columns">
 	<div id='sgnb_chart1' style='width:100%'>
-		Change in **frequency** of drought events
+		Change in **intensity** of drought events
 		<svg style='height:300px' />
 	</div>
 
