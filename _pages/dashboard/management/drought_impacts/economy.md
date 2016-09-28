@@ -115,7 +115,16 @@ function exampleData(var_name) {
 initGraph('sgnb_chart1', 'scenario');
 </script>   
 
-Example timeseries of one drought event showing the availability of electricity capacity changing through time.
+<div class="large-6 medium-6 columns">
+
+<div id='mlc_chart1' style='width:100%'>
+		Availability of electricity capacity changing through time
+		<svg style='height:300px'></svg>
+	</div>
+
+</div>
+
+<script src='{{ site.baseurl }}/assets/js/multi_line_chart.js' type='text/javascript'> </script>
 
 [Placeholder: Animation of UK map with location of ~20 key power plants, and showing their availability through time during an example drought event – e.g. green marker = 100% available; yellow marker = reduced operation; red marker = shutdown. Simultaneously, on the side a growing bar chart of economic costs growing…].
 
