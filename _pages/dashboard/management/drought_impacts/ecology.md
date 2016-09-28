@@ -17,7 +17,7 @@ _[Placeholder for key results:
 1. All ecosystems will respond to drought, but will vary in the magnitude of the impact and their ability to recover.
 2. Terrestrial (woodlands) – different mortality responses of species and change of mortality composition
 3. River flows are reduced by droughts, making conditions unsuitable for many species. River habitats can be fragmented preventing normal species movements required for feeding, predictor predator avoidance and reproduction. River ecosystems can recover from drought. The time taken depends on the species and much depends on the severity and duration of the drought.
-]_
+4. River fed/Rain fed wetlands...]_
 
 
 
@@ -49,7 +49,7 @@ _[Placeholder for key results:
 
 <script src='{{ site.baseurl }}/assets/js/pie_chart.js' type='text/javascript'> </script>
 
-_[Placeholder - add tree composition chart and map showing change in composition of tree species for climate scenario by grid or catchment]._   
+_[Placeholder - Tree composition chart and map showing change in composition of tree species for climate scenario by grid or catchment]._   
 
 
 
