@@ -114,7 +114,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "science"
+          value: "management"
       - name: "published"
         field:
           element: "checkbox"
@@ -126,7 +126,7 @@ prose:
           element: "text"
           label: "Permalink"
           help: "1) Replace 'PAGE_NAME' with the name of the page, 2) the link should start AND end with a forward slash (/)"
-          value: "/dashboard/science/PAGE_NAME/"
+          value: "/dashboard/management/PAGE_NAME/"
       - name: "subsection"
         field:
           element: "text"
