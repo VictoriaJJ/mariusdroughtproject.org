@@ -1,16 +1,16 @@
 callback([
   {
-    "text": "Base URL (e.g. /mariusdroughtproject.org)",
+    "text": "Base URL",
     "href": "{{ site.baseurl }}/"
   },
 
   {
-    "text": "Science dashboard",
+    "text": "Science dashboard page",
     "href": "{{ site.science_url }}/"
   },
 
   {
-    "text": "Management dashboard",
+    "text": "Management dashboard page",
     "href": "{{ site.management_url }}/"
   }
 
