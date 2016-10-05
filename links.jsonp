@@ -5,6 +5,11 @@ callback([
   },
 
   {
+    "text": "Assets URL",
+    "href": "{{ site.assets_url }}/"
+  },
+
+  {
     "text": "Science dashboard page",
     "href": "{{ site.science_url }}/"
   },
