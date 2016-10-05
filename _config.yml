@@ -47,6 +47,7 @@ prose:
     - /_site
     - /_layouts
     - /_plugins
+    - /assets
   metadata:
     _pages:
       - name: "layout"
