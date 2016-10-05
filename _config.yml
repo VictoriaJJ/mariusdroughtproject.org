@@ -40,10 +40,10 @@ prose:
     - Gemfile
     - Gemfile.lock
     - README.md
-    - *.yml
-    - *.json
-    - *.jsonp
-    - *.txt
+    - _config.yml
+    - links.jsonp
+    - favicon.ico
+    - robots.txt
     - /_site
     - /_layouts
     - /_plugins
