@@ -22,6 +22,7 @@ markdown: kramdown
 baseurl: /mariusdroughtproject.org
 
 # ------------------------------------------------------------------------------
+assets_url: /mariusdroughtproject.org/assets
 science_url: /mariusdroughtproject.org/dashboard/science
 management_url: /mariusdroughtproject.org/dashboard/management
 
@@ -32,14 +33,17 @@ management_url: /mariusdroughtproject.org/dashboard/management
 prose:
   #rooturl: ''
   #siteurl: "https://5j4.github.io/mariusdroughtproject.org/"
-  # relativeLinks: "http://prose.github.io/starter/links.jsonp"
+  relativeLinks: "http://5j4.github.io/mariusdroughtproject.org/links.jsonp"
   media: 'assets/img'
   ignore:
     - .gitignore
     - Gemfile
     - Gemfile.lock
     - README.md
-    - _config.yml
+    - *.yml
+    - *.json
+    - *.jsonp
+    - *.txt
     - /_site
     - /_layouts
     - /_plugins
