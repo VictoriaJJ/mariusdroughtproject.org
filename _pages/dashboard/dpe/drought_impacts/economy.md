@@ -3,7 +3,7 @@ layout: dpe
 published: true
 permalink: /dashboard/dpe/drought_impacts/economy/
 subsection: Drought Impacts
-_title: Economy
+_title: drought impacts on the economy
 ---
 
 Droughts and water scarcity jointly pose a substantial threat to the environment, agriculture, infrastructure, society and culture in the UK, yet our ability to characterise and predict their occurrence, duration and intensity, as well as minimise their impacts, is often inadequate.
