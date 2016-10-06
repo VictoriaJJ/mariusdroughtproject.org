@@ -1,5 +1,5 @@
 ---
-layout: management
+layout: dpe
 published: true
 permalink: /dashboard/dpe/water_use_scarcity/
 _title: Water Use and Scarcity

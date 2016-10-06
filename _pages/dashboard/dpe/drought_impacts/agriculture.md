@@ -1,5 +1,5 @@
 ---
-layout: management
+layout: dpe
 published: true
 permalink: /dashboard/dpe/drought_impacts/agriculture/
 subsection: Drought Impacts

@@ -1,5 +1,5 @@
 ---
-layout: management
+layout: dpe
 published: true
 permalink: /dashboard/dpe/admo/
 _title: Analysing drought management options

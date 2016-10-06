@@ -1,5 +1,5 @@
 ---
-layout: management
+layout: dpe
 published: true
 permalink: /dashboard/dpe/hydrological_response/
 _title: Hydrological Response

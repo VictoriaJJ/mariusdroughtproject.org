@@ -1,26 +1,22 @@
 ---
-layout: management
+layout: dpe
 published: true
-permalink: /dashboard/dpe/drought_events_past_future/
-_title: 'Droughts: past and future'
+permalink: /dashboard/dpe/what_are_droughts/
+_title: What are droughts?
 ---
 
-Over the past 40 years there has been a number of droughts in England. The most recent notable droughts were 1975-1976, 1989-1992, 1995-1996, 2004-2006 and 2010-2012. Over-abstraction to meet the needs of growing populations, agricultural and industrial use, and the effects of climate change are causing multiple challenges in many water-stressed regions, and these are likely to increase in the future.
-However, a study of historical events alone does not provide sufficiently diverse and extreme conditions to study the full range of possible drought conditions and impacts that may occur in the future. As such, MaRIUS has developed an extensive ‘event set’ covering the past, present day and future drought conditions.
+Droughts are natural events which occur when a period of low rainfall creates a shortage of water. Each drought is different, with the nature, timing and impacts varying according to location and which sectors are affected such as public water supply, agriculture, the environment or industry. 
 
-*The results highlights that: Placeholder for key statements e.g...*
+Drought events can also be defined based on the duration of the rainfall deficit and the particular impacts that evolve over time. The Environment Agency identify three main types of drought which may occur separately or together: **Environmental Drought**, where a shortage of rainfall has a detrimental impact on the environment. For example, reduced river flows, exceptionally low groundwater levels and insufficient moisture within soils. **Agricultural Drought**, where there isn’t enough rainfall and moisture in soils to support crop production or farming practices such as spray irrigation. **Water Supply Drought**, where a shortage of rainfall causes water companies concern about supplies for their customers. 
 
-_1. The frequency and intensity of droughts experienced in the past is likely to change e.g. a drought with similar intensity to 2010-2012 may occur x times more frequently in the future, or drought intensity likely to increase by x%....
-2. Drought conditions unprecedented in the recent past may be experienced in the future e.g. a drought x times more intense and x months longer in duration than the 1975-1976 event could occur…_
+## Identifying drought events
+
+Drought indices can incorprate various climate and hydrological data within a single indicator that can be used for analysing trends and relaying information to stakeholders, policy makers and the public in a clear format. The drought index value is often presented as a single number, which can be far easier to understand and use than raw data. In MaRIUS we used the Standardized Precipitation Evapotranspiration Index **(SPEI)** to determine drought. This reflects changes in rainfall and increased temperatures on water demand through the inclusion of potential evapotranspiration (PET).
+
+The SPEI can be calculated for different time periods so that the dynamics of different types of drought (environmental, agricultural, or water supply drought) can be assessed. Drought onset, severity, and duration are categorised based on the SPEI values, with negative values below a set threshold used to determine drought.
 
 <div class="large-6 medium-6 columns">
-	<label>Select a <b>time period</b></label>
-	<input type="radio" name="time_period" value="time_period_present" id="time_period_present"><label for="time_period_present">Present</label>
-	<input type="radio" name="time_period" value="time_period_2030s" id="time_period_2030s"><label for="time_period_2030s">2030s</label>
-	<input type="radio" name="time_period" value="time_period_2080s" id="time_period_2080s"><label for="time_period_2080s">2080s</label>
-	<input type="radio" name="time_period" value="time_period_all" id="time_period_all"><label for="time_period_all">All</label>
-
-	<label>Select an <b>SPEI time period</b></label>
+	<label><b>Select an SPEI time period</b></label>
 	<input type="radio" name="spei" value="spei3" id="spei3"><label for="spei3">SPEI 3</label>
 	<input type="radio" name="spei" value="spei6" id="spei6"><label for="spei6">SPEI 6</label>
 	<input type="radio" name="spei" value="spei12" id="spei12"><label for="spei12">SPEI 12</label>
@@ -31,6 +27,12 @@ _1. The frequency and intensity of droughts experienced in the past is likely to
 	<input id="checkbox2" type="checkbox"><label for="checkbox2">SPEI 6</label>
 	<input id="checkbox3" type="checkbox"><label for="checkbox3">SPEI 12</label>
 	<input id="checkbox4" type="checkbox"><label for="checkbox4">SPEI 24</label>
+
+	<label>Select a <b>time period</b></label>
+	<input type="radio" name="time_period" value="time_period_present" id="time_period_present"><label for="time_period_present">Present</label>
+	<input type="radio" name="time_period" value="time_period_2030s" id="time_period_2030s"><label for="time_period_2030s">2030s</label>
+	<input type="radio" name="time_period" value="time_period_2080s" id="time_period_2080s"><label for="time_period_2080s">2080s</label>
+	<input type="radio" name="time_period" value="time_period_all" id="time_period_all"><label for="time_period_all">All</label>
 
 	<label>Select a <b>drought event</b></label>
 	<input type="radio" name="drought_event" value="drought_event_01" id="drought_event_01"><label for="drought_event_01">01</label>
@@ -71,89 +73,34 @@ _1. The frequency and intensity of droughts experienced in the past is likely to
 </div>
 
 <div class="large-6 medium-6 columns">
-	<div id='sgnb_chart1' style='width:100%'>
-		Change in **intensity** of drought events
+    <div id='chart1' style='width:100%'>
 		<svg style='height:300px' />
 	</div>
 
-	<div id='sgnb_chart2' style='width:100%'>
-		Change in **frequency** of drought events
+	<!-- <div id='chart2' style='width:100%'>
+		<svg style='height:300px' />
+	</div> -->
+
+	<!-- <div id='chart3' style='width:100%'>
+		<svg style='height:300px' />
+	</div> -->
+
+	<div id='chart4' style='width:100%'>
 		<svg style='height:300px' />
 	</div>
+
+	<!-- <div id='chart5' style='width:100%'>
+		<svg style='height:300px' />
+	</div> -->
 </div>
 
-<!-- <script src='{{ site.baseurl }}/assets/js/stacked_area.js' type='text/javascript'> </script> -->
+<script src='{{ site.baseurl }}/assets/js/stacked_area.js' type='text/javascript'> </script>
 <script src='{{ site.baseurl }}/assets/libs/js/stream_layers.js' type='text/javascript'> </script>
-<!--<script src='{{ site.baseurl }}/assets/js/stacked_grouped_nbar_chart.js' type='text/javascript'> </script>-->
+<script src='{{ site.baseurl }}/assets/js/stacked_grouped_nbar_chart.js' type='text/javascript'> </script>
 
-<script>
-// nv.addGraph(function() {
-// var sgnb_chart1 = nv.models.multiBarChart()
-//   .transitionDuration(350)
-//   .reduceXTicks(true)   //If 'false', every single x-axis tick label will be rendered.
-//   .rotateLabels(0)      //Angle to rotate x-axis labels.
-//   .showControls(true)   //Allow user to switch between 'Grouped' and 'Stacked' mode.
-//   .groupSpacing(0.1)    //Distance between each group of bars.
-// ;
-
-// sgnb_chart1.xAxis
-//     .tickFormat(d3.format(',f'));
-
-// sgnb_chart1.yAxis
-//     .tickFormat(d3.format(',.1f'));
-
-// d3.select('#sgnb_chart1 svg')
-//     .datum(exampleData('Intensity'))
-//     .call(sgnb_chart1);
-
-// nv.utils.windowResize(sgnb_chart1.update);
-
-// return sgnb_chart2;
-// });
+[Placeholder - Video graphic to click and run - See how the SPEI changes over time for the UK]
 
 
-function initGraph(chart_id, var_name){
-	nv.addGraph(function() {
-	var chart_name = chart_id + '_chart';
-	var chart_name = nv.models.multiBarChart()
-	  .transitionDuration(350)
-	  .reduceXTicks(true)   //If 'false', every single x-axis tick label will be rendered.
-	  .rotateLabels(0)      //Angle to rotate x-axis labels.
-	  .showControls(true)   //Allow user to switch between 'Grouped' and 'Stacked' mode.
-	  .groupSpacing(0.1)    //Distance between each group of bars.
-	;
+*[MaRIUS]:  Managing the Risks, Impacts and Uncertainties of drought and water Scarcity
 
-	chart_name.xAxis
-	    .tickFormat(d3.format(',f'));
-
-	chart_name.yAxis
-	    .tickFormat(d3.format(',.1f'));
-
-	d3.select('#' + chart_id + ' svg')
-	    .datum(exampleData(var_name))
-	    .call(chart_name);
-
-	nv.utils.windowResize(chart_name.update);
-
-	return chart_name;
-	});
-};
-
-
-//Generate some nice data.
-function exampleData(var_name) {
-  // return stream_layers(3,10+Math.random()*10,.1).map(function(data, i) {
-  return stream_layers(4,5,.1).map(function(data, i) {
-    return {
-      // key: [1,2,3],
-      key:  var_name + i,
-      values: data
-    };
-  });
-}
-
-initGraph('sgnb_chart1', 'Intensity');
-initGraph('sgnb_chart2', 'Frequency');
-</script>
-
-*[MaRIUS]: Expand MaRIUS
+*[PET]: Maximum quantity of water capable of being evaporated in a given climate, by a continuous expanse of vegetation covering the whole ground and well supplied with water. It includes evaporation from the soil and transpiration from the vegetation.

@@ -1,5 +1,5 @@
 ---
-layout: management
+layout: dpe
 published: true
 permalink: /dashboard/dpe/future_challenges/
 _title: Future challenges
