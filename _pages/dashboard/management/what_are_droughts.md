@@ -2,7 +2,7 @@
 layout: management
 published: true
 permalink: /dashboard/management/what_are_droughts/
-_title: What are Droughts?
+_title: What are droughts?
 ---
 
 Droughts are natural events which occur when a period of low rainfall creates a shortage of water. Each drought is different, with the nature, timing and impacts varying according to location and which sectors are affected such as public water supply, agriculture, the environment or industry. 
