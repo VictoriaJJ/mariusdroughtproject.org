@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/dpe/drought_impacts/river_flow
+permalink: /dashboard/dpe/drought_impacts/river_flow/
 _title: Impacts of drought on river flow
 ---
 The Environment Agency monitor droughts using various indicators or drought triggers. Triggers can be based on hydrological thresholds such as river levels and flows, reservoir storage and groundwater levels. Understanding the hydrological response to rainfall deficit is essential for drought risk assessment, management and water resource planning.
@@ -42,4 +42,3 @@ The hydrological indicators are used within the [ecological](https://5j4.github.
 </div>
 
 <script src='{{ site.baseurl }}/assets/js/multi_line_chart.js' type='text/javascript'> </script>
-
