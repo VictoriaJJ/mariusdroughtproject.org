@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/hydrological_response/
+permalink: /dashboard/dpe/hydrological_response/
 _title: Hydrological Response
 ---
 
@@ -15,7 +15,7 @@ The models can provide estimates of catchment and national-scale soil-moisture, 
 
 *For example, results from the improved models highlight that…*
 
-The hydrological indicators are used within the [ecological](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/drought_impacts/ecology/ "Ecological impact page"), [agricultural](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/drought_impacts/agriculture/ "Agricultural impact page"), and [economic](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/drought_impacts/economy/ "Economic impact page") models for impact assessment.
+The hydrological indicators are used within the [ecological](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/ecology/ "Ecological impact page"), [agricultural](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/agriculture/ "Agricultural impact page"), and [economic](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/economy/ "Economic impact page") models for impact assessment.
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>drought event</b></label>

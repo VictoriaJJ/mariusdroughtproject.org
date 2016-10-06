@@ -24,7 +24,7 @@ baseurl: /mariusdroughtproject.org
 # ------------------------------------------------------------------------------
 assets_url: /mariusdroughtproject.org/assets
 science_url: /mariusdroughtproject.org/dashboard/science
-management_url: /mariusdroughtproject.org/dashboard/management
+management_url: /mariusdroughtproject.org/dashboard/dpe
 
 # ------------------------------------------------------------------------------
 # prose.io config
@@ -115,7 +115,7 @@ prose:
           element: "text"
           label: "Subtitle"
           value: ""
-    _pages/dashboard/management:
+    _pages/dashboard/dpe:
       - name: "layout"
         field:
           element: "hidden"
@@ -131,7 +131,7 @@ prose:
           element: "text"
           label: "Permalink"
           help: "1) Replace 'PAGE_NAME' with the name of the page, 2) the link should start AND end with a forward slash (/)"
-          value: "/dashboard/management/PAGE_NAME/"
+          value: "/dashboard/dpe/PAGE_NAME/"
       - name: "subsection"
         field:
           element: "text"

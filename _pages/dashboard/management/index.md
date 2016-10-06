@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/
+permalink: /dashboard/dpe/
 _title: Management Dashboard
 ---
 Suggested to delete this page...

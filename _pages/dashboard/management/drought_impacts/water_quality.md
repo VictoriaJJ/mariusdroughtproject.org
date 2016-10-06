@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/drought_impacts/water_quality/
+permalink: /dashboard/dpe/drought_impacts/water_quality/
 subsection: Drought Impacts
 _title: Water Quality
 ---

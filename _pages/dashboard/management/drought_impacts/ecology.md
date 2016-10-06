@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/drought_impacts/ecology/
+permalink: /dashboard/dpe/drought_impacts/ecology/
 subsection: Drought Impacts
 _title: Ecology
 ---

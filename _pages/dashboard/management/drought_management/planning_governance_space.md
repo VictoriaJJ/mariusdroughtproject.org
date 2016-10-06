@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/drought_mgmt/dpgs/
+permalink: /dashboard/dpe/drought_mgmt/dpgs/
 subsection: Drought Management
 _title: Drought planning governance space
 ---

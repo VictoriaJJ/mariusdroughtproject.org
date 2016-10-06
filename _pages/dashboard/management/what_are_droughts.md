@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/what_are_droughts/
+permalink: /dashboard/dpe/what_are_droughts/
 _title: What are droughts?
 ---
 

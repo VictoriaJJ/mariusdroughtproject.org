@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/water_use_scarcity/
+permalink: /dashboard/dpe/water_use_scarcity/
 _title: Water Use and Scarcity
 ---
 

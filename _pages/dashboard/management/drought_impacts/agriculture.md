@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/drought_impacts/agriculture/
+permalink: /dashboard/dpe/drought_impacts/agriculture/
 subsection: Drought Impacts
 _title: Agriculture
 ---

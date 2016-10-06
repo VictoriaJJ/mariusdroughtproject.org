@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/drought_mgmt/options/
+permalink: /dashboard/dpe/drought_mgmt/options/
 subsection: Drought Management
 _title: Options
 ---
@@ -14,7 +14,7 @@ _[Placeholder: Add text and
 1. Overview (interactive visual) of the possible range of drought management options and highlight currently applied range of drought management options in UK.
 2. Focus on the main ‘sets’ of options to describe further.]_
 
-The range of drought management options selected will also be depend on the economic, environmental, and societal context, and specific drought impacts being managed. A range of management options have been modelled as part of MaRIUS. For example, different water resource management strategies related to the abstraction, allocation, and transfer of [water](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/water_use_scarcity/); water resource management strategies related to water demand and abstraction and effects on [hydrology](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/hydrological_response/), [water quality](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/drought_impacts/water_quality/), [ecology](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/drought_impacts/ecology/), and the [economy](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/drought_impacts/economy/) and effects of irrigation management strategies on [agriculture](https://5j4.github.io/mariusdroughtproject.org/dashboard/management/drought_impacts/agriculture/).
+The range of drought management options selected will also be depend on the economic, environmental, and societal context, and specific drought impacts being managed. A range of management options have been modelled as part of MaRIUS. For example, different water resource management strategies related to the abstraction, allocation, and transfer of [water](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/water_use_scarcity/); water resource management strategies related to water demand and abstraction and effects on [hydrology](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/hydrological_response/), [water quality](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/water_quality/), [ecology](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/ecology/), and the [economy](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/economy/) and effects of irrigation management strategies on [agriculture](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/agriculture/).
 
 
 *[drought plans, drought orders and permits]: Define in pop-up

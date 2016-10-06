@@ -19,8 +19,7 @@ noindex: true
     {% endif %}
 
     <title>{{ page._title }}</title>
-
-    <!-- <link rel="shortcut icon" href="/media/img/favicon.ico"> -->
+    
     <!-- <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico"> -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -44,10 +43,10 @@ noindex: true
 
   <header class="expanded row">
     <div class="row">
-      <div class="large-6 medium-3 columns">
-          <h1>MaRIUS - {{ layout.section | capitalize }}</h1> 
+      <div class="large-12 columns">
+      {{ page.dashboard }}
+          <h1>MaRIUS - {% if layout.dashboard_title %}{{ layout.dashboard_title }}{% else %}{{ layout.section | capitalize }}{% endif %}</h1> 
       </div>
-      <div class="large-6 medium-3 columns"></div>
     </div>
   </header>
   

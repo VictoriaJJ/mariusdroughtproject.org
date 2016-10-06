@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/drought_impacts/economy/
+permalink: /dashboard/dpe/drought_impacts/economy/
 subsection: Drought Impacts
 _title: Economy
 ---

@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/drought_events_past_future/
+permalink: /dashboard/dpe/drought_events_past_future/
 _title: 'Droughts: past and future'
 ---
 

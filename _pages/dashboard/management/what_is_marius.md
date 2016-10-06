@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/management/what_is_marius/
+permalink: /dashboard/dpe/what_is_marius/
 
 _title: The MaRIUS Project
 ---
