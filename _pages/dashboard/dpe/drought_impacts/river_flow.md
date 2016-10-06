@@ -1,5 +1,5 @@
 ---
-layout: dpe
+layout: management
 published: true
 permalink: /dashboard/dpe/drought_impacts/river_flow/
 _title: Impacts of drought on river flow
