@@ -11,7 +11,7 @@ Drought events can also be defined based on the duration of the rainfall deficit
 
 ## Identifying drought events
 
-Drought indices assimilate climate and hydrological parameters into a single indicator that can be used for analysing trends and relaying information to stakeholders, policy makers and the public in a clear format. In MaRIUS we have used the Standardized Precipitation Evapotranspiration Index **(SPEI)** to determine drought. This reflects changes in rainfall and increased temperatures through the inclusion of potential evapotranspiration (PET).
+Drought indices can incorprate various climate and hydrological data within a single indicator that can be used for analysing trends and relaying information to stakeholders, policy makers and the public in a clear format. The drought index value is often presented as a single number, which can be far easier to understand and use than raw data. In MaRIUS we used the Standardized Precipitation Evapotranspiration Index **(SPEI)** to determine drought. This reflects changes in rainfall and increased temperatures on water demand through the inclusion of potential evapotranspiration (PET).
 
 The SPEI can be calculated for different time periods so that the dynamics of different types of drought (environmental, agricultural, or water supply drought) can be assessed. Drought onset, severity, and duration are categorised based on the SPEI values, with negative values below a set threshold used to determine drought.
 
@@ -101,5 +101,6 @@ The SPEI can be calculated for different time periods so that the dynamics of di
 [Placeholder - Video graphic to click and run - See how the SPEI changes over time for the UK]
 
 
-*[MaRIUS]: Expand MaRIUS
-*[SPEI]: Standardized Precipitation Evapotranspiration Index
+*[MaRIUS]:  Managing the Risks, Impacts and Uncertainties of drought and water Scarcity
+
+*[PET]: Maximum quantity of water capable of being evaporated in a given climate, by a continuous expanse of vegetation covering the whole ground and well supplied with water. It includes evaporation from the soil and transpiration from the vegetation.
