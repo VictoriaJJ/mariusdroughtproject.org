@@ -16,7 +16,7 @@ callback([
 
   {
     "text": "Management dashboard page",
-    "href": "{{ site.management_url }}/"
+    "href": "{{ site.dpe_url }}/"
   }
 
 ])

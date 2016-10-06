@@ -55,6 +55,6 @@ _[Placeholder - Tree composition chart and map showing change in composition of 
 
 
 
-* [Water Quality]({{ site.management_url }}/drought_impacts/water_quality/)
-* [Agriculture]({{ site.management_url }}/drought_impacts/agriculture/)
-* [Economy]({{ site.management_url }}/drought_impacts/economy/)
+* [Water Quality]({{ site.dpe_url }}/drought_impacts/water_quality/)
+* [Agriculture]({{ site.dpe_url }}/drought_impacts/agriculture/)
+* [Economy]({{ site.dpe_url }}/drought_impacts/economy/)

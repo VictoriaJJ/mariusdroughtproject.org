@@ -24,7 +24,7 @@ baseurl: /mariusdroughtproject.org
 # ------------------------------------------------------------------------------
 assets_url: /mariusdroughtproject.org/assets
 science_url: /mariusdroughtproject.org/dashboard/science
-management_url: /mariusdroughtproject.org/dashboard/dpe
+dpe_url: /mariusdroughtproject.org/dashboard/dpe
 
 # ------------------------------------------------------------------------------
 # prose.io config
