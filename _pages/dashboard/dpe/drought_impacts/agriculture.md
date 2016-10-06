@@ -1,9 +1,9 @@
 ---
 layout: dpe
 published: true
-permalink: /dashboard/dpe/drought_impacts/agriculture/
+permalink: /dashboard/dpe/drought_impacts/farming/
 subsection: Drought Impacts
-_title: Agriculture
+_title: Impacts of drought on Farming
 ---
 
 Droughts and water scarcity jointly pose a substantial threat to the environment, agriculture, infrastructure, society and culture in the UK, yet our ability to characterise and predict their occurrence, duration and intensity, as well as minimise their impacts, is often inadequate.
