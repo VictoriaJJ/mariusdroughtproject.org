@@ -5,7 +5,7 @@ permalink: /dashboard/science/drought_impacts_management/agriculture/
 subsection: Drought Impacts Management
 _title: Agriculture
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis repellendus animi ducimus assumenda placeat autem quos ullam ipsam dicta sint voluptatem odio, omnis, adipisci a, ipsum dolorum voluptatibus earum tenetur.
+Rainfed and irrigated agriculture is one of the most sensitive UK sectors to drought and water scarcity. Past drought events, such as 1975-76 and 2010-12, have led to significant impacts arising from reduced production, reduced product quality and animal welfare concerns.
 
 * Irrigated agriculture (irrigated)
 * Rainfed agriculture (rainfed)
