@@ -42,6 +42,6 @@ Extensive data sets have been obtained on water quality and ecology for the Tham
 
 * Paul Whitehead (paul.whitehead@ouce.ox.ac.uk)
 * Gianbattista Bussi
-* Alex Elliot
+* Alex Elliott
 * Mike Bowes
 * Dan Reader
