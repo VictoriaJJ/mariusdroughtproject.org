@@ -1,10 +1,10 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_management/water_resources/mncns/
+permalink: /dashboard/science/drought_impacts_management/water_resources/tbm/
 
 subsection: Drought Impacts Management > Water Resources
-_title: Modelling - Nested catchment and national scale
+_title: Thames basin modelling
 ---
 
 ## Key science findings
