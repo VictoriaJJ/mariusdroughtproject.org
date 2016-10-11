@@ -3,7 +3,9 @@ layout: science
 published: true
 permalink: /dashboard/science/drought_impacts_management/water_quality/ndocs/
 subsection: Drought Impacts Management > Water Quality
-_title: 'Water quality – Nitrogen, Dissolved organic carbon and Sediment'
+_title: >-
+  Water quality – Nitrogen, Phosphorus, Chlorophyll, Phytoplanton, Dissolved
+  organic carbon and Sediment
 ---
 ## Key science findings or outputs
 
