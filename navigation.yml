@@ -1,0 +1,14 @@
+- title: Science Dashboard
+  url: /
+
+- title: Drought Climatology
+  url: /drought_climatology/
+  subpages:
+    - title: Drought datasets
+      url: /drought_climatology/baseline_drought_event_set/
+    - title: Future drought risk
+      url: /drought_climatology/future_drought_event_set/
+    - title: Large-scale drivers of UK drought
+      url: /drought_climatology/drivers_of_drought/
+    - title: Sensitivity to ocean warming patterns
+      url: /drought_climatology/sensitivity/
