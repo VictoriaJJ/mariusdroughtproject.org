@@ -1,4 +1,4 @@
-/* management.css */
+/*science.css*/
 
 @import url('main.css');
 
@@ -7,6 +7,6 @@ header {
     /*margin: 10px 0;*/
     margin-bottom: 20px;
     border-bottom: solid 1px #ccc;
-    background-color: #FF7F00;
+    background-color: #0583F2;
     color: #fff;
 }
