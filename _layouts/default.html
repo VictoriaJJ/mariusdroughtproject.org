@@ -59,6 +59,9 @@ noindex: true
     {% else %}
     	{% include nav_default.html %}
     {% endif %}
+
+    {% include nav_demo.html %}
+
     </div>
 
     <div class="large-9 medium-9 columns content">
@@ -100,6 +103,8 @@ noindex: true
 <script src="{{ site.baseurl }}/assets/libs/js/foundation-6.2.3-custom.min.js"></script>
 <script src="{{ site.baseurl }}/assets/libs/js/app_foundation-6.2.3-custom.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/main.js"></script> <!-- app -->
+
+<script>$("li.active").parents("li").toggleClass("active");</script>
 
 {% if layout.section %}
   <!-- style for section: {{ layout.section }} -->

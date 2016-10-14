@@ -155,3 +155,11 @@ hr {
 .checkboxes label span {
   vertical-align: middle;
 }
+
+.site-nav {
+    list-style-type: none;
+}
+
+.site-nav li .active {
+    font-weight: bold;
+}
