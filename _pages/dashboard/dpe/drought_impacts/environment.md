@@ -46,11 +46,3 @@ _[Placeholder for key results:
 <script src='{{ site.baseurl }}/assets/js/pie_chart.js' type='text/javascript'> </script>
 
 _[Placeholder - Tree composition chart and map showing change in composition of tree species for climate scenario by grid or catchment]._   
-
-
-
-
-
-* [Water Quality]({{ site.dpe_url }}/drought_impacts/water_quality/)
-* [Agriculture]({{ site.dpe_url }}/drought_impacts/agriculture/)
-* [Economy]({{ site.dpe_url }}/drought_impacts/economy/)
