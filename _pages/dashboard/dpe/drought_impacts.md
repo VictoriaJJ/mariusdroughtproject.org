@@ -11,9 +11,14 @@ In MaRIUS we developed new methodologies and models for analysis of the impacts 
 
 Click on the below categories to see further information on the analysis and impacts of drought on:
 
-**River Flow
+River Flow
+
 Water quality
+
 People
+
 farming
+
 the economy
-the environment**
+
+the environment
