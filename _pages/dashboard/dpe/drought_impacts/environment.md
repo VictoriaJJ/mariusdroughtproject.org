@@ -6,12 +6,9 @@ subsection: Drought Impacts
 _title: Impacts of drought on the environment
 ---
 
-Droughts and water scarcity jointly pose a substantial threat to the environment, agriculture, infrastructure, society and culture in the UK, yet our ability to characterise and predict their occurrence, duration and intensity, as well as minimise their impacts, is often inadequate.
+Water is fundamental for the functioning of all **ecosystems**, but they may display different responses depending on their ecological characteristics and the severity and duration of water shortages. In MaRIUS **ecological models** were refined and combined for improved assessment of the impacts of drought on aquatic and wetland habitats and their species. Research findings are influential in demonstrating the complexity of ecological response to drought. Impacts were also linked to ecosystem function, and potential effectiveness of ecosystem management and conservation explored.
 
-In MaRIUS we developed new methodologies and models for analysis of the impacts of water scarcity on ecosystems, society and various economic activities including agriculture, industry and household consumers. By supporting the analysis of a full range of impacts in a common framework MaRIUS provides multi-attribute characterisation of drought impacts and evidence to evaluate trade-offs between different impacts.
-
-
-Water is fundamental for the functioning of all **ecosystems**, but they may display different responses depending on their ecological characteristics and the severity and duration of water shortages. In MaRIUS **ecological models** were refined and combined for improved assessment of the impacts of drought on aquatic and wetland habitats and their species. Research findings are influential in demonstrating the complexity of ecological response to drought. Impacts were also linked to ecosystem function and services, and potential effectiveness of ecosystem management and conservation explored.
+Add:Graphic for where different habitats occur
 
 _[Placeholder for key results:
 1. All ecosystems will respond to drought, but will vary in the magnitude of the impact and their ability to recover.
@@ -30,16 +27,15 @@ _[Placeholder for key results:
 
 	<label>Select an <b>spatial scale</b></label>
 	<input type="radio" name="spatial_scale" value="spatial_scale_thames" id="spatial_scale_thames"><label for="spatial_scale_thames">Thames</label>
-	<input type="radio" name="spatial_scale" value="spatial_scale_severn" id="spatial_scale_severn"><label for="spatial_scale_severn">Severn</label>
 	<input type="radio" name="spatial_scale" value="spatial_scale_england" id="spatial_scale_england"><label for="spatial_scale_england">England</label>
-
-	<label>Select an <b>impact</b></label>
-	<input type="radio" name="impact" value="impact_water_quality" id="impact_water_quality"><label for="impact_water_quality">Water quality</label>
-	<input type="radio" name="impact" value="impact_ecology" id="impact_ecology"><label for="impact_ecology">Ecology</label>
-	<input type="radio" name="impact" value="impact_agriculture" id="impact_groundwater"><label for="impact_groundwater">Agriculture</label>
-	<input type="radio" name="impact" value="impact_economy" id="impact_economy"><label for="impact_economy">Economy</label>
-</div>
-
+	<input type="radio" name="spatial_scale" value="spatial_scale_england" id="spatial_scale_england"><label for="spatial_scale_england">Great Britain</label>
+    
+    	<label>Select a <b>Habitat/Species</b></label>
+	<input type="radio" name="Habitat/Species" value="Habitat/Species_A" id="Habitat/Species_A"><label for="drought_event_01">A</label>
+	<input type="radio" name="Habitat/Species" value="Habitat/Species_B" id="Habitat/Species_B"><label for="drought_event_02">B</label>
+	<input type="radio" name="Habitat/Species" value="Habitat/Species_C" id="Habitat/Species_C"><label for="drought_event_03">C</label>
+	<input type="radio" name="Habitat/Species" value="Habitat/Species_D" id="Habitat/Species_D"><label for="drought_event_04">D</label>
+    
 <div class="large-6 medium-6 columns">
 	<ol>
 		<li>Horizontal bar (100%)</li>
