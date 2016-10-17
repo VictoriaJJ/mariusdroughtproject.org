@@ -6,12 +6,16 @@ _title: Planning for the long term
 subsection: Drought Management
 ---
 
-Management of water resources, droughts and water scarcity in the UK is undergoing significant changes. The work of MaRIUS has enabled the management of droughts and water scarcity to be explored following a risk-based approach, incorporating analysis of the full range of drought impacts for people and the environment, and a systemic understanding of their interactions and uncertainties.
+Drought management is a problem of minimising negative impacts, given uncertain information about past, present and future conditions. This is dependent on how impacts and risks of droughts and water scarcity are understood, managed by key stakeholders, and shaped by institutions, regulation and markets.
 
-A risk-based approach enables the development of management measures whose costs and impacts are in proportion to the probability and consequences of water scarcity, informed by a mature understanding of droughts from the perspectives of a range of communities and stakeholders. Improved understanding of associated uncertainties provides the basis for identification of management responses that are robust to uncertainty, reflect society’s attitude to risk, and help to make the case for adaptive management approaches informed by targeted data acquisition.
+Droughts occur at multiple spatial scales and evolve over timescales that make them distinctive compared to other ‘natural’ hazards. The impacts of water scarcity on the environment, society and the economy are complex, reflecting meteorological and hydrological conditions as well as human choices and trade-offs between competing claims for water. At a broad scale drought plans, drought orders and permits, as well as more general powers for environmental regulators to limit the abstraction of water from ground and surface water bodies are key regulatory tools for preventing and managing drought.
 
-_[Note: Aim of this page is to focus on highlighting some of the results from analysing a portfolio of management options - How management options could modify risk, acceptability of options, interactions and trade-offs.
-This differs to the interactive drought impact and management dashboard page which will let the user play around with management options and look at how changing different options/criteria could affect a wide range of impacts and overall risk, presenting all the results visually and together]._
+_[Placeholder: Add text and
+1. Overview (interactive visual) of the possible range of drought management options and highlight currently applied range of drought management options in UK.
+2. Focus on the main ‘sets’ of options to describe further.]_
+
+*[drought plans, drought orders and permits]: Define in pop-up
+
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>drought event</b></label>
