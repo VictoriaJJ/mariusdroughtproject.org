@@ -8,16 +8,18 @@ The Environment Agency monitor droughts using various indicators or drought trig
 
 Hydrological models represent the land surface, rivers, vegetation and sub-surface water. In particular, they are used to estimate flows and groundwater levels at abstraction points, river and wetland water levels for aquatic ecology, soil moisture for ecological and agricultural impacts assessment, as well as providing the basis for water quality assessment. 
 
-*For example, results from the MaRIUS models highlight that... focus on changes in river flows*
+*Updated text to be sent*
+Results to include:
+1. Maps for different regions and temporal scales
+2. Drought Risk
 
 The hydrological indicators are used within the [ecological](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/ecology/ "Ecological impact page"), [agricultural](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/agriculture/ "Agricultural impact page"), and [economic](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/economy/ "Economic impact page") models for impact assessment.
 
 <div class="large-6 medium-6 columns">
-	<label>Select a <b>drought event</b></label>
-	<input type="radio" name="drought_event" value="drought_event_01" id="drought_event_01"><label for="drought_event_01">01</label>
-	<input type="radio" name="drought_event" value="drought_event_02" id="drought_event_02"><label for="drought_event_02">02</label>
-	<input type="radio" name="drought_event" value="drought_event_03" id="drought_event_03"><label for="drought_event_03">03</label>
-	<input type="radio" name="drought_event" value="drought_event_04" id="drought_event_04"><label for="drought_event_04">04</label>
+	<label>Select a <b>temporal scale</b></label>
+	<input type="radio" name="drought_event" value="drought_event_01" id="drought_event_01"><label for="drought_event_01">current</label>
+	<input type="radio" name="drought_event" value="drought_event_02" id="drought_event_02"><label for="drought_event_02">near future</label>
+	<input type="radio" name="drought_event" value="drought_event_03" id="drought_event_03"><label for="drought_event_03">far future</label>
 
 	<label>Select an <b>spatial scale</b></label>
 	<input type="radio" name="spatial_scale" value="spatial_scale_thames" id="spatial_scale_thames"><label for="spatial_scale_thames">Thames</label>
@@ -32,13 +34,3 @@ The hydrological indicators are used within the [ecological](https://5j4.github.
 	<input type="radio" name="impact" value="Soil moisture" id="Soil moisture"><label for="Soil moisture">Soil moisture</label>
 </div>
 
-<div class="large-6 medium-6 columns">
-
-<div id='mlc_chart1' style='width:100%'>
-		Hydrological indicators
-		<svg style='height:300px'></svg>
-	</div>
-
-</div>
-
-<script src='{{ site.baseurl }}/assets/js/multi_line_chart.js' type='text/javascript'> </script>
