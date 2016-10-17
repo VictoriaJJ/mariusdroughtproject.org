@@ -3,19 +3,15 @@ layout: dpe
 published: true
 permalink: /dashboard/dpe/drought_impacts/economy/
 subsection: Drought Impacts
-_title: drought impacts on the economy
+_title: Impacts of drought on the economy
 ---
-
-Droughts and water scarcity jointly pose a substantial threat to the environment, agriculture, infrastructure, society and culture in the UK, yet our ability to characterise and predict their occurrence, duration and intensity, as well as minimise their impacts, is often inadequate.
-
-In MaRIUS we developed new methodologies and models for analysis of the impacts of water scarcity on ecosystems, society and various economic activities including agriculture, industry and household consumers. By supporting the analysis of a full range of impacts in a common framework MaRIUS provides multi-attribute characterisation of drought impacts and evidence to evaluate trade-offs between different impacts.
-
 **Economic** impacts of drought can be large and far-ranging. In MaRIUS a new analytical framework was developed, to capture all the factors that contribute to, or mitigate against, the economic costs or impacts of a drought (including policy-making, planning and management actions). Using an economic model, the direct and indirect losses of drought on domestic and commercial water consumers and major industrial abstractors were quantified. In particular, there was a focus on **electricity** generation as approximately one third of the UK’s electricity supply depends on freshwater, for the cooling of coal, gas and biomass thermal power plants. These power plants need a reliable water supply and operate under strict environmental controls to minimise ecological impacts.
 
 _[Placeholder for results: 
 1. The analysis highlighted that economic risk of drought at the Thames/UK level will increase by xx% for the near (2030s) and far (2080s) future.
 2. Indirect costs accounted for xx% of losses highlighting…
-3. Low flows and warm water temperatures mean some power plants may need to reduce or shut down operations. A drought could potentially impact on several plants simultaneously, resulting in the need to use more expensive electricity supply options, thus pushing up electricity supply prices.]_
+3. Low flows and warm water temperatures mean some power plants may need to reduce or shut down operations. A drought could potentially impact on several plants simultaneously, resulting in the need to use more expensive electricity supply options, thus pushing up electricity supply prices.
+4. Ultimately will show different impacts associated with management options to be shown graphically]_
 
 
 <div class="large-6 medium-6 columns">
