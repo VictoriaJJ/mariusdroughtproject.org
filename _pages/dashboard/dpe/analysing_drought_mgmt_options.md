@@ -3,6 +3,7 @@ layout: dpe
 published: true
 permalink: /dashboard/dpe/admo/
 _title: Planning for the long term
+subsection: Drought Management
 ---
 
 Management of water resources, droughts and water scarcity in the UK is undergoing significant changes. The work of MaRIUS has enabled the management of droughts and water scarcity to be explored following a risk-based approach, incorporating analysis of the full range of drought impacts for people and the environment, and a systemic understanding of their interactions and uncertainties.
