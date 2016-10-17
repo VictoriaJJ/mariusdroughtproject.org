@@ -3,7 +3,7 @@ layout: dpe
 published: true
 permalink: /dashboard/dpe/drought_mgmt/dpgs/
 subsection: Drought Management
-_title: Drought planning governance space
+_title: Managing Droughts
 ---
 
 The current legal regime in the UK involves a range of statutory provisions, regulations as well as non-binding soft law, which provide significant discretion for key actors to decide which demand and supply options are chosen to manage the impact of water scarcity. How key decision-makers exercise this discretion depends also on what evidence is available about drought impacts and options.
