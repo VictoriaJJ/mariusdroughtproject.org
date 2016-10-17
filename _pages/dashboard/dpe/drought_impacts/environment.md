@@ -35,14 +35,6 @@ _[Placeholder for key results:
 	<input type="radio" name="Habitat/Species" value="Habitat/Species_B" id="Habitat/Species_B"><label for="drought_event_02">B</label>
 	<input type="radio" name="Habitat/Species" value="Habitat/Species_C" id="Habitat/Species_C"><label for="drought_event_03">C</label>
 	<input type="radio" name="Habitat/Species" value="Habitat/Species_D" id="Habitat/Species_D"><label for="drought_event_04">D</label>
-    
-<div class="large-6 medium-6 columns">
-	<ol>
-		<li>Horizontal bar (100%)</li>
-		<li>Spatial distribution map</li>
-	</ol>
-</div>
 
-<script src='{{ site.baseurl }}/assets/js/pie_chart.js' type='text/javascript'> </script>
 
 _[Placeholder - Tree composition chart and map showing change in composition of tree species for climate scenario by grid or catchment]._   
