@@ -9,9 +9,9 @@ Over the past 40 years there has been a number of droughts in England. The most 
 
 However, a study of historical events alone does not provide sufficiently diverse and extreme conditions to study the full range of possible drought conditions and impacts that may occur in the future. As such, MaRIUS has developed an extensive ‘event set’ covering the past, present day and future drought conditions.
 
-Results to be added here:
-__1. Displayed on the right are the SPEI timeseries and associated maps for the UK showing the most extreme droughts identified in the event set (1%-ile 36 month over all UK) for the baseline, near and far future.
-2. Compare to data for the 1975-1976 event to put baseline and future droughts in the context of 1976.
+_Results to be added here:
+1. Displayed on the right are the SPEI timeseries and associated maps for the UK showing the most extreme droughts identified in the event set (1%-ile 36 month over all UK) for the baseline, near and far future.
+2. Compare to data for the 1975-1976 event to put baseline and future droughts in the context of 1976._
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>time period</b></label>
