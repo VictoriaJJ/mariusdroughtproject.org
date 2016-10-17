@@ -52,13 +52,31 @@ noindex: true
   
   <div id="" class="expanded row">
 
-    <div class="large-3 medium-3 columns" id="side-nav">
+    <div class="large-3 medium-3 columns">
+
+    <ul class="site-nav">
+      <li>
+        <a href="{{ site.baseurl }}/" alt="home">MaRIUS Project</a>
+      </li>
+    </ul>
+
+    <hr>
+
     {% if layout.section %}
       <!-- nav for section: {{ layout.section }} -->
-    	{% include nav_{{ layout.section }}.html section=layout.section %}
+    	{% include navigation_{{ layout.section }}.html section=layout.section %}
     {% else %}
     	{% include nav_default.html %}
     {% endif %}
+
+    <hr>
+
+    <ul class="site-nav">
+      <li><a href="{{ site.baseurl }}/dashboard/"><b>Dashboards</b></a>
+      <li><a href="{{ site.dpe_url }}/what_are_droughts/">Summary (stakeholder > management > Droughts, People and the Environment) Dashboard</a>
+      <li><a href="{{ site.science_url }}/">Science Dashboard</a>
+    </ul>
+
     </div>
 
     <div class="large-9 medium-9 columns content">

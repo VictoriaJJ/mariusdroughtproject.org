@@ -1,7 +1,8 @@
 ---
 layout: dpe
 published: true
-permalink: /dashboard/dpe/drought_mgmt/dpgs/
+permalink: /dashboard/dpe/drought_management/dpgs/
+
 subsection: Drought Management
 _title: Managing Droughts
 ---

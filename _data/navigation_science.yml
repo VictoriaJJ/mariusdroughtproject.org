@@ -1,0 +1,99 @@
+- title: Drought Climatology
+  url: /dashboard/science/drought_climatology/
+  subpages:
+    - title: Drought datasets
+      url: /dashboard/science/drought_climatology/baseline_drought_event_set/
+    - title: Future drought risk
+      url: /dashboard/science/drought_climatology/future_drought_event_set/
+    - title: Large-scale drivers of UK drought
+      url: /dashboard/science/drought_climatology/drivers_of_drought/
+    - title: Sensitivity to ocean warming patterns
+      url: /dashboard/science/drought_climatology/sensitivity/
+
+- title: Hydrology
+  url: /dashboard/science/drought_impacts_management/hydrology/
+  subpages:
+    - title: National scale hydrological modelling of droughts
+      url: /dashboard/science/drought_impacts_management/hydrology/nshmd/
+    - title: Integrating drought hydrology to the national scale
+      url: /dashboard/science/drought_impacts_management/hydrology/idhns/
+    - title: Identifying and improving process representation for low flows
+      url: /dashboard/science/drought_impacts_management/hydrology/iirplf/
+
+- title: Water Resources
+  url: /dashboard/science/drought_impacts_management/water_resources/
+  subpages:
+    - title: Thames basin modelling
+      url: /dashboard/science/drought_impacts_management/water_resources/mncns/
+    - title: National-scale water modelling
+      url: /dashboard/science/drought_impacts_management/water_resources/national_scale/
+
+- title: Water Quality
+  url: /dashboard/science/drought_impacts_management/water_quality/
+  subpages:
+    - title: Overview
+      url: /dashboard/science/drought_impacts_management/water_quality/ndocs/
+    - title: Thames water quality data
+      url: /dashboard/science/drought_impacts_management/water_quality/rtwqd/
+    - title: Drought impacts on water quality - River Thames
+      url: /dashboard/science/drought_impacts_management/water_quality/diwqrt/
+    - title: River Thames Reservoir Phytoplankton water quality
+      url: /dashboard/science/drought_impacts_management/water_quality/abr/
+    - title: National scale water quality
+      url: /dashboard/science/drought_impacts_management/water_quality/nswq/
+    - title: River response and recovery
+      url: /dashboard/science/drought_impacts_management/water_quality/rrr/
+
+- title: Agriculture
+  url: /dashboard/science/drought_impacts_management/agriculture/
+  subpages:
+    - title: Irrigated agriculture
+      url: /dashboard/science/drought_impacts_management/agriculture/irrigated/
+    - title: Rainfed agriculture
+      url: /dashboard/science/drought_impacts_management/agriculture/rainfed/
+    - title: UK land use
+      url: /dashboard/science/drought_impacts_management/agriculture/uklu/
+
+- title: Ecology
+  url: /dashboard/science/drought_impacts_management/ecology/
+  subpages:
+    - title: Response and recovery of river ecosystems to drought
+      url: /dashboard/science/drought_impacts_management/ecology/rivers/
+    - title: Response and recovery of wetland ecosystems to drought
+      url: /dashboard/science/drought_impacts_management/ecology/wetlands/
+    - title: Species envelope modelling
+      url: /dashboard/science/drought_impacts_management/ecology/sem/
+    - title: Vulnerability of tree species
+      url: /dashboard/science/drought_impacts_management/ecology/vts/
+
+- title: Economy &amp; Industry
+  url: /dashboard/science/drought_impacts_management/economy_and_industry/
+  subpages:
+    - title: Economic risk of droughts
+      url: /dashboard/science/drought_impacts_management/economy_and_industry/erd/
+    - title: Electricity supply disruption
+      url: /dashboard/science/drought_impacts_management/economy_and_industry/esd/
+    - title: Economic impacts of drought on the electricity sector
+      url: /dashboard/science/drought_impacts_management/economy_and_industry/eides/
+
+- title: Knowledges
+  url: /dashboard/science/drought_impacts_management/knowledges/
+
+- title: Drought and Society
+  url: /dashboard/science/drought_impacts_management/das/
+  subpages:
+    - title: Governance
+      url: /dashboard/science/drought_impacts_management/das/gov/
+      subpages:
+        - title: Mapping the drought planning governance space
+          url: /dashboard/science/drought_impacts_management/das/gov/mdpgs/
+        - title: Drought planning governance space
+          url: /dashboard/science/drought_impacts_management/das/gov/dpgs/
+    - title: Human Geography
+      url: /dashboard/science/drought_impacts_management/das/hg/
+      subpages:
+        - title: Drought governance options
+          url: /dashboard/science/drought_impacts_management/das/hg/dgo/
+        - title: Drought mangement scenarios
+          url: /dashboard/science/drought_impacts_management/das/hg/dgs/
+ 

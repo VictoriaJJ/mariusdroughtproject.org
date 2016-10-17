@@ -1,0 +1,22 @@
+- title: Our work
+  url: /our_work/
+
+- title: Objectives
+  url: /objectives/
+
+- title: Outputs
+  url: /outputs/
+  subpages:
+    - title: Symposia
+      url: /outputs/symposia/
+    - title: Podcasts
+      url: /outputs/podcasts/
+    - title: Working Papers
+      url: /outputs/working_papers/
+    - title: Models and Datasets
+      url: /outputs/models_and_datasets/
+    - title: Publications
+      url: /outputs/publications/
+
+- title: Afilliated Projects
+  url: /affiliated_projects/
