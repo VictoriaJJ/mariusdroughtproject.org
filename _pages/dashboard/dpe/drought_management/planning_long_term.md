@@ -1,7 +1,7 @@
 ---
 layout: management
 published: true
-permalink: /dashboard/dpe/planning_long_term/
+permalink: /dashboard/dpe/drought_management/planning_long_term/
 subsection: drought_management
 _title: Planning for the long term
 ---
