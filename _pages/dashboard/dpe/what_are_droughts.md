@@ -9,8 +9,7 @@ Droughts are natural events which occur when a period of low rainfall creates a 
 
 Drought events can also be defined based on the duration of the rainfall deficit and the particular impacts that evolve over time. The Environment Agency identify three main types of drought which may occur separately or together:
 
-![Drought definitions.png]({{site.baseurl}}/assets/img/Drought definitions.png)
-
+![]({{site.baseurl}}/assets/img/Drought%20definitions.png)
 
 ## Identifying drought events
 
