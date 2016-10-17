@@ -14,7 +14,10 @@ _*[Placeholder for text outlining key results at different spatial scales e.g.:
 1. Risk of cyanobacteria bloom in reservoir 
 2. Response of water chemistry to drought/climate variability - Thames
 3. Response of phytoplankton to drought/climate variability - Thames
-4. Response of water chemistry to droughts/climate - National]_
+4. Response of water chemistry to droughts/climate - National]
+5. National scale maps of wter quality
+6. Time series for N, P and Ph
+7. Include video links to podcasts made by Catherina, ECG videos_
 
 _[Response surface maps? - tbc]_
 
