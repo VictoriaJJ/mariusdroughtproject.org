@@ -1,0 +1,38 @@
+- title: What are droughts?
+  url: /dashboard/dpe/what_are_droughts/
+
+- title: Droughts - past and future
+  url: /dashboard/dpe/drought_events_past_future/
+
+- title: Water use &amp; scarcity
+  url: /dashboard/dpe/water_use_scarcity/
+
+- title: Impacts of drought
+  url: /dashboard/dpe/drought_impacts/
+  subpages:
+    - title: on river flow
+      url: /dashboard/dpe/drought_impacts/river_flow/
+    - title: on water quality
+      url: /dashboard/dpe/drought_impacts/water_quality/
+    - title: on farming
+      url: /dashboard/dpe/drought_impacts/farming/
+    - title: on the economy
+      url: /dashboard/dpe/drought_impacts/economy/
+    - title: on the environment
+      url: /dashboard/dpe/drought_impacts/environment/
+    - title: on people
+      url: /dashboard/dpe/drought_impacts/people/
+
+- title: Drought management
+  url: /dashboard/dpe/drought_mgmt/
+  subpages:
+    - title: Drought management options
+      url: /dashboard/dpe/drought_mgmt/options/
+    - title: Drought planning governance space
+      url: /dashboard/dpe/drought_mgmt/dpgs/
+
+- title: Analysing drought management options
+  url: /dashboard/dpe/admo/
+
+- title: Future challenges
+  url: /dashboard/dpe/future_challenges/

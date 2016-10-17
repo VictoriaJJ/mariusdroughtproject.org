@@ -1,9 +1,9 @@
 ---
 layout: science
 published: true
-permalink: /dashboard/science/drought_impacts_management/governance/dpgs/
+permalink: /dashboard/science/drought_impacts_management/das/gov/dpgs/
 
-subsection: Drought Impacts Management > Governance
+subsection: Drought and Society > Governance
 _title: Drought planning governance space
 ---
 * [Water Companies](#water_companies)

@@ -156,7 +156,12 @@ hr {
   vertical-align: middle;
 }
 
+
 .site-nav {
+    list-style-type: none;
+}
+
+.site-nav li {
     list-style-type: none;
 }
 
