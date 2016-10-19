@@ -44,9 +44,4 @@ _[Response surface maps? - tbc]_
 
 <script src='{{ site.baseurl }}/assets/js/line_plus_bar_chart.js' type='text/javascript'> </script>
 
-
-* [Ecology](drought_impacts_ecology)
-* [Agriculture](drought_impacts_agriculture)
-* [Economy](drought_impacts_economy)
-
 *[biogeochemical processes]: Define in pop-up
