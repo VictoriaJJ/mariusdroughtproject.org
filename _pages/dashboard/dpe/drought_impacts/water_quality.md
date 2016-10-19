@@ -38,7 +38,6 @@ _[Response surface maps? - tbc]_
 <div class="large-6 medium-6 columns">
 
 	<div id='chart' width="100%">
-		Example: Phosphorous and Chlorophyll Concentrations
 		<svg style='height:300px'></svg>
 	</div>
 
