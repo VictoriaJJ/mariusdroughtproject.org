@@ -44,4 +44,4 @@ _[Response surface maps? - tbc]_
 
 <script src='{{ site.baseurl }}/assets/js/line_plus_bar_chart.js' type='text/javascript'> </script>
 
-*[biogeochemical processes]: Define in pop-up
+_*[biogeochemical processes]: Define in pop-up_
