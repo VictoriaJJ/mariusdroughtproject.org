@@ -15,11 +15,11 @@ _Placeholder key results: 1. River flows are reduced by droughts, making conditi
 
 **Woodlands** are very important for biodiversity, carbon storage, water regulation and watershed protection. Recent literature has reported drought-induced mortality and dieback of forests in different regions across the world. In Great Britain, the potential impacts of drought on tree species and woodlands are not well understood. In Marius, therefore, we have analysed the temporal and spatial patterns of the potential impacts of and vulnerability to drought for important British forest species. Results highlighted that:
 
-•	Droughts can alter the processes that govern terrestrial ecosystems, leading to changes in their species composition, structure and functioning, their interactions and benefits they provide to people. 
-•	Ecosystems in the south and east of England and Wales are more likely to be altered by climate change than those elsewhere in Great Britain.
-•	In woodlands, beech and oak appear to be more susceptible drought than other tree species. 
+- Droughts can alter the processes that govern terrestrial ecosystems, leading to changes in their species composition, structure and functioning, their interactions and benefits they provide to people. 
+- Ecosystems in the south and east of England and Wales are more likely to be altered by climate change than those elsewhere in Great Britain.
+- In woodlands, beech and oak appear to be more susceptible drought than other tree species.
 
-Add:Graphic for where different habitats occur
+Add:1. Graphic for where different habitats occur. 2.Tree composition chart and map showing change in composition of tree species for climate scenario by grid or catchment.
 
 Overall, it is concluded that all ecosystems will respond to drought, but will vary in the magnitude of the impact and their ability to recover.
 
@@ -40,6 +40,3 @@ Overall, it is concluded that all ecosystems will respond to drought, but will v
 	<input type="radio" name="Habitat/Species" value="Habitat/Species_B" id="Habitat/Species_B"><label for="drought_event_02">B</label>
 	<input type="radio" name="Habitat/Species" value="Habitat/Species_C" id="Habitat/Species_C"><label for="drought_event_03">C</label>
 	<input type="radio" name="Habitat/Species" value="Habitat/Species_D" id="Habitat/Species_D"><label for="drought_event_04">D</label>
-
-
-_[Placeholder - Tree composition chart and map showing change in composition of tree species for climate scenario by grid or catchment]._
