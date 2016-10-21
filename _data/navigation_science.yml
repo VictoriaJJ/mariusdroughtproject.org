@@ -24,8 +24,8 @@
   url: /dashboard/science/drought_impacts_management/water_resources/
   subpages:
     - title: Thames basin modelling
-      url: /dashboard/science/drought_impacts_management/water_resources/mncns/
-    - title: National-scale water modelling
+      url: /dashboard/science/drought_impacts_management/water_resources/thames/
+    - title: National-scale
       url: /dashboard/science/drought_impacts_management/water_resources/national_scale/
 
 - title: Water Quality
@@ -96,4 +96,3 @@
           url: /dashboard/science/drought_impacts_management/das/hg/dgo/
         - title: Drought mangement scenarios
           url: /dashboard/science/drought_impacts_management/das/hg/dgs/
- 
