@@ -17,6 +17,6 @@
   url: /dashboard/science/drought_impacts_management/water_resources/
   subpages:
     - title: Thames basin modelling
-      url: /dashboard/science/drought_impacts_management/water_resources/tbm/
-    - title: National-scale water modelling
+      url: /dashboard/science/drought_impacts_management/water_resources/thames/
+    - title: National-scale
       url: /dashboard/science/drought_impacts_management/water_resources/national_scale/
