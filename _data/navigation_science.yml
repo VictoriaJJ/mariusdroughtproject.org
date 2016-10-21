@@ -91,10 +91,16 @@
           url: /dashboard/science/drought_impacts_management/das/gov/mdpgs/
         - title: Drought planning governance space
           url: /dashboard/science/drought_impacts_management/das/gov/dpgs/
+        - title: Drought governance options
+          url: /dashboard/science/drought_impacts_management/das/gov/dgo/
+        - title: Drought mangement scenarios
+          url: /dashboard/science/drought_impacts_management/das/gov/dgs/
     - title: Knowledge
       url: /dashboard/science/drought_impacts_management/das/hg/
       subpages:
-        - title: Drought governance options
-          url: /dashboard/science/drought_impacts_management/das/hg/dgo/
-        - title: Drought mangement scenarios
-          url: /dashboard/science/drought_impacts_management/das/hg/dgs/
+        - title: Mapping drought knowledge
+          url: /dashboard/science/drought_impacts_management/das/k/mdk/
+        - title: Environmental competency group
+          url: /dashboard/science/drought_impacts_management/das/k/ecg/
+        - title: Community modelling
+          url: /dashboard/science/drought_impacts_management/das/k/cm/
