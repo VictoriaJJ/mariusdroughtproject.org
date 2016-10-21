@@ -23,6 +23,8 @@
 - title: Water Resources
   url: /dashboard/science/drought_impacts_management/water_resources/
   subpages:
+    - title: WATHNET
+      url: /dashboard/science/drought_impacts_management/water_resources/wathnet/
     - title: Thames basin modelling
       url: /dashboard/science/drought_impacts_management/water_resources/thames/
     - title: National-scale
