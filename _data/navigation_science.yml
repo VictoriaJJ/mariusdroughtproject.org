@@ -1,14 +1,14 @@
-- title: Drought Climatology
+- title: Meteorological Drought
   url: /dashboard/science/drought_climatology/
   subpages:
-    - title: Drought datasets
-      url: /dashboard/science/drought_climatology/baseline_drought_event_set/
-    - title: Future drought risk
-      url: /dashboard/science/drought_climatology/future_drought_event_set/
+    - title: 20th Century
+      url: /dashboard/science/drought_climatology/20c/
+    - title: 21st Century
+      url: /dashboard/science/drought_climatology/21c/
     - title: Large-scale drivers of UK drought
       url: /dashboard/science/drought_climatology/drivers_of_drought/
-    - title: Sensitivity to ocean warming patterns
-      url: /dashboard/science/drought_climatology/sensitivity/
+    - title: Drought datasets
+      url: /dashboard/science/drought_climatology/dd/
 
 - title: Hydrology
   url: /dashboard/science/drought_impacts_management/hydrology/
@@ -23,9 +23,11 @@
 - title: Water Resources
   url: /dashboard/science/drought_impacts_management/water_resources/
   subpages:
+    - title: WATHNET
+      url: /dashboard/science/drought_impacts_management/water_resources/wathnet/
     - title: Thames basin modelling
-      url: /dashboard/science/drought_impacts_management/water_resources/mncns/
-    - title: National-scale water modelling
+      url: /dashboard/science/drought_impacts_management/water_resources/thames/
+    - title: National resources
       url: /dashboard/science/drought_impacts_management/water_resources/national_scale/
 
 - title: Water Quality
@@ -89,11 +91,16 @@
           url: /dashboard/science/drought_impacts_management/das/gov/mdpgs/
         - title: Drought planning governance space
           url: /dashboard/science/drought_impacts_management/das/gov/dpgs/
-    - title: Human Geography
+        - title: Drought governance options
+          url: /dashboard/science/drought_impacts_management/das/gov/dgo/
+        - title: Drought mangement scenarios
+          url: /dashboard/science/drought_impacts_management/das/gov/dgs/
+    - title: Knowledge
       url: /dashboard/science/drought_impacts_management/das/hg/
       subpages:
-        - title: Drought governance options
-          url: /dashboard/science/drought_impacts_management/das/hg/dgo/
-        - title: Drought mangement scenarios
-          url: /dashboard/science/drought_impacts_management/das/hg/dgs/
- 
+        - title: Mapping drought knowledge
+          url: /dashboard/science/drought_impacts_management/das/k/mdk/
+        - title: Environmental competency group
+          url: /dashboard/science/drought_impacts_management/das/k/ecg/
+        - title: Community modelling
+          url: /dashboard/science/drought_impacts_management/das/k/cm/
