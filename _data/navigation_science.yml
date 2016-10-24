@@ -8,7 +8,7 @@
     - title: Large-scale drivers of UK drought
       url: /dashboard/science/drought_climatology/drivers_of_drought/
     - title: Drought datasets
-      url: /dashboard/science/drought_climatology/sensitivity/
+      url: /dashboard/science/drought_climatology/dd/
 
 - title: Hydrology
   url: /dashboard/science/drought_impacts_management/hydrology/
