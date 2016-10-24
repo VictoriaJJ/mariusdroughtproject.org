@@ -4,16 +4,11 @@ published: true
 permalink: /dashboard/dpe/drought_impacts/river_flow/
 _title: Impacts of drought on river flow
 ---
-The Environment Agency monitor droughts using various indicators or drought triggers. Triggers can be based on hydrological thresholds such as river levels and flows, reservoir storage and groundwater levels. Understanding the hydrological response to rainfall deficit is essential for drought risk assessment, management and water resource planning.
+The Environment Agency and water companies monitor droughts using various indicators or drought triggers. Triggers can be based on hydrological thresholds such as river levels and flows, reservoir storage and groundwater levels. Understanding the hydrological response to rainfall deficit is essential for drought risk assessment, management and water resource planning.
 
-Hydrological models represent the land surface, rivers, vegetation and sub-surface water. In particular, they are used to estimate flows and groundwater levels at abstraction points, river and wetland water levels for aquatic ecology, soil moisture for ecological and agricultural impacts assessment, as well as providing the basis for water quality assessment. 
+Hydrological models represent the land surface, rivers, vegetation and sub-surface water. In particular, they are used to estimate river flows and soil moisture for ecological and agricultural impacts assessment, as well as providing the basis for a water quality assessment.
 
-*Updated text to be sent*
-Results to include:
-1. Maps for different regions and temporal scales
-2. Drought Risk
-
-The hydrological indicators are used within the [ecological](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/ecology/ "Ecological impact page"), [agricultural](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/agriculture/ "Agricultural impact page"), and [economic](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/economy/ "Economic impact page") models for impact assessment.
+Output from the hydrological models can be used within the ecological [https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/environment/](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/environment/), water resources, agricultural, and economic  models for impact assessment.
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>temporal scale</b></label>
@@ -33,4 +28,3 @@ The hydrological indicators are used within the [ecological](https://5j4.github.
 	<input type="radio" name="impact" value="Ground water" id="Ground water"><label for="Ground water">Ground water</label>
 	<input type="radio" name="impact" value="Soil moisture" id="Soil moisture"><label for="Soil moisture">Soil moisture</label>
 </div>
-
