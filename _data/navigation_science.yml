@@ -1,13 +1,13 @@
-- title: Drought Climatology
+- title: Meteorological Drought
   url: /dashboard/science/drought_climatology/
   subpages:
-    - title: Drought datasets
-      url: /dashboard/science/drought_climatology/baseline_drought_event_set/
-    - title: Future drought risk
-      url: /dashboard/science/drought_climatology/future_drought_event_set/
+    - title: 20th Century
+      url: /dashboard/science/drought_climatology/20c/
+    - title: 21st Century
+      url: /dashboard/science/drought_climatology/21c/
     - title: Large-scale drivers of UK drought
       url: /dashboard/science/drought_climatology/drivers_of_drought/
-    - title: Sensitivity to ocean warming patterns
+    - title: Drought datasets
       url: /dashboard/science/drought_climatology/sensitivity/
 
 - title: Hydrology
