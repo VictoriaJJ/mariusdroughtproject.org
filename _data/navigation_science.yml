@@ -71,8 +71,6 @@
   subpages:
     - title: Economic risk of droughts
       url: /dashboard/science/drought_impacts_management/economy_and_industry/erd/
-    - title: Electricity supply disruption
-      url: /dashboard/science/drought_impacts_management/economy_and_industry/esd/
     - title: Economic impacts of drought on the electricity sector
       url: /dashboard/science/drought_impacts_management/economy_and_industry/eides/
 
