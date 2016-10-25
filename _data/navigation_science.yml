@@ -13,11 +13,11 @@
 - title: Hydrology
   url: /dashboard/science/drought_impacts_management/hydrology/
   subpages:
-    - title: National scale hydrological modelling of droughts
+    - title: National scale modelling
       url: /dashboard/science/drought_impacts_management/hydrology/nshmd/
     - title: Integrating drought hydrology to the national scale
       url: /dashboard/science/drought_impacts_management/hydrology/idhns/
-    - title: Identifying and improving process representation for low flows
+    - title: Process representation for low flows
       url: /dashboard/science/drought_impacts_management/hydrology/iirplf/
 
 - title: Water Resources
@@ -37,7 +37,7 @@
       url: /dashboard/science/drought_impacts_management/water_quality/ndocs/
     - title: Thames water quality data
       url: /dashboard/science/drought_impacts_management/water_quality/rtwqd/
-    - title: Drought impacts on water quality - River Thames
+    - title: Impacts on water quality - River Thames
       url: /dashboard/science/drought_impacts_management/water_quality/diwqrt/
     - title: River Thames Reservoir Phytoplankton water quality
       url: /dashboard/science/drought_impacts_management/water_quality/abr/
