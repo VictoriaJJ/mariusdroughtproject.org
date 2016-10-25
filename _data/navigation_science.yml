@@ -57,13 +57,13 @@
 - title: Ecology
   url: /dashboard/science/drought_impacts_management/ecology/
   subpages:
-    - title: Response and recovery of river ecosystems to drought
+    - title: River ecosystems
       url: /dashboard/science/drought_impacts_management/ecology/rivers/
-    - title: Response and recovery of wetland ecosystems to drought
+    - title: Wetland ecosystems
       url: /dashboard/science/drought_impacts_management/ecology/wetlands/
     - title: Species envelope modelling
       url: /dashboard/science/drought_impacts_management/ecology/sem/
-    - title: Vulnerability of tree species
+    - title: Tree species
       url: /dashboard/science/drought_impacts_management/ecology/vts/
 
 - title: Economy &amp; Industry
