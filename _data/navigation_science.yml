@@ -43,8 +43,6 @@
       url: /dashboard/science/drought_impacts_management/water_quality/abr/
     - title: National scale water quality
       url: /dashboard/science/drought_impacts_management/water_quality/nswq/
-    - title: River response and recovery
-      url: /dashboard/science/drought_impacts_management/water_quality/rrr/
 
 - title: Agriculture
   url: /dashboard/science/drought_impacts_management/agriculture/
