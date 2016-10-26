@@ -12,12 +12,15 @@ However, a study of historical events alone does not provide sufficiently divers
 The event set has been used to provide a range of possible weather time series and assess projected changes in drought characteristics for different time-periods that:
 - could have occured in the past (‘Baseline’, 1900-2006)
 - might occur in the near future (‘Near Future’, 2020-2049)
-- might occur in the far future (‘Far Future’, 2070-2099) 
+- might occur in the far future (‘Far Future’, 2070-2099)
+
 
 COMING SOON!!
 - Projected change in drought characteristics for the baseline, near, far future.
 - SPEI timeseries and associated maps for the UK showing the most extreme droughts identified in the event set for the baseline, near and far future. 
 - How do the most extreme droughts identified compare to the 1975-1976 drought event?
+
+
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>time period</b></label>
