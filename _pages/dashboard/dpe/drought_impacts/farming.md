@@ -4,6 +4,9 @@ published: true
 permalink: /dashboard/dpe/drought_impacts/farming/
 subsection: Drought Impacts
 _title: Impacts of drought on farming
+related_links:
+  - name: Agriculture
+    url: /dashboard/science/drought_impacts_management/agriculture/
 ---
 
 Droughts and water scarcity affect rain-fed and irrigated **agricultural** systems across multiple timescales.  Effects on long term yield and profit variability influence farm business planning and investment, for example affecting crop and rotation selection and investment in infrastructure for irrigation. In MaRIUS critical thresholds of drought characteristics that trigger changes in long term farm-level planning were established. Farm modelling tools were used to simulate agricultural impacts and farmer responses, and analyse the impacts and trade-offs of different irrigation management strategies and decisions.
