@@ -10,15 +10,16 @@
     - title: on river flow
       url: /dashboard/dpe/drought_impacts/river_flow/
     - title: on water quality
-      url: /dashboard/dpe/drought_impacts/water_quality/
-    - title: on people
-      url: /dashboard/dpe/drought_impacts/people/
+      url: /dashboard/dpe/drought_impacts/water_quality/    
+    - title: on the environment
+      url: /dashboard/dpe/drought_impacts/environment/
     - title: on farming
       url: /dashboard/dpe/drought_impacts/farming/
     - title: on the economy
       url: /dashboard/dpe/drought_impacts/economy/
-    - title: on the environment
-      url: /dashboard/dpe/drought_impacts/environment/
+    - title: on people
+      url: /dashboard/dpe/drought_impacts/people/
+    
 
 - title: What to do about droughts?
   url: /dashboard/dpe/drought_management/
