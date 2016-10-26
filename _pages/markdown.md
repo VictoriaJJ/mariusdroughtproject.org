@@ -2,13 +2,17 @@
 layout: default
 published: true
 permalink: /markdown/
+
 related_links:
-    - name: 'related link 1'
-      url: 'http://www.geog.ox.ac.uk'
-    - name: 'related link 2'
-      url: '/'
-    - name: 'related link 3'
-      url: '/dashboard/science'
+  - 
+    name: "related link 1"
+    url: "http://www.geog.ox.ac.uk"
+  - 
+    name: "related link 2"
+    url: /
+  - 
+    name: "related link 3"
+    url: /dashboard/science
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere sapiente veniam delectus optio expedita vero aspernatur, quidem sed dicta quae, voluptatem cum. Asperiores aliquam necessitatibus labore nam voluptas, enim recusandae?
