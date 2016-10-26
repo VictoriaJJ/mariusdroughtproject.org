@@ -10,12 +10,14 @@ Over the past 40 years there has been a number of droughts in England. The most 
 However, a study of historical events alone does not provide sufficiently diverse and extreme conditions to study the full range of possible drought conditions and impacts that may occur in the future. As such, MaRIUS has developed an extensive ‘event set’ covering the past, present day and future drought conditions.
 
 The event set has been used to provide a range of possible weather time series and assess projected changes in drought characteristics for different time-periods that:
+
 - could have occured in the past (‘Baseline’, 1900-2006)
 - might occur in the near future (‘Near Future’, 2020-2049)
 - might occur in the far future (‘Far Future’, 2070-2099)
 
 
 COMING SOON!!
+
 - Projected change in drought characteristics for the baseline, near, far future.
 - SPEI timeseries and associated maps for the UK showing the most extreme droughts identified in the event set for the baseline, near and far future. 
 - How do the most extreme droughts identified compare to the 1975-1976 drought event?
