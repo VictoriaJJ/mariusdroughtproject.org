@@ -8,7 +8,9 @@ related_links:
   - name: related link 2
     url: /
   - name: related link 3
-    url: /dashboard/science
+    url: /dashboard/science/
+  - name: related link 4
+    url: /dashboard/dpe/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere sapiente veniam delectus optio expedita vero aspernatur, quidem sed dicta quae, voluptatem cum. Asperiores aliquam necessitatibus labore nam voluptas, enim recusandae?
