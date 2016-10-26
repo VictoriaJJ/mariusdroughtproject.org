@@ -11,7 +11,7 @@ For example, **woodlands** are very important for biodiversity, carbon storage, 
 
 - Droughts can alter the processes that govern terrestrial ecosystems, leading to changes in their species composition, structure and functioning, their interactions and benefits they provide to people. 
 - Ecosystems in the south and east of England and Wales are more likely to be altered by climate change than those elsewhere in Great Britain.
-- In woodlands, beech and oak appear to be more susceptible drought than other tree species.
+- In woodlands, beech and oak appear to be more susceptible to drought than other tree species.
 
 The map right highlights the percentage change in tree mortality of Beech and Oak across sub-catchments in the Thames Basin, in the near (2030s) and far future (2080s) relative to the baseline.
 
