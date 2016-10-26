@@ -84,7 +84,7 @@ prose:
           value: ""
       - name: "related_links"
         field:
-          field: "textarea"
+          element: "textarea"
           label: "Related links"
           value: ""
     _pages/dashboard/science:
@@ -122,7 +122,7 @@ prose:
           value: ""
       - name: "related_links"
         field:
-          field: "textarea"
+          element: "textarea"
           label: "Related links"
           value: ""
     _pages/dashboard/dpe:
@@ -160,6 +160,6 @@ prose:
           value: ""
       - name: "related_links"
         field:
-          field: "textarea"
+          element: "textarea"
           label: "Related links"
           value: ""
