@@ -9,16 +9,21 @@ Over the past 40 years there has been a number of droughts in England. The most 
 
 However, a study of historical events alone does not provide sufficiently diverse and extreme conditions to study the full range of possible drought conditions and impacts that may occur in the future. As such, MaRIUS has developed an extensive ‘event set’ covering the past, present day and future drought conditions.
 
-_Results to be added here [text, graphs/maps]:
-1. Projected change in drought characteristics, baseline, near, far future.
-2. SPEI timeseries and associated maps for the UK showing the most extreme droughts identified in the event set (1%-ile 36 month over all UK) for the baseline, near and far future.
-3. Compare to data for the 1975-1976 event to put baseline and future droughts in the context of 1976._
+The event set has been used to provide a range of possible weather time series and assess projected changes in drought characteristics for different time-periods that:
+- could have occured in the past (‘Baseline’, 1900-2006)
+- might occur in the near future (‘Near Future’, 2020-2049)
+- might occur in the far future (‘Far Future’, 2070-2099) 
+
+COMING SOON!!
+- Projected change in drought characteristics for the baseline, near, far future.
+- SPEI timeseries and associated maps for the UK showing the most extreme droughts identified in the event set for the baseline, near and far future. 
+- How do the most extreme droughts identified compare to the 1975-1976 drought event?
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>time period</b></label>
-	<input type="radio" name="time_period" value="time_period_present" id="time_period_present"><label for="time_period_present">Present</label>
-	<input type="radio" name="time_period" value="time_period_2030s" id="time_period_2030s"><label for="time_period_2030s">2030s</label>
-	<input type="radio" name="time_period" value="time_period_2080s" id="time_period_2080s"><label for="time_period_2080s">2080s</label>
+	<input type="radio" name="time_period" value="time_period_baseline" id="time_period_baseline"><label for="time_period_present">Present</label>
+	<input type="radio" name="time_period" value="time_period_near_future" id="time_period_near_future"><label for="time_period_2030s">2030s</label>
+	<input type="radio" name="time_period" value="time_period_far_future" id="time_period_far_future"><label for="time_period_2080s">2080s</label>
 	<input type="radio" name="time_period" value="time_period_all" id="time_period_all"><label for="time_period_all">All</label>
 
 	<label>Select an <b>SPEI time period</b></label>
@@ -157,4 +162,4 @@ initGraph('sgnb_chart1', 'Intensity');
 initGraph('sgnb_chart2', 'Frequency');
 </script>
 
-*[MaRIUS]: Expand MaRIUS
+*[MaRIUS]:  Managing the Risks, Impacts and Uncertainties of drought and water Scarcity
