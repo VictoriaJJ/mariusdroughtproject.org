@@ -11,6 +11,7 @@ Hydrological models represent the land surface, rivers, vegetation and sub-surfa
 Output from the hydrological models can be used within [environmental](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/environment/), [water resource management](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_management/water_supply_options/), [farming](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/farming/), and [economic](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/economy/) modelling for further analysis of impacts of drought and water scarcity.
 
 ![Monthly mean river flow for July 1976.png]({{site.baseurl}}/assets/img/Monthly mean river flow for July 1976.png)
+
 _Thames basin: Monthly mean river flow for July 1976 (G2G output)_
 
 <div class="large-6 medium-6 columns">
