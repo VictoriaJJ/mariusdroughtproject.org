@@ -4,16 +4,15 @@ published: true
 permalink: /dashboard/dpe/drought_impacts/economy/
 subsection: Drought Impacts
 _title: Impacts of drought on the economy
+related_links:
+  - name: Economy and Industry
+    url: /dashboard/science/drought_impacts_management/economy_and_industry/
 ---
 **Economic** impacts of drought can be large and far-ranging. However, estimates of the economic impact of droughts are generally developed in the absence of an explicit conceptual framework. Therefore, in MaRIUS a new analytical framework was developed, to capture all the factors that contribute to, or mitigate against, the economic costs or impacts of a drought. These factors include climate and drought dynamics, infrastructure in place and policy, planning and management actions. 
 
-The economic model developed was used to estimate direct and indirect losses of drought. The graph right shows the aggregated percent of output losses for the UK economy. Results can be displayed for three hypothetical drought events: a low severity drought, a medium severity drought and a high severity drought, and for 10 different policy scenarios, ranging from less restrictive (1) to more restrictive (10) ones.
+The economic model will be used to estimate direct and indirect losses of drought and highlight the impacts associated with different drought management options.
 
-- The graph highlights that for a given climatic condition, say a high severity drought, the economic impact can vary significantly depending on policy choices made.
-- The model will be used to highlight the impacts associated with different drought management options.
-
-
-Secondly, particular focus was placed on **electricity** generation. Approximately one third of the UK’s electricity supply depends on freshwater, for the cooling of coal, gas and biomass thermal power plants. These power plants need a reliable water supply and operate under strict environmental controls to minimise ecological impacts. Low flows and warm water temperatures mean some power plants may need to reduce or shut down operations, resulting in the need to use more expensive electricity supply options, thus pushing up electricity supply prices.
+A particular focus was also placed on **electricity** generation. Approximately one third of the UK’s electricity supply depends on freshwater, for the cooling of coal, gas and biomass thermal power plants. These power plants need a reliable water supply and operate under strict environmental controls to minimise ecological impacts. Low flows and warm water temperatures mean some power plants may need to reduce or shut down operations, resulting in the need to use more expensive electricity supply options, thus pushing up electricity supply prices.
 
 The maps right illustrate the proportion of capacity unavailable at 40 power plants across the UK, for different time-periods, with estimated economic costs shown in the bar graphs below.
 
