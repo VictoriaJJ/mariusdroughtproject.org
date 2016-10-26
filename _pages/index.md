@@ -16,6 +16,42 @@ In addition to the modelling component, social science and stakeholder engagemen
 
 The Project Team is led by [Professor Jim Hall](http://www.eci.ox.ac.uk/people/jhall.html){:target="_blank"}, and comprises leading experts from a number of research institutions, including the [University of Oxford](http://www.ox.ac.uk){:target="_blank"}, [University of Bristol](http://www.bris.ac.uk){:target="_blank"}, [Cranfield University](http://www.cranfield.ac.uk){:target="_blank"}, the [Centre for Ecology and Hydrology (CEH)](http://www.ceh.ox.ac.uk){:target="_blank"}, and the [UK Meteorological Office](http://www.metoffice.gov.uk){:target="_blank"}.
 
-Funding comes from [NERC](http://www.nerc.gov.uk){:target="_blank"} (ref: [NE/L010364/1](http://gotw.nerc.ac.uk/list_split.asp?awardref=NE%2FL010364%2F1){:target="_blank"}), in collaboration with [ESRC](http://www.esrc.ac.uk){:target="_blank"}, [EPSRC](https://www.epsrc.ac.uk){:target="_blank"}, [BBSRC](http://www.bbsrc.ac.uk){:target="_blank"} and [AHRC](http://www.ahrc.ac.uk){:target="_blank"}.
+<div class="container">
+    <div>
+    	<a href="http://www.ox.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/university_of_oxford.png" alt="University of Oxford"></a>
+    </div>
+    <div>
+    	<a href="http://www.cranfield.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/cranfield_university.png" alt="Cranfield University" /></a>
+    </div>
+    <div>
+    	<a href="http://www.metoffice.gov.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/metoffice.png" alt="Met Office" /></a>
+    </div>
+    <div>
+    	<a href="http://www.ceh.ox.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/ceh.png" alt="Centre for Ecology and Hydrology" /></a>
+    </div>
+    <div>
+    	<a href="http://www.bris.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/university_of_bristol.png" alt="University of Bristol" /></a>
+    </div>
+</div>
+
+Funding comes from [NERC](http://www.nerc.ac.uk){:target="_blank"} (ref: [NE/L010364/1](http://gotw.nerc.ac.uk/list_split.asp?awardref=NE%2FL010364%2F1){:target="_blank"}), in collaboration with [ESRC](http://www.esrc.ac.uk){:target="_blank"}, [EPSRC](https://www.epsrc.ac.uk){:target="_blank"}, [BBSRC](http://www.bbsrc.ac.uk){:target="_blank"} and [AHRC](http://www.ahrc.ac.uk){:target="_blank"}.
+
+<div class="container">
+    <div>
+    	<a href="http://www.nerc.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/nerc.png" alt="The Natural Environment Research Council (NERC)"></a>
+    </div>
+    <div>
+    	<a href="http://www.esrc.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/esrc.png" alt="Economic & Social Research Council (ESRC)" /></a>
+    </div>
+    <div>
+    	<a href="https://www.epsrc.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/epsrc.png" alt="Engineering and Physcial Sciences Research Council (EPSRC)" /></a>
+    </div>
+    <div>
+    	<a href="http://www.bbsrc.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/bbsrc.png" alt="Biotechnology and Biological Sciences Research Council (BBSRC)" /></a>
+    </div>
+    <div>
+    	<a href="http://www.ahrc.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/ahrc.png" alt="Arts & Humanities Research Council (AHRC)" /></a>
+    </div>
+</div>
 
 The project is funded for three years, from April 2014 to end of March 2017.
