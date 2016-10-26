@@ -4,6 +4,9 @@ published: true
 permalink: /dashboard/dpe/drought_impacts/water_quality/
 subsection: Drought Impacts
 _title: Impacts of drought on water quality
+related_links:
+  - name: Water Quality
+    url: '!science_url!/drought_impacts_management/water_quality/'
 ---
 
 Droughts can affect **water quality** in rivers and reservoirs due to reduced dilution of discharges and runoff, enhanced biogeochemical processes and longer residence times in rivers. Moreover, at the end of a drought the sudden wetting of the soils releases significant fluxes of sediments and chemicals that can disrupt public water supplies, trigger algal blooms and damage ecosystems.  

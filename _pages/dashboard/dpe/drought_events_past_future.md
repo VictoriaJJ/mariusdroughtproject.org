@@ -3,6 +3,9 @@ layout: dpe
 published: true
 permalink: /dashboard/dpe/drought_events_past_future/
 _title: 'Meteorological Droughts: past and future'
+related_links:
+  - name: Drought datasets and how to access them
+    url: '!science_url!/drought_climatology/dd/'
 ---
 
 Over the past 40 years there has been a number of droughts in England. The most recent notable droughts were 1975-1976, 1989-1992, 1995-1996, 2004-2006 and 2010-2012. Over-abstraction to meet the needs of growing populations, agricultural and industrial use, and the effects of climate change are causing multiple challenges in many water-stressed regions, and these are likely to increase in the future.
