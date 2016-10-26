@@ -115,6 +115,11 @@ prose:
           element: "text"
           label: "Subtitle"
           value: ""
+      - name: "text"
+        field:
+          field: "related_links"
+          label: "Related links"
+          value: ""
     _pages/dashboard/dpe:
       - name: "layout"
         field:
@@ -147,4 +152,9 @@ prose:
         field:
           element: "text"
           label: "Subtitle"
+          value: ""
+      - name: "text"
+        field:
+          field: "related_links"
+          label: "Related links"
           value: ""
