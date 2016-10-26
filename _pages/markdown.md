@@ -2,10 +2,14 @@
 layout: default
 published: true
 permalink: /markdown/
-related_links: >-
-  related_links: - name: 'related link 1' url: 'http://www.geog.ox.ac.uk' -
-  name: 'related link 2' url: '/' - name: 'related link 3' url:
-  '/dashboard/science'
+
+related_links: 
+	- name: 'related link 1' 
+	  url: 'http://www.geog.ox.ac.uk' 
+	- name: 'related link 2' 
+	  url: '/' 
+	- name: 'related link 3' 
+	  url: '/dashboard/science'
 _title: Examples
 ---
 
