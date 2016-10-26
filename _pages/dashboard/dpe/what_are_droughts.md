@@ -3,6 +3,11 @@ layout: dpe
 published: true
 permalink: /dashboard/dpe/what_are_droughts/
 _title: What are droughts?
+related_links:
+  - name: Droughts over the 20th century
+    url: /dashboard/science/drought_climatology/20c/
+  - name: CEH UK Drought Portal
+    url: 'https://eip.ceh.ac.uk/droughts'
 ---
 
 Droughts are natural events which occur when a period of low rainfall creates a shortage of water. Each drought is different, with the nature, timing and impacts varying according to location and which sectors are affected such as public water supply, agriculture, the environment or industry. 
