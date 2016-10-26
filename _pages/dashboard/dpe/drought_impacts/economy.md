@@ -5,14 +5,17 @@ permalink: /dashboard/dpe/drought_impacts/economy/
 subsection: Drought Impacts
 _title: Impacts of drought on the economy
 ---
-**Economic** impacts of drought can be large and far-ranging. In MaRIUS a new analytical framework was developed, to capture all the factors that contribute to, or mitigate against, the economic costs or impacts of a drought (including policy-making, planning and management actions). Using an economic model, the direct and indirect losses of drought on domestic and commercial water consumers and major industrial abstractors were quantified. In particular, there was a focus on **electricity** generation as approximately one third of the UK’s electricity supply depends on freshwater, for the cooling of coal, gas and biomass thermal power plants. These power plants need a reliable water supply and operate under strict environmental controls to minimise ecological impacts.
+**Economic** impacts of drought can be large and far-ranging. However, estimates of the economic impact of droughts are generally developed in the absence of an explicit conceptual framework. Therefore, in MaRIUS a new analytical framework was developed, to capture all the factors that contribute to, or mitigate against, the economic costs or impacts of a drought. These factors include climate and drought dynamics, infrastructure in place and policy, planning and management actions. 
 
-_[Placeholder for results: 
-1. The analysis highlighted that economic risk of drought at the Thames/UK level will increase by xx% for the near (2030s) and far (2080s) future.
-2. Indirect costs accounted for xx% of losses highlighting…
-3. Low flows and warm water temperatures mean some power plants may need to reduce or shut down operations. A drought could potentially impact on several plants simultaneously, resulting in the need to use more expensive electricity supply options, thus pushing up electricity supply prices.
-4. Ultimately will show different impacts associated with management options to be shown graphically]_
+The economic model developed was used to estimate direct and indirect losses of drought. The graph right shows the aggregated percent of output losses for the UK economy. Results can be displayed for three hypothetical drought events: a low severity drought, a medium severity drought and a high severity drought, and for 10 different policy scenarios, ranging from less restrictive (1) to more restrictive (10) ones.
 
+- The graph highlights that for a given climatic condition, say a high severity drought, the economic impact can vary significantly depending on policy choices made.
+- The model will be used to highlight the impacts associated with different drought management options.
+
+Secondly, particular focus was placed on **electricity** generation. Approximately one third of the UK’s electricity supply depends on freshwater, for the cooling of coal, gas and biomass thermal power plants. These power plants need a reliable water supply and operate under strict environmental controls to minimise ecological impacts.
+
+
+_*[indirect]: induced production losses of suppliers and customers of economic agents directly affected by the hazard_
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>drought event</b></label>
@@ -114,7 +117,3 @@ initGraph('sgnb_chart1', 'scenario');
 </div>
 
 <script src='{{ site.baseurl }}/assets/js/multi_line_chart.js' type='text/javascript'> </script>
-
-_[Placeholder: Suggested animation of UK map with location of ~20 key power plants, and showing their availability through time during an example drought event – e.g. green marker = 100% available; yellow marker = reduced operation; red marker = shutdown. Simultaneously, on the side a growing bar chart of economic costs growing…]._
-
-*[direct and indirect]: Define in pop-up
