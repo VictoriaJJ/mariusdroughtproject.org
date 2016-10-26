@@ -12,7 +12,12 @@ The economic model developed was used to estimate direct and indirect losses of 
 - The graph highlights that for a given climatic condition, say a high severity drought, the economic impact can vary significantly depending on policy choices made.
 - The model will be used to highlight the impacts associated with different drought management options.
 
-Secondly, particular focus was placed on **electricity** generation. Approximately one third of the UK’s electricity supply depends on freshwater, for the cooling of coal, gas and biomass thermal power plants. These power plants need a reliable water supply and operate under strict environmental controls to minimise ecological impacts.
+
+Secondly, particular focus was placed on **electricity** generation. Approximately one third of the UK’s electricity supply depends on freshwater, for the cooling of coal, gas and biomass thermal power plants. These power plants need a reliable water supply and operate under strict environmental controls to minimise ecological impacts. Low flows and warm water temperatures mean some power plants may need to reduce or shut down operations, resulting in the need to use more expensive electricity supply options, thus pushing up electricity supply prices.
+
+The maps right illustrate the proportion of capacity unavailable at 40 power plants across the UK, for different time-periods, with estimated economic costs shown in the bar graphs below.
+
+- In severe drought years, such as the 1975-‘76 drought, the value of unavailable generations ranges potentially up to £400-800m.
 
 
 *[indirect]:  Direct economic impacts can indirectly affect business production affecting the flow of goods and services across sectors
