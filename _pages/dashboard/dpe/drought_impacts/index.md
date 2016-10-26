@@ -5,20 +5,12 @@ permalink: /dashboard/dpe/drought_impacts/
 _title: Drought Impacts
 ---
 
-Droughts and water scarcity jointly pose a substantial threat to the environment, agriculture, infrastructure, society and culture in the UK, yet our ability to characterise and predict their occurrence, duration and intensity, as well as minimise their impacts, is often inadequate.
+Droughts and water scarcity jointly pose a substantial threat to the environment, agriculture, infrastructure, society and culture in the UK. Impacts can be both direct, such as affecting crops and reducing water supply and quality, and indirect such as knock-on effects on business production affecting the flow of goods and services. 
 
-In MaRIUS we developed new methodologies and models for analysis of the impacts of water scarcity on ecosystems, society and various economic activities including agriculture, industry and household consumers. By supporting the analysis of a full range of impacts in a common framework MaRIUS provides multi-attribute characterisation of drought impacts and evidence to evaluate trade-offs between different impacts. 
+Yet, our ability to characterise and predict the occurrence, duration and intensity of droughts, as well as minimise and manage impacts of drought and water scarcity, is often inadequate.
 
-Click on the below categories to see further information on the analysis and impacts of drought on:
+In MaRIUS we developed new methodologies and models for the analysis of drought and water scarcity impacts on [river flow](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/river_flow/), [water quality](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/water_quality/), [the environment](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/environment/)[farming](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/farming/), [the economy](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/economy/), and how these combine to affect [people](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/people/).
 
-River Flow
+By supporting the analysis of a comprehensive range of impacts in a common framework MaRIUS provides multi-attribute characterisation of drought impacts and evidence that can help evaluate trade-offs between different impacts and drought management options.
 
-Water quality
-
-People
-
-farming
-
-the economy
-
-the environment
+*[MaRIUS]:  Managing the Risks, Impacts and Uncertainties of drought and water Scarcity
