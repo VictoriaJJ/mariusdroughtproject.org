@@ -91,6 +91,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
+          label: "Related links"
           value: "science"
       - name: "published"
         field:
