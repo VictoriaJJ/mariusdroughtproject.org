@@ -14,6 +14,13 @@ Output from the hydrological models can be used within [environmental](https://5
 
 _Thames basin: Monthly mean river flow for July 1976 (G2G output)_
 
+COMING SOON!!
+
+- See outputs from the different MaRIUS hydrological models for river flow, soil moisture, run-off, and ground water.
+- How these outputs vary across spatial scales ranging from the Thames and Severn catchments to England and Great Britain.
+- How these outputs vary for the baseline, near future and far future.
+
+
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>temporal scale</b></label>
 	<input type="radio" name="drought_event" value="drought_event_01" id="drought_event_01"><label for="drought_event_01">current</label>
