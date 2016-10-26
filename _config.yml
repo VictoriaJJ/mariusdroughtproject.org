@@ -82,6 +82,11 @@ prose:
           element: "text"
           label: "Subtitle"
           value: ""
+      - name: "text"
+        field:
+          field: "related_links"
+          label: "Related links"
+          value: ""
     _pages/dashboard/science:
       - name: "layout"
         field:
