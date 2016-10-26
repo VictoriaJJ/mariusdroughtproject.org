@@ -103,8 +103,6 @@ The graph right illustrate the SPEI time series from 1974-77. From May 1975 to A
 <script src='{{ site.baseurl }}/assets/libs/js/stream_layers.js' type='text/javascript'> </script>
 <script src='{{ site.baseurl }}/assets/js/stacked_grouped_nbar_chart.js' type='text/javascript'> </script>
 
-[Placeholder - Video graphic to click and run - See how the SPEI changes over time for the UK]
-
 
 *[MaRIUS]:  Managing the Risks, Impacts and Uncertainties of drought and water Scarcity
 
