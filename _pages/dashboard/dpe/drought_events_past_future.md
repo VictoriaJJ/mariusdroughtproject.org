@@ -26,9 +26,9 @@ COMING SOON!!
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>time period</b></label>
-	<input type="radio" name="time_period" value="time_period_baseline" id="time_period_baseline"><label for="time_period_present">Present</label>
-	<input type="radio" name="time_period" value="time_period_near_future" id="time_period_near_future"><label for="time_period_2030s">2030s</label>
-	<input type="radio" name="time_period" value="time_period_far_future" id="time_period_far_future"><label for="time_period_2080s">2080s</label>
+	<input type="radio" name="time_period" value="time_period_baseline" id="time_period_baseline"><label for="time_period_present">Baseline</label>
+	<input type="radio" name="time_period" value="time_period_near_future" id="time_period_near_future"><label for="time_period_2030s">Near Future</label>
+	<input type="radio" name="time_period" value="time_period_far_future" id="time_period_far_future"><label for="time_period_2080s">Far Future</label>
 	<input type="radio" name="time_period" value="time_period_all" id="time_period_all"><label for="time_period_all">All</label>
 
 	<label>Select an <b>SPEI time period</b></label>
