@@ -15,7 +15,8 @@ The economic model developed was used to estimate direct and indirect losses of 
 Secondly, particular focus was placed on **electricity** generation. Approximately one third of the UK’s electricity supply depends on freshwater, for the cooling of coal, gas and biomass thermal power plants. These power plants need a reliable water supply and operate under strict environmental controls to minimise ecological impacts.
 
 
-*[indirect]: induced production losses of suppliers and customers of economic agents directly affected by the hazard
+*[indirect]:  Direct economic impacts can indirectly affect business production affecting the flow
+of goods and services across sectors
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>drought event</b></label>
