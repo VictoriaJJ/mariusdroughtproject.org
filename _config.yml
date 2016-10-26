@@ -86,7 +86,7 @@ prose:
         field:
           element: "textarea"
           label: "Related links"
-          value: ""
+          placeholder: ""
     _pages/dashboard/science:
       - name: "layout"
         field:
@@ -125,7 +125,7 @@ prose:
         field:
           element: "textarea"
           label: "Related links"
-          value: ""
+          placeholder: ""
     _pages/dashboard/dpe:
       - name: "layout"
         field:
@@ -163,4 +163,4 @@ prose:
         field:
           element: "textarea"
           label: "Related links"
-          value: ""
+          placeholder: ""
