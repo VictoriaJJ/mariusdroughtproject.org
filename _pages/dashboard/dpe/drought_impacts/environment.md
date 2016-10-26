@@ -4,6 +4,13 @@ published: true
 permalink: /dashboard/dpe/drought_impacts/environment/
 subsection: Drought Impacts
 _title: Impacts of drought on the environment
+Ecology: >-
+  https://5j4.github.io/mariusdroughtproject.org/dashboard/science/drought_impacts_management/ecology/
+related_links:
+  - name: Ecology
+    url: /dashboard/science/drought_impacts_management/ecology/
+  - name: CEH Wetland Tool for Climate Change
+    url: 'http://www.ceh.ac.uk/our-science/projects/wetland-tool-climate-change'
 ---
 Climate change is already affecting habitats and their species in several ways and future changes in temperature and water availability are likely to lead to further changes in the distribution of many species and thus in habitat composition and functioning. Both water scarcity and drought could also result in changes to the ecosystem services provided by the ecosystems and their species. In Marius we focused on selected **woodland**, **river**, **wetland** and **grassland** ecosystems, concluding that all ecosystems will respond to drought, but will vary in the magnitude of the impact and their ability to recover.
 
