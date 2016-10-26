@@ -82,9 +82,9 @@ prose:
           element: "text"
           label: "Subtitle"
           value: ""
-      - name: "text"
+      - name: "related_links"
         field:
-          field: "related_links"
+          field: "textarea"
           label: "Related links"
           value: ""
     _pages/dashboard/science:
@@ -120,9 +120,9 @@ prose:
           element: "text"
           label: "Subtitle"
           value: ""
-      - name: "text"
+      - name: "related_links"
         field:
-          field: "related_links"
+          field: "textarea"
           label: "Related links"
           value: ""
     _pages/dashboard/dpe:
@@ -158,8 +158,8 @@ prose:
           element: "text"
           label: "Subtitle"
           value: ""
-      - name: "text"
+      - name: "related_links"
         field:
-          field: "related_links"
+          field: "textarea"
           label: "Related links"
           value: ""
