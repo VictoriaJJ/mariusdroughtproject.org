@@ -17,7 +17,7 @@ As such options to manage demand can be as crucial as options to manage or incre
 
 The Environment Agency have highlighed a number of measures water companies can implement to help manage demand, with such options explored and reviewed as part of MaRIUS. For example:
 
-- water efficiency infomration and initiatives
+- water efficiency information and initiatives
 - active leakage control
 - water metering
 - and regulatory options such as non-essential use restirctions and temporary use bans
