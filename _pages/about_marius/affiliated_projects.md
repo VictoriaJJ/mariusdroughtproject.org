@@ -1,8 +1,9 @@
 ---
 layout: default
 published: true
-permalink: /affiliated_projects/
+permalink: /about_marius/affiliated_projects/
 
+subsection: About MaRIUS
 _title: Affiliated Projects
 ---
 MaRIUS is part of NERC’s UK Droughts and Water Scarcity Programme.

@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-permalink: /people/researchers/
+permalink: /about_marius/people/researchers/
 
 _title: Researchers
 ---

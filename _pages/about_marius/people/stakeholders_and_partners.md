@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-permalink: /people/stakeholders_and_partners/
+permalink: /about_marius/people/stakeholders_and_partners/
 
 _title: Stakeholder and Partners
 ---

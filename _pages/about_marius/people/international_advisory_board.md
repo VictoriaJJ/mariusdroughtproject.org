@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-permalink: /people/iab/
+permalink: /about_marius/people/iab/
 
 _title: International Advisory Board
 ---
