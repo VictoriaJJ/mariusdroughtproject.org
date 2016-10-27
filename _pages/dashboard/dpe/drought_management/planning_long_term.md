@@ -5,8 +5,8 @@ permalink: /dashboard/dpe/drought_management/planning_long_term/
 subsection: Drought Management
 _title: Planning for the long term
 related_links:
-  - name: Drought governance options
-    url: '!science_url!/drought_impacts_management/das/gov/dgo/'
+  - name: Science dashboard
+    url: '!science_url!/'
 ---
 Management of water resources, droughts and water scarcity in the UK is undergoing significant changes. The work of MaRIUS has enabled the management of droughts and water scarcity to be explored following a risk-based approach, incorporating analysis of the full range of drought impacts for people and the environment, and a systemic understanding of their interactions and uncertainties.
 
