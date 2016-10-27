@@ -1,22 +1,36 @@
+- title: About MaRIUS
+  url: /about_marius/
+  subpages:
+    - title: People
+      url: /about_marius/people/
+    - title: Researchers
+      url: /about_marius/people/researchers/
+    - title: Stakeholders and Partners
+      url: /about_marius/people/stakeholders_and_partners/
+    - title: International Advisory Board
+      url: /about_marius/people/iab/
+    - title: Affiliated Projects
+      url: /about_marius/affiliated_projects/
+
 - title: Our work
   url: /our_work/
-
-- title: Objectives
-  url: /objectives/
-
-- title: Outputs
-  url: /outputs/
   subpages:
+    - title: Objectives
+      url: /our_work/objectives/
+    - title: Work streams
+      url: /our_work/workstreams/
+    - title: Outputs
+      url: /our_work/outputs/
+    - title: Outreach
+      url: /our_work/outreach/
     - title: Symposia
-      url: /outputs/symposia/
+      url: /our_work/outputs/symposia/
     - title: Podcasts
-      url: /outputs/podcasts/
-    - title: Working Papers
-      url: /outputs/working_papers/
+      url: /our_work/outputs/podcasts/
     - title: Models and Datasets
-      url: /outputs/models_and_datasets/
+      url: /our_work/outputs/models_and_datasets/
     - title: Publications
-      url: /outputs/publications/
+      url: /our_work/outputs/publications/
 
-- title: Afilliated Projects
-  url: /affiliated_projects/
+- title: Contact Us
+  url: /contact/
