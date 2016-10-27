@@ -24,14 +24,14 @@
 - title: What to do about droughts?
   url: /dashboard/dpe/drought_management/
   subpages:
-    - title: Planning for the long term
-      url: /dashboard/dpe/drought_management/planning_long_term/
+    - title: Managing droughts
+      url: /dashboard/dpe/drought_management/dpgs/
     - title: Water supply options
       url: /dashboard/dpe/drought_management/water_supply_options/
     - title: Managing demand
       url: /dashboard/dpe/drought_management/managing_demand/
-    - title: Managing droughts
-      url: /dashboard/dpe/drought_management/dpgs/
+    - title: Planning for the long term
+      url: /dashboard/dpe/drought_management/planning_long_term/
 
 - title: Future challenges
   url: /dashboard/dpe/future_challenges/
