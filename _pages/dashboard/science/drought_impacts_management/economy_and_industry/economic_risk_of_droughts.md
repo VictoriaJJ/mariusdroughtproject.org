@@ -59,7 +59,7 @@ Fig. 2. Total output losses in the UK economy under different climate and policy
 A first insight from this analysis is that for a given climatic condition, say a high severity drought, the economic impact can vary significantly depending on policy choices. For example, in times of a high severity drought, applying the restrictions associated with scenario 1 will result in total economic losses of 0.6%, while applying the restrictions associated with scenario 10 will result in a 4.3% reduction in total output.
 
 
-## Furhter information
+## Further information
 
 ### Publications
 - Freire-González, J., Decker, C. and J.W. Hall (2016). The economic impacts of droughts: a framework for analysis. Manuscript submitted for publication.
