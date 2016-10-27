@@ -14,11 +14,7 @@ In achieving this vision, the MaRIUS project has developed an integrated suite o
 	</div>
 	<div class="large-6 columns" kramdown="1">
 		The  <a href="{{ site.dpe_url }}/"> <b>Droughts, People and the Environment Dashboard</b></a>  provides an interactive summary of the key MaRIUS outputs on droughts, their various impacts, and ways in which they can be managed, for a variety of users. Explore the interactive pages to learn more.
-       ###
-
-
-       
-COMING SOON!!
+        COMING SOON!!
 An integrated drought impact and management dashboard page to enable easy comparison of multiple impacts and likely outcomes and trade-offs arising from applying pre-existing and enhanced/innovative drought management strategies…
 	</div>
 </div>
