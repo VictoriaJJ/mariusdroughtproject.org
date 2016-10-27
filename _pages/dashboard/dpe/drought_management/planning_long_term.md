@@ -4,6 +4,9 @@ published: true
 permalink: /dashboard/dpe/drought_management/planning_long_term/
 subsection: Drought Management
 _title: Planning for the long term
+related_links:
+  - name: Drought governance options
+    url: '!science_url!/drought_impacts_management/das/gov/dgo/'
 ---
 A wide range of drought management options have been explored and reviewed as part of MaRIUS. A non-exhaustive list of options is shown in the chart below. The review has also highlighted which options for drought management practice in England & Wales are currently used or mentioned within water companies’ Water Resources Management Plans (WRMPs).
 
