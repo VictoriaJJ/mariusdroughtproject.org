@@ -5,20 +5,18 @@ permalink: /dashboard/dpe/admo/
 subsection: Drought Management
 _title: Planning for the long term
 ---
-A wide range of drought management options have been explored and reviewed as part of MaRIUS. A non-exhaustive list of options is shown in the chart below (hover over boxes for definitions). The review has also highlighted which options for drought management practice in England & Wales are currently used or mentioned within water companies’ Water Resources Management Plans (WRMPs).
+A wide range of drought management options have been explored and reviewed as part of MaRIUS. A non-exhaustive list of options is shown in the chart below. The review has also highlighted which options for drought management practice in England & Wales are currently used or mentioned within water companies’ Water Resources Management Plans (WRMPs).
 
 ![drought_management_ptions_possible.jpg]({{site.baseurl}}/assets/img/drought_management_ptions_possible.jpg)
 
 
-At a broad scale drought plans, drought orders and permits, as well as more general powers for environmental regulators to limit the abstraction of water from ground and surface water bodies are key regulatory tools for preventing and managing drought.
+Currently, options such as drought plans and drought permits and orders, which allow water companies to manage water resources during a drought, are key regulatory tools for preventing and managing drought.
 
+A wide range of management options have been modelled as part of MaRIUS. For example, different water resource management strategies related to the [abstraction and allocation of water](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_management/water_supply_options/); water resource management strategies related to water [demand](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_management/managing_demand/) and abstraction and effects on [river flow](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/river_flow/), [water quality](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/water_quality/), the[environment](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/environment/), and [economy](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/economy/); and effects of irrigation management strategies on [farming](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/farming/).
 
+The interactive MaRIUS Integrated Drought Impact and Management dashboard allows visualisation of alternative metrics and indicators of the performance of management options.
 
-*[drought plans, drought orders and permits]: Define in pop-up
-
-
-
-
+<!---
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>drought event</b></label>
 	<input type="radio" name="drought_event" value="drought_event_01" id="drought_event_01"><label for="drought_event_01">01</label>
@@ -108,3 +106,4 @@ var mycfg = {
 RadarChart.draw("#chart", d, mycfg);
 
 </script>
+--->
