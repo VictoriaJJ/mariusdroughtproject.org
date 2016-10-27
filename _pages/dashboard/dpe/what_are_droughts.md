@@ -11,7 +11,7 @@ related_links:
     external: true
 ---
 
-Droughts are natural events which occur when a period of low rainfall creates a shortage of water. Each drought is different, with the nature, timing and impacts varying according to location and which sectors are affected such as public water supply, agriculture, the environment or industry. 
+Droughts are natural events which occur when a period of low rainfall creates a shortage of water. Each drought is different, with the nature, timing and impacts varying according to location and which sectors are affected such as public water supply, agriculture, the environment or industry. Water scarcity describes the relationship between water demand and availability.
 
 Drought events can also be defined based on the duration of the rainfall deficit and the particular impacts that evolve over time. The Environment Agency identify three main types of drought which may occur separately or together:
 
