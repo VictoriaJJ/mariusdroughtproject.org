@@ -4,6 +4,9 @@ published: true
 permalink: /dashboard/dpe/drought_management/water_supply_options/
 subsection: Drought Management
 _title: Water supply options
+related_links:
+  - name: Water resources
+    url: '!science_url!/drought_impacts_management/water_resources/'
 ---
 Water supply drought is where a shortage of rainfall causes water companies concern about supplies for their customers. Central to drought management will be decisions made about quantities of water to abstract (from a range of different sources), for storage or for allocation to different water users.
 
