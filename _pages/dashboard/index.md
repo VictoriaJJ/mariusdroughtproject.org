@@ -5,7 +5,7 @@ permalink: /dashboard/
 _title: Dashboards
 ---
 Management of water resources, droughts and water scarcity in the UK is undergoing significant changes. Our vision is that management of droughts and water scarcity will in future be more explicitly risk based, incorporating analysis of the full range of drought impacts for people and the environment, and a systemic understanding of their interactions and uncertainties. 
-In achieving this vision, the MaRIUS project has developed an integrated suite of models of drought processes and impacts. The following dashboards provide a common platform for the synthesis, communication and interactive exploration of the MaRIUS models, outputs, key findings, and data on environmental, economic and social dimensions of water scarcity.
+In achieving this vision, the MaRIUS project has developed an integrated suite of models of drought processes and impacts. The following dashboards provide a common platform for the synthesis, communication and interactive exploration of the MaRIUS models, outputs, and key findings.
 
 
 <div class="row">
@@ -15,7 +15,8 @@ In achieving this vision, the MaRIUS project has developed an integrated suite o
 	<div class="large-6 columns" kramdown="1">
 		The  <a href="{{ site.dpe_url }}/"> <b>Droughts, People and the Environment Dashboard</b></a>  provides an interactive summary of the key MaRIUS outputs on droughts, their various impacts, and ways in which they can be managed, for a variety of users. Explore the interactive pages to learn more!
        
- COMING SOON!!
+       
+COMING SOON!!
 An integrated drought impact and management dashboard page to enable easy comparison of multiple impacts and likely outcomes and trade-offs arising from applying pre-existing and enhanced/innovative drought management strategies…
 	</div>
 </div>
