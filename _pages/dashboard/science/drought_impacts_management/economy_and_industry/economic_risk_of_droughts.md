@@ -33,6 +33,11 @@ The main elements of the framework are:
 	b.	Drought adaptation (long-term)
 5.	Economic analysis tools: comprise the specific mathematical, statistical and other quantitative and qualitative tools used to assess the economic impacts of a drought event.
 
+Fig. 1 shows how these elements are integrated within a scenario-based framework to empirically estimate the short-term economic impacts of a drought event. 
+
+![Katie1.png]({{site.baseurl}}/assets/img/Katie1.png)
+
+
 Based on this framework, a direct economic impact model estimates the relationship between the hydrologic factors and various economic indicators. This analysis uses an I-O model based on the 2007 EXIOBASE dataset - a global, detailed multi-regional environmentally extended I-O database. The I-O table for the UK includes 163 sectors with high disaggregation for agriculture. This dataset includes water accounts amongst other environmental extensions, differentiating between green water use and blue water use. So it provides information on the different water uses for each economic sector.
 
 Three types of scenarios are used to estimate impacts within the framework: 1) assumptions about how drought impacts on the availability of green water available to keep soil moist; 2) assumptions about the amount of blue water available for abstractors; and 3) decisions that policy-makers take, applying water restrictions to specific agents when managing blue water resources. The combination of the climate scenarios and the policy scenarios will collectively determine the final economic impact of a given drought event.
@@ -46,6 +51,8 @@ For each of the scenarios identified the indirect and economy-wide impacts have 
 
 Fig. 2 shows the aggregated output losses over the UK economy for the 30 different hypothetical climate and policy scenarios. Losses range from 0.35% to 4.3% of total output of the UK economy. These results are in line with existing empirical literature in other contexts and using other methods.
 As might be expected, more extreme drought events and policy responses are more likely to have greater short-term impacts on total output. For example, a high severity drought scenario, coupled with severe restrictions in blue water availability (scenario 10), results in the greatest reduction of total output.
+
+![Katie2.png]({{site.baseurl}}/assets/img/Katie2.png)
 
 Fig. 2. Total output losses in the UK economy under different climate and policy scenarios.
 
