@@ -15,12 +15,12 @@ It is anticipated that population growth and increased demand for water from hou
 
 As such options to manage demand can be as crucial as options to manage or increase supply.
 
-Managing demand is as important as increasing supply. There are number of measures water
-companies us to help manage demand:
-• reinforcing existing water efficiency activities with new campaigns and improving
-communications with customers
-• reducing leakage below target levels
-• targeting domestic metering in areas of water stress as a long term plan
-• managing water pressure in the supply system in drought affected areas
-• working with business customers to help reduce their demand
-• introducing temporary use bans (see 3.1.1.)
+The Environment Agency have highlighed a number of measures water companies can implement to help manage demand, with such options explored and reviewed as part of MaRIUS. For example:
+
+- water efficiency infomration and initiatives
+- active leakage control
+- water metering
+- and regulatory options such as non-essential use restirctions and temporary use bans
+
+
+*[MaRIUS]: Managing the Risks, Impacts and Uncertainties of drought and water Scarcity
