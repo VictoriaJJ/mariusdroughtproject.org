@@ -11,6 +11,8 @@ subsection: Drought and society > Knowledge
 2.	Set up for the River Lea and its tributary Salmons Brook the INCA model incorporated data collected by local volunteers taking part in citizen science monitoring.
 3.	The bespoke model of Salmons Brook connected local river restoration interventions and citizen science monitoring to scientific analysis of water quality under different flow scenarios
 
+![]({{site.baseurl}}/assets/img/Catharina%20Lea%20at%20Bow%20locks.jpg)
+
 ## Introduction
 
 Human Geography research in the MaRIUS project has addressed the ways in which water and river governance in modern, complex societies is geographically distributed and involves a multitude of actors relating to different regulatory and policy frameworks. Drawing on transdisciplinary research that treats vernacular environmental knowledge as an undervalued resource in environmental science and public policy the Community Modelling experiment with Thames 21 in East London was a proof of concept activity aiming to: 
@@ -23,12 +25,17 @@ Human Geography research in the MaRIUS project has addressed the ways in which w
 
 The Community Modelling approach originates in the realisation that the Environmental Competency Groups methodology for bringing scientific and vernacular knowledge together is too resource demanding to be used more widely by local communities. Informed by previous ECGs addressing flood risk management and the Kennet ECG focussing water management Community Modelling was designed to make locally informed computer modelling usable by environmental NGOs and the residents that they engage with rivers. The human geography local case study undertaken within the MaRIUS project provided initial understanding of the matters of concern engaging the local community by the River Lea and made contact with the local rivers trust Thames 21. The Community Modelling activity comprised three sessions with two MaRIUS project team members - a social scientist and a natural scientist.
 
+![Catharina Urban dwellings Lea.jpeg]({{site.baseurl}}/assets/img/Catharina Urban dwellings Lea.jpeg)
+
 
 ## Result 1: A bespoke set up computer model became a useful tool for Thames 21 for local community engagement with river and water management.
 
 The MaRIUS human geography case study in East London, focussing on the Lea (an important component in the water supply system for London) showed that water quality was a major concern for local communities and the local rivers trust Thames 21. 
 
 The INCA model used in MaRIUS work stream B was identified as an approach that could represent processes on a scale of interest to the local community. In the first Community Modelling session the INCA model was presented and the three Thames 21 officers and the MaRIUS project team agreed on setting up the model for Salmons Brook.
+
+
+![Catharina Thames 21 office.jpeg]({{site.baseurl}}/assets/img/Catharina Thames 21 office.jpeg)
 
 
 ## Result 2: Set up for the River Lea and its tributary Salmons Brook the INCA model incorporated data collected by local volunteers taking part in citizen science monitoring.
