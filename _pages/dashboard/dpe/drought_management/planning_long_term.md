@@ -14,7 +14,7 @@ Currently, options such as drought plans and drought permits and orders, which a
 
 A wide range of management options have been modelled as part of MaRIUS. For example, different water resource management strategies related to the [abstraction and allocation of water](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_management/water_supply_options/); water resource management strategies related to water [demand](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_management/managing_demand/) and abstraction and effects on [river flow](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/river_flow/), [water quality](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/water_quality/), the[environment](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/environment/), and [economy](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/economy/); and effects of irrigation management strategies on [farming](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/farming/).
 
-The interactive MaRIUS Integrated Drought Impact and Management dashboard allows visualisation of alternative metrics and indicators of the performance of management options.
+COMING SOON!! An interactive integrated drought impact and management dashboard page to enable easy comparison of these multiple impacts and likely outcomes and trade-offs arising from applying pre-existing and enhanced/innovative drought management strategies…
 
 <!---
 <div class="large-6 medium-6 columns">
