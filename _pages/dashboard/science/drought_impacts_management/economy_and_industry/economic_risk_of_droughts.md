@@ -8,10 +8,10 @@ _title: Economic risk of droughts
 
 ## Key science findings
 
-•	Estimates of the economic impact of droughts are generally developed in the absence of an explicit conceptual framework.
-•	A framework to empirically estimate the economic impacts of future droughts under a range of different climate and policy scenarios has been developed. These scenarios take account of different assumptions regarding a drought event, including: the source of the drought (green or blue water), temporality, and critically, long-term and short-term policy-making choices. 
-•	For hypothetical scenarios, applying this framework to the UK economy we estimate that, depending on the severity of the drought event and short-term policy choices, the impacts could range from 0.35% to 4.3% of total output. 
-•	Different long-term policy choices could mitigate these impacts for drought events with similar severity and duration. 
+- Estimates of the economic impact of droughts are generally developed in the absence of an explicit conceptual framework.
+- A framework to empirically estimate the economic impacts of future droughts under a range of different climate and policy scenarios has been developed. These scenarios take account of different assumptions regarding a drought event, including: the source of the drought (green or blue water), temporality, and critically, long-term and short-term policy-making choices. 
+- For hypothetical scenarios, applying this framework to the UK economy we estimate that, depending on the severity of the drought event and short-term policy choices, the impacts could range from 0.35% to 4.3% of total output. 
+- Different long-term policy choices could mitigate these impacts for drought events with similar severity and duration. 
 
 
 ## Introduction
