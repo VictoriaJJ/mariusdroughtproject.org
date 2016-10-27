@@ -23,17 +23,16 @@ h1, h2, h3. h4, h5, h6 {
 
 hr {
     border: 0;
-    background-color: #000;
-    height: 3px;
+    background-color: #c9c9c9;
+    height: 1px;
 }
 
 header {
-    height: 80px;
+    height: 130px;
     /*margin: 10px 0;*/
     margin-bottom: 20px;
     border-bottom: solid 1px #ccc;
-    background-color: #000;
-    color: #fff;
+    /*background-color: #000;*/
 }
 
 footer {
@@ -128,13 +127,13 @@ footer > div {
 /* */
 
 .container {
-    margin: 50px 0;
+    /*margin: 50px 0;*/
 }
 .container > div {
     display: inline;
-    padding: 0 30px 0 0;
 }
 .container img {
     max-width: 100%;
     vertical-align: middle;
+    padding: 20px 30px 20px 0;
 }
