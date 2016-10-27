@@ -7,9 +7,7 @@ _title: Planning for the long term
 ---
 A wide range of drought management options have been explored and reviewed as part of MaRIUS. A non-exhaustive list of options is shown in the chart below. The review has also highlighted which options for drought management practice in England & Wales are currently used or mentioned within water companies’ Water Resources Management Plans (WRMPs).
 
-![drought_management_ptions_current.jpg]({{site.baseurl}}/assets/img/drought_management_ptions_current.jpg)
-{:width="60%"}
-
+![drought_management_ptions_current.jpg]({{site.baseurl}}/assets/img/drought_management_ptions_current.jpg){:width="60%"}
 
 Currently, options such as drought plans and drought permits and orders, which allow water companies to manage water resources during a drought, are key regulatory tools for preventing and managing drought.
 
