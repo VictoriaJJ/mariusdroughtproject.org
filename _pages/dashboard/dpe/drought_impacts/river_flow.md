@@ -5,7 +5,7 @@ permalink: /dashboard/dpe/drought_impacts/river_flow/
 _title: Impacts of drought on river flow
 related_links:
   - name: Hydrology
-    url: '!science_url!drought_impacts_management/hydrology/'
+    url: '!science_url!/drought_impacts_management/hydrology/'
   - name: Hydrological output UK
     url: 'http://www.hydoutuk.net/latest-outlook'
     external: true
