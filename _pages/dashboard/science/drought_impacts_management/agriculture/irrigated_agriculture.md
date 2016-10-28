@@ -2,7 +2,7 @@
 layout: science
 published: true
 permalink: /dashboard/science/drought_impacts_management/agriculture/irrigated/
-subsection: Drought Impacts Management
+subsection: Drought Impacts Management > Agriculture
 _title: Irrigated agriculture
 sub__title: Agricultural droughts impacts and responses
 ---
