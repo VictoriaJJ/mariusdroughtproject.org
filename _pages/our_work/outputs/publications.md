@@ -30,15 +30,29 @@ Outputs will be listed here when they become available.
 
 Outputs will be listed here when they become available.
 
-Slide1	
-Introduction to Environmental Competency Groups (ECGs) for the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project: A Follow-up to ECG Simulation Event held at project start-up meeting in Oxford 19 May 2014, Catharina Landström, University of Oxford.
+<div class="row symposium">
+	<div class="large-3 columns">
+		<img src="/mariusdroughtproject.org/assets/img/Slide1-150x150.png" alt="" />
+	</div>
+	<div class="large-9 columns">
+		<p><b>Introduction to Environmental Competency Groups (ECGs) for the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project</b></p>
 
-Click on the image to the left to download the outcomes of the 2014 May workshop group exercise in Competency Groups.
+		<p>A Follow-up to ECG Simulation Event held at project start-up meeting in Oxford 19 May 2014, Catharina Landström, University of Oxford.</p>
 
- Network	
-Knowledge Network Visualisations
+		<!-- <p>Click on the image to the left to download the outcomes of the 2014 May workshop group exercise in Competency Groups.</p> -->
+	</div>
+</div>
 
-Click on the image to the left to see an early output of the research in Work Task A1: Knowledge controversies in water scarcity.  The diagram shows the formal ties between the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> research teams, stakeholders and other research projects, and maps the involvement of stakeholders across the multiple projects in the NERC [UK Droughts &amp; Water Scarcity Programme](http://www.nerc.ac.uk/research/funded/programmes/droughts/){:target="_blank"}.
+<div class="row symposium">
+	<div class="large-3 columns">
+		<img src="/mariusdroughtproject.org/assets/img/Network-150x150.png" alt="" />
+	</div>
+	<div class="large-9 columns">
+		<p><b>Knowledge Network Visualisations</b></p>
 
-More input from stakeholders is needed to further develop this Visualisation, so please get in touch with Catharina Landstrom to let her know which other research projects you are involved with:  catharina.landstrom@ouce.ox.ac.uk
+		<p><!-- Click on the image to the left to see an early output of the research in Work Task A1: Knowledge controversies in water scarcity. --> The diagram shows the formal ties between the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> research teams, stakeholders and other research projects, and maps the involvement of stakeholders across the multiple projects in the NERC [UK Droughts &amp; Water Scarcity Programme](http://www.nerc.ac.uk/research/funded/programmes/droughts/){:target="_blank"}.</p>
+
+		<p>More input from stakeholders is needed to further develop this Visualisation, so please get in touch with Catharina Landstrom to let her know which other research projects you are involved with: <a href="mailto:catharina.landstrom@ouce.ox.ac.uk">Catharina Landstrom</a></p>
+	</div>
+</div>
 
