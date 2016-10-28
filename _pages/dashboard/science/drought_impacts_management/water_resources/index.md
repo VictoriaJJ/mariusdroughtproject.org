@@ -2,6 +2,9 @@
 layout: science
 published: true
 permalink: /dashboard/science/drought_impacts_management/water_resources/
+
+subsection: Drought Impacts Management
+_title: Water Resources
 ---
 ## Water Resources
 
