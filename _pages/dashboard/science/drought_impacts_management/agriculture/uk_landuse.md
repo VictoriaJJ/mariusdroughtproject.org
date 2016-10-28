@@ -22,11 +22,9 @@ A: Observed CORINE land use, B: Model simulated land use for the baseline period
 
 ## Results
 
-Figure 2 indicates the average change in rural land use allocation across the UK with temperature and precipitation change. Most noticable is perhaps the large reduction in arable land use and corresponding increase in grassland when temperature increases by approximately 3 degrees. This indicates under warming scenarios arable land within the UK is less profitable than grassland. This is likely to be caused by the large increase in arable area and production within central and eastern Europe under these scenarios.
+Figure 2 indicates the average change in rural land use allocation across the UK with temperature and precipitation change. Most noticable is perhaps the large reduction in arable land use and corresponding increase in intensive grassland when temperature increases by approximately 2 degrees. This indicates under warming scenarios arable land within the UK is less profitable than grassland. This is likely to be caused by the large increase in arable area and production within central and eastern Europe under these scenarios.
 
-
-
-
+![2.png]({{site.baseurl}}/assets/img/2.png)
 
 As shown in figure 1, the model simulates a reduction in forest area and increase in grassland as precipitation decreases. This possibly reflects the additional area of grassland required to support a similar dairy/meat production due to reduced grassland productivity in a drier climate.
 
