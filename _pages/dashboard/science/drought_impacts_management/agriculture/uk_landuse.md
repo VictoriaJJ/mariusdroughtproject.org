@@ -17,7 +17,7 @@ Effects of long term yield and profit variability influence farm business planni
 Simulation of UK landuse response to increased water scarcity, arising from changing relative crop and farm profitability, within a Pan-European integrated modelling platform. The model was validated by comparison of observed current and simulated land use (see figure 1). Additionally the division of agricultural land by crop type was assessed by comparision with EUROSTAT agricultural data (Figure 2). 
 The model was then simulated with a combination of temperature and precipitation perturbations from the baseline to indicate potential land use and agricultural land use change within the UK under a range of future climate scenarios. 
 
-![Observed CORINE land use and simulated land use for the baseline period (majority land use type for each grid cell shown).]({{site.baseurl}}/assets/img/Tori1.jpg.png){:width="50%"}
+![Observed CORINE land use and simulated land use for the baseline period (majority land use type for each grid cell shown).]({{site.baseurl}}/assets/img/Fig1.png)
 
 Observed CORINE land use and simulated land use for the baseline period (majority land use type for each grid cell shown).
 
