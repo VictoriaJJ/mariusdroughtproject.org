@@ -26,7 +26,7 @@ Figure 2 indicates the average change in rural land use allocation across the UK
 
 ![2.png]({{site.baseurl}}/assets/img/2.png)
 
-As shown in figure 1, the model simulates a reduction in forest area and increase in grassland as precipitation decreases. This possibly reflects the additional area of grassland required to support a similar dairy/meat production due to reduced grassland productivity in a drier climate.
+As shown in figure 1, the model simulates a reduction in forest area and increase in grassland as precipitation decreases. This ultimately reflects the increased profitiability of grassland under reduced precipitation scenario, possibly due to  reduced forest productivity, and the additional area of grassland required to support a similar dairy/meat production in a drier climate.
 
 
 ## Research team
