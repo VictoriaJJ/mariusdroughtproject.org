@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" dir="ltr"><!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    {% if layout.noindex %}
+    <meta name="robots" content="noindex" />
+    {% endif %}
+
+    <title>{{ page._title }}</title>
+    
+    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn"t work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!---<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/vendor/foundation-6.2.3-custom.min.css">-->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/vendor/foundation-6.2/foundation.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/vendor/font-awesome-4.7.0/css/font-awesome.min.css" media="screen">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css"> <!-- app -->
+
+    {% if layout.section %}
+      <!-- css for SECTION (layout): {{ layout.section }} -->
+      <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ layout.section }}.css" media="screen">
+    {% endif %}
+
+    {% if layout.extra_css %}
+      <!-- extra_css for SECTION (layout): {{ layout.section }} -->
+      {% for css_file in layout.extra_css %}
+      <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ css_file }}.css" media="screen">
+      {% endfor %}
+    {% endif %}
+
+    {% if page.extra_css %}
+      <!-- extra_css for PAGE: {{ page._title }} -->
+      {% for css_file in page.extra_css %}
+      <link rel="stylesheet" href="{{ site.assets_url }}/css/{{ css_file }}" media="screen">
+      {% endfor %}
+    {% endif %}
+
+    {% if layout.interactive %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/vendor/nv.d3.css">
+    <script src="{{ site.baseurl }}/assets/js/vendor/d3.v3.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/vendor/nv.d3.js"></script>
+    {% endif %}
+
+</head>
+
+<body class="{{ layout.section }}">
+<!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+  {% include header.html %}

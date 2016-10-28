@@ -1,0 +1,35 @@
+{% include footer.html %}
+
+
+<script src="{{ site.baseurl }}/assets/js/vendor/foundation-6.2/jquery.js"></script>
+<script src="{{ site.baseurl }}/assets/js/vendor/foundation-6.2/foundation.min.js"></script>
+
+<!--<script src="{{ site.baseurl }}/assets/js/vendor//jquery_foundation-6.2.3-custom.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/vendor/foundation-6.2.3-custom.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/vendor/app_foundation-6.2.3-custom.min.js"></script>-->
+
+<script src="{{ site.baseurl }}/assets/js/main.js"></script> <!-- app -->
+
+{% if layout.extra_js %}
+  <!-- extra_js for SECTION (layout): {{ layout.section }} -->
+  {% for js_file in layout.extra_js %}
+  <script src="{{ site.baseurl }}/assets/{{ js_file }}.js"></script>
+  {% endfor %}
+{% endif %}
+ 
+{% if page.extra_js %}
+  <!-- extra_css for PAGE: {{ page._title }} -->
+  {% for js_file in page.extra_js %}
+  <script src="{{ site.assets_url }}/js/{{ js_file }}"></script>
+  {% endfor %}
+{% endif %}
+
+<div class="scroll-top-wrapper ">
+	<span class="scroll-top-inner">
+    <!--<i class="fa fa-2x fa-arrow-up"></i>-->
+		<i class="fa fa-2x fa-arrow-up"></i>
+	</span>
+</div>
+
+</body>
+</html>
