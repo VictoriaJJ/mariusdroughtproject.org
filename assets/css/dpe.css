@@ -2,6 +2,12 @@
 
 @import url('main.css');
 
-header {
-    /*background-color: #FF7F00;*/
+/* section color: #6CC4EA */
+
+header {}
+
+.section-ident {
+    height: 15px;
+    margin-bottom: 20px;
+    background-color: #6CC4EA;
 }

@@ -8,7 +8,7 @@ related_links:
   - name: Economy and Industry
     url: '!science_url!/drought_impacts_management/economy_and_industry/'
 ---
-**Economic** impacts of drought can be large and far-ranging. However, estimates of the economic impact of droughts are generally developed in the absence of an explicit conceptual framework. Therefore, in MaRIUS a new analytical framework was developed, to capture all the factors that contribute to, or mitigate against, the economic costs or impacts of a drought. These factors include climate and drought dynamics, infrastructure in place and policy, planning and management actions. 
+**Economic** impacts of drought can be large and far-ranging. However, estimates of the economic impact of droughts are generally developed in the absence of an explicit conceptual framework. Therefore, in <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> a new analytical framework was developed, to capture all the factors that contribute to, or mitigate against, the economic costs or impacts of a drought. These factors include climate and drought dynamics, infrastructure in place and policy, planning and management actions. 
 
 The economic model will be used to estimate direct and indirect losses of drought and highlight the impacts associated with different drought management options.
 

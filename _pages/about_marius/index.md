@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-permalink: /about_marius/
+permalink: /
 _title: About MaRIUS
 ---
 Droughts are one of the headline strategic risks to the UK. In 2012 the UK experienced the driest spring in over a century, after two dry winters. Ministers faced the prospect of water shortages during the London Olympics. Whilst the drought conditions in early 2012 served as a wake-up call, the potential for water shortages in the UK, driven by changing patterns of demand and changing climatic conditions, had already been recognised. In the [Thames Water](http://www.thameswater.co.uk){:target="_blank"} [region](http://www.thameswater.co.uk/about-us/7476.htm "Thames Water supply area map"){:target="_blank"} alone it is estimated that severe water rationing could potentially result in economic losses of £300million/day. The capacity for the natural environment to recover from periods of very low flows, deteriorated water quality, dry soils and hot temperatures is not well understood.

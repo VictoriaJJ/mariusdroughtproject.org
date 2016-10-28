@@ -12,7 +12,7 @@ _title: Drought governance scenarios
  
 ## Introduction
 
-One element of the MaRIUS project is to explore and review options for drought management practice in England & Wales beyond the existing regulatory framework and to discuss qualitatively the potential effectiveness of and constraints upon these options with stakeholders. Therefore, a scenario building workshop is organised and offers:
+One element of the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project is to explore and review options for drought management practice in England & Wales beyond the existing regulatory framework and to discuss qualitatively the potential effectiveness of and constraints upon these options with stakeholders. Therefore, a scenario building workshop is organised and offers:
 
 * the possibility to develop explorative scenarios for drought management
 * the opportunity for unconstrained blue sky thinking about drought management options based on the question *What can happen*?

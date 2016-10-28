@@ -2,6 +2,7 @@
 layout: dpe
 published: true
 permalink: /dashboard/dpe/drought_impacts/river_flow/
+subsection: Drought Impacts
 _title: Impacts of drought on river flow
 related_links:
   - name: Hydrology
@@ -22,7 +23,7 @@ _Thames basin: Monthly mean river flow for July 1976 (G2G output)_
 
 COMING SOON!!
 
-- See outputs from the different MaRIUS hydrological models for river flow, soil moisture, run-off, and ground water.
+- See outputs from the different <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> hydrological models for river flow, soil moisture, run-off, and ground water.
 - How these outputs vary across spatial scales ranging from the Thames and Severn catchments to England and Great Britain.
 - How these outputs vary for the baseline, near future and far future.
 

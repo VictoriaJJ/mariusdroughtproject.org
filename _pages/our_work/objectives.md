@@ -4,7 +4,7 @@ published: true
 permalink: /our_work/objectives/
 
 subsection: Our Work
-_title: Objectives
+_title: Research Objectives
 ---
 Management of water resources, droughts and water scarcity in the UK is undergoing significant changes. Our vision is that management of droughts and water scarcity will in future be more explicitly risk based, incorporating authoritative analysis of the full range of drought impacts for people and the environment, and a systemic understanding of their interactions and uncertainties.
 

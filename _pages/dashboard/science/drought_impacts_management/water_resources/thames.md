@@ -11,7 +11,7 @@ _title: Nested catchment modelling - Thames basin
 
 ## Introduction 
 
-WATHNET has been employed in MaRIUS project to develop Thames basin water resources system. Two version of Thames basin water resources system developed, one captures all the details and complexity of the system while the other one is an aggregated version of the detailed one and it is indeed simplified. 
+WATHNET has been employed in <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project to develop Thames basin water resources system. Two version of Thames basin water resources system developed, one captures all the details and complexity of the system while the other one is an aggregated version of the detailed one and it is indeed simplified. 
      
 ![Figure 1: Simplified model of Thames Basin water resource system]({{site.baseurl}}/assets/img/Mohammad_2.png)
 

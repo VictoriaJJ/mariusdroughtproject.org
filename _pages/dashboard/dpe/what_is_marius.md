@@ -3,7 +3,7 @@ layout: dpe
 published: true
 permalink: /dashboard/dpe/what_is_marius/
 
-_title: The MaRIUS Project
+_title: The <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> Project
 ---
 
 Droughts and water scarcity pose a significant risk to societies, economies and ecosystems worldwide.  In 2012 the UK experienced the driest spring in over a century, following two dry winters.  A full drought could have led to potential losses of £1.5 billion.

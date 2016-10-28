@@ -8,7 +8,7 @@ _title: Drought datasets and how to access them
 
 ## Introduction
 
-Two types of climate datasets have been generated within MaRIUS: the [Hindcast]({{ site.science_url }}/20c/) and the synthetic event set ([baseline]({{ site.science_url }}/20c/) and [future]({{ site.science_url }}/21c/)). These are currently available to MaRIUS researchers and in time they will be freely available to anyone. This page describes these in greater detail and provides information about data format, access and interpretation.
+Two types of climate datasets have been generated within MaRIUS: the [Hindcast]({{ site.science_url }}/20c/) and the synthetic event set ([baseline]({{ site.science_url }}/20c/) and [future]({{ site.science_url }}/21c/)). These are currently available to <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> researchers and in time they will be freely available to anyone. This page describes these in greater detail and provides information about data format, access and interpretation.
 
 
 ## Dataset 1: Hindcast
@@ -16,7 +16,7 @@ Two types of climate datasets have been generated within MaRIUS: the [Hindcast](
 This product uses the [20th-Century Reanalysis version 2c product](go.usa.gov/XTd ; portal.nersc.gov/project/20C_Reanalysis/) to drive the RCM HadRM3P at its boundaries. In this case, the atmospheric circulation in an RCM closely follows the driving data. Hence for the Hindcast product, since the reanalysis product is a reconstruction of reality, atmospheric circulation and thereby also the sequences of weather events should be close to real events (albeit with model biases). **Therefore, this is a model-based 6-hourly reconstruction of the weather that occurred in the past**(1851-2014, with an experimental reconstruction of the 20 years preceding this also included in the simulation but not being made available).
 
 Note that: 
-1.	20CR consists of 56 ensemble members to sample uncertainty in the reconstruction where the surface pressure observations used to constrain the reanalysis are sparse. Each member is equally plausible and hence a single ensemble member (number 37) was chosen at random for the MaRIUS experiments.
+1.	20CR consists of 56 ensemble members to sample uncertainty in the reconstruction where the surface pressure observations used to constrain the reanalysis are sparse. Each member is equally plausible and hence a single ensemble member (number 37) was chosen at random for the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> experiments.
 2.	The first 20 years (1830-1850) were discarded as spin-up as these used climatological sea-surface temperatures (rather than time-varying observed estimates used from 1850 onwards).
 3.	Years 2013 and 2014 switch to another sea surface temperature data set (Reynolds data set), because the data used for previous years (SODAsi.2 with the high latitudes corrected to COBE-SST2) do not go beyond 2012. More information is available [here](http://www.esrl.noaa.gov/psd/data/gridded/data.20thC_ReanV2c.html). 
 
@@ -51,7 +51,7 @@ The NetCDF data format is used to store the data. Data is generated on a rotated
 
 ## Data access
 
-Data is currently available to MaRIUS researchers. The aim is to make them freely available early 2017. This page will be updated in due time, with information on where to find the data.
+Data is currently available to <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> researchers. The aim is to make them freely available early 2017. This page will be updated in due time, with information on where to find the data.
 
 
 ## Data citation
@@ -66,7 +66,7 @@ How the data should be cited will be stated here when releasing the dataset.
 - Further papers with detailed validation and analyses of the event set are being prepared
 
 ### Podcasts:
-- The climate datasets, particularly the drought event set, being generated in the MaRIUS project: https://youtu.be/i4kApYaeQpQ
+- The climate datasets, particularly the drought event set, being generated in the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project: https://youtu.be/i4kApYaeQpQ
 - Western US drought attribution, and the generation of synthetic multi-year UK drought events for risk-based impact studies:
 https://youtu.be/ybkZ7TAh9wA
 

@@ -22,14 +22,14 @@ A drought could potentially impact on several plants simultaneously, resulting i
 
 ## Research methods
 
-In this MaRIUS analysis we use a dataset of 42 thermal power plants around the UK that depend on freshwater for cooling and contribute approximately one-third of the UK’s electricity generation (2012 values). The key metric of these analyses is generation unavailability, which is the amount of time that a power plant is unable to operate due to low flows. It represents a maximum potential impact.
+In this <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> analysis we use a dataset of 42 thermal power plants around the UK that depend on freshwater for cooling and contribute approximately one-third of the UK’s electricity generation (2012 values). The key metric of these analyses is generation unavailability, which is the amount of time that a power plant is unable to operate due to low flows. It represents a maximum potential impact.
 
 For a historical economic impacts analysis, we analysed historical flows over 66 gauging stations near these power plants for the period 1974-2012.
 
 A further analysis used the Future Flows Hydrology to simulate impacts on the generation unavailability under climate change.
 In both cases we keep the fleet of power plants and implementation of water abstraction regulation, constant.
 
-Forthcoming analysis will use the specially-formulated MaRIUS drought event sets and calculate impacts on the price of electricity.
+Forthcoming analysis will use the specially-formulated <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> drought event sets and calculate impacts on the price of electricity.
 
 ## Results
 

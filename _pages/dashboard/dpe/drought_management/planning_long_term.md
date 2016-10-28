@@ -8,7 +8,7 @@ related_links:
   - name: Science dashboard
     url: '!science_url!/'
 ---
-Management of water resources, droughts and water scarcity in the UK is undergoing significant changes. The work of MaRIUS has enabled the management of droughts and water scarcity to be explored following a risk-based approach, incorporating analysis of the full range of drought impacts for people and the environment, and a systemic understanding of their interactions and uncertainties.
+Management of water resources, droughts and water scarcity in the UK is undergoing significant changes. The work of <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> has enabled the management of droughts and water scarcity to be explored following a risk-based approach, incorporating analysis of the full range of drought impacts for people and the environment, and a systemic understanding of their interactions and uncertainties.
 
 A risk-based approach enables the development of management measures whose costs and impacts are in proportion to the probability and consequences of water scarcity, informed by a mature understanding of droughts from the perspectives of a range of communities and stakeholders. Improved understanding of uncertainties provides the basis for identification of management responses that are robust to uncertainty, reflect society’s attitude to risk, and help to make the case for adaptive management approaches informed by targeted data acquisition.
 

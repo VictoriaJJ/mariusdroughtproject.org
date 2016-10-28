@@ -8,7 +8,7 @@ _title: Drought governance options
 
 ## Introduction 
 
-One element of the MaRIUS project is to explore and review options for drought management practice in England & Wales beyond the existing regulatory framework and to discuss qualitatively the potential effectiveness of and constraints upon these options.
+One element of the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project is to explore and review options for drought management practice in England & Wales beyond the existing regulatory framework and to discuss qualitatively the potential effectiveness of and constraints upon these options.
 
 The aim is to highlight existing drought management options in England & Wales while at the same time providing a, non-exhaustive, list of key drought management options from other countries, especially  Spain, Australia, United States (California) and South Africa. The aim is furthermore to stress the social science aspect of options, i.e. comprehensively cover political, social, legal and economic and ecological factors/aspects of drought management.
 
