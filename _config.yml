@@ -57,6 +57,7 @@ prose:
     - /_layouts
     - /_plugins
     - /assets
+    - .travis.yml
   metadata:
     _pages:
       - name: "layout"
