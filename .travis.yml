@@ -1,0 +1,14 @@
+language: ruby
+rvm:
+- 2.3.1
+
+install:
+- bundle install
+
+script: bundle exec rake site:deploy --quiet
+
+env:
+  global:
+  - secure: TX5WN2r6vao0nPcWYkfkDyAGdjVP5ONNGr400zv+CznZEVyyFYzxKIsc3tlSycgzCMzUSauyyghcPaMFqRR41Fh+2iPF4hN9gAsewNYeBX51B2In+od+JoADNxOaZKRoCkHlKjio2a2xSJDEj7Qh6EMzAPdRlgLXlFmvNUxSJJMuMAXYqPI6v1Q0YNlLNCcINQKDHSxpiX+fXvlBRYLzngRvDLEByqqoeyTdFRlBRbo7nG/Wco+m4y0wHJLrv+o8k5qUwI/w55U3LlrOoW+pZtqFu+YalsW8NCNVUpredMdyAmEubs16QfbDonB9/iYm9vuAehzHYlTvONPmpEccfidVPDz0puQRuF2t+SlceqqdEVPrZeLnwyfEqUdEDSWEFykoruZSP0wJTlby8ANafQUJWNAfrfHT4nVEZcYOl/kFu7OroX8A5Q1W4FqrnWgbFdrHBrFh/9s6RXdoIfwHFjfl4TwaR3G5O+0rnHtXezfNNAjkt+9r5vfoA2dwIB7fzHOvR3EKhwsRU3ymLVg9LAqHFarY3eP3ofhxwD1Xg9GzEqFTBRZSGdlqBwYOzh53tJRykEYb0vsshozv0GyiLFuYBUKbVtBXDi6SpMtjYCTgnonwKpS9cYvyi4f3bbbgwixJax+08VnEacqo716ekxJ2qlgLF7mXoTb9MmDTm+A=
+
+sudo: false # route your build to the container-based infrastructure for a faster build

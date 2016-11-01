@@ -61,3 +61,31 @@ September 2016:  Kevin Grecksch convened a scenario building workshop was held o
 * **September 2014**: The first Drought Symposium was held in Magdalen College, Oxford, with speakers from the International Advisory Board, held followed by the third assembly of the International Advisory Group to guide the project researchers.
 
 * **May 2014**: The first workshop for interested parties took place and served to launch the project following its inception in April 2014. A large number of people attended, and wished to find out more.
+
+### Collaborations & Partnerships
+
+* The project team have participated in a 2-day workshop with some of its International Advisory Board in September 2014, 2015 and 2016 to ensure the academic work is as rigorous and as excellent as can be. The International Advisory Board members present were: Christopher Duffy, Penn State University, USA; Greg Garfin, Arizona University, USA; Peter Wallbrink, CSIRO, Australia; and Lee Godden, Melbourne University, Australia.  Further to this, on a separate occasion, Dr Victoria Bell, and Dr Ali Rudd met with Dr Narendra Tuteja, Bureau of Meteorology, Australia, to discuss drought research and findings.
+
+* Dr Eric Sarmiento and Dr Catharina Landstrom have met with and interviewed representatives of local groups to prepare for the environmental competency and community modelling group work in order to meet human geography research objectives.
+
+* Dr Catharina Landstrom, Dr Eric Sarmiento and Prof. Sarah Whatmore created an Environmental Competency group with locals in the Kennet Catchment, Berkshire.  This is a key multidisciplinary approach to exploring knowledge and issues surrounding drought and water scarcity.  The researchers participating in the Environmental Competency group cover human geography, legislation/governance, water quality, and water resources modelling.
+
+* Dr Catharina Landstrom, Dr Eric Sarmiento and Prof Sarah Whatmore created a Community Modelling approach with local groups in the River Lea catchment, London.  This group will examine community modelling approaches to engage local groups.
+
+* Dr Thorsten Wagener and Dr Jude Musuuza, University of Bristol, have been working with Dr Duffy (Penn State University, USA) and his team to improve the PIHM model and its representation of low flows and groundwater resources to drought.
+
+* Dr Thorsten Wagener and Dr Jude Musuuza, University of Bristol, have been working with Prof Stefan Kollet (University of Bonn, Germany) to perform a model inter-comparison study of the main integrated mechanistic hydrology models currently available, using the synthetic catchment (used in Maxwell et al., 2014 WRR (doi:10.1002/2013WR013725))
+
+* Dr Jaume Freire, Dr Chris Decker and Prof. Jim Hall, University of Oxford, have made contact with University of Leiden, Netherlands, to access a critical database for research into the economic effect of drought.
+
+* Dr Mohammad Mortazavi-Naeini, University of Oxford, has been working with staff from Thames Water to understand its distribution system in order to create a water simulation model that best simulates the Thames Catchment, for drought analyses.
+
+* Prof Thorsten Wagener and Dr Gemma Coxon have been working as part of the Panta Rhei Working Group ‘Drought in the Anthropocene’.
+
+* Members of the project team met with staff from Southern Water in order to share ideas for collaboration and ensure the utility of the MaRIUS outputs to water resource practitioners
+
+* Dr Christina Cook, Dr Bettina Lange and Dr Catharina Landstrom have met and interviewed representatives of water companies, and environmental regulators to discuss the research and gain their insights in order to meet social science objectives.
+
+* Paul Whitehead and Dr Gianbattista Bussi met with Thames Water to discuss water quality issues and agree on joint work investigating carbon issues in the upper Severn under drought conditions using INCA C model
+
+* Paul Whitehead and Dr Gianbattista Bussi are working with Prof. Martyn Futter, Sweden, on carbon issues from peatlands under drought conditions

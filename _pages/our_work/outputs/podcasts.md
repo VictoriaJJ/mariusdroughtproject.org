@@ -62,7 +62,7 @@ Prof Jim Hall, University of Oxford
 
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/christina_cook.png" alt="Dr Christina Cook" />
+		<img src="/mariusdroughtproject.org/assets/img/people/christina_cook.jpg" alt="Dr Christina Cook" />
 	</div>
 	<div class="large-9 columns">
 		<a data-open="modalUKDroughtGovernance">UK Drought governance arrangements</a> <br>
@@ -82,7 +82,7 @@ Prof Jim Hall, University of Oxford
 
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/benoit_guillod.png" alt="Dr Benoit Guillod" />
+		<img src="/mariusdroughtproject.org/assets/img/people/benoit_guillod.jpg" alt="Dr Benoit Guillod" />
 	</div>
 	<div class="large-9 columns">
 		<a data-open="modalDroughtEventSets">The climate datasets, particularly the ‘Drought Event Sets’, being generated in the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> research project.</a> <br>
@@ -102,7 +102,7 @@ Prof Jim Hall, University of Oxford
 
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/benoit_guillod.png" alt="Dr Benoit Guillod" />
+		<img src="/mariusdroughtproject.org/assets/img/people/benoit_guillod.jpg" alt="Dr Benoit Guillod" />
 	</div>
 	<div class="large-9 columns">
 		<a data-open="modalWesternUSDroughtAttribution">Western US drought attribution, and the generation of synthetic multi-year UK drought events for risk-based impact studies.</a> <br>
@@ -122,7 +122,7 @@ Prof Jim Hall, University of Oxford
 
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/latharina_landstrom.png" alt="Dr Catharina Landstrom" />
+		<img src="/mariusdroughtproject.org/assets/img/people/catharina_landstrom.png" alt="Dr Catharina Landstrom" />
 	</div>
 	<div class="large-9 columns">
 		<a data-open="modalMappingDroughtKnowledges">Mapping Drought Knowledges in the UK</a> <br>
@@ -142,7 +142,7 @@ Prof Jim Hall, University of Oxford
 
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/dolores_rey.png" alt="Dr Dolores Rey" />
+		<img src="/mariusdroughtproject.org/assets/img/people/dolores_rey.jpg" alt="Dr Dolores Rey" />
 	</div>
 	<div class="large-9 columns">
 		<a data-open="modalDroughtImapctAgriculture">Evidence of increasing resilience in the irrigated agricultural sector in the face of increasing water scarcity</a> <br>
@@ -162,7 +162,7 @@ Prof Jim Hall, University of Oxford
 
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/eric_sarmiento.png" alt="Dr Eric Sarmiento" />
+		<img src="/mariusdroughtproject.org/assets/img/people/eric_sarmiento.jpg" alt="Dr Eric Sarmiento" />
 	</div>
 	<div class="large-9 columns">
 		<a data-open="modalSocioculturalPerceptions">Sociocultural perceptions and knowledge controversies</a> <br>
@@ -182,7 +182,7 @@ Prof Jim Hall, University of Oxford
 
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/pam_berry.png" alt="Dr Pam Berry" />
+		<img src="/mariusdroughtproject.org/assets/img/people/pam_berry.jpg" alt="Dr Pam Berry" />
 	</div>
 	<div class="large-9 columns">
 		<a data-open="modalDroughtImpactEcosystems">Impact of drought on ecosystems and their ecology</a> <br>
@@ -222,7 +222,7 @@ Prof Jim Hall, University of Oxford
 
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/len_shaffrey.png" alt="Dr Len Shaffrey" />
+		<img src="/mariusdroughtproject.org/assets/img/people/len_shaffrey.jpg" alt="Dr Len Shaffrey" />
 	</div>
 	<div class="large-9 columns">
 		<a data-open="modalImpetus">IMPETUS: Improving PrEdictions of Drought To inform USer decisions</a> <br>
@@ -242,7 +242,7 @@ Prof Jim Hall, University of Oxford
  
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/kevin_collins.png" alt="Kevin Collins" />
+		<img src="/mariusdroughtproject.org/assets/img/people/kevin_collins.jpg" alt="Kevin Collins" />
 	</div>
 	<div class="large-9 columns">
 		<a data-open="modalDriVER">DrIVER –  Designing social learning systems for improving drought monitoring and early warning</a> <br>
@@ -262,7 +262,7 @@ Prof Jim Hall, University of Oxford
 
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/henry_leveson_gower.png" alt="Henry Leveson Gower" />
+		<img src="/mariusdroughtproject.org/assets/img/people/henry_leveson_gower.jpg" alt="Henry Leveson Gower" />
 	</div>
 	<div class="large-9 columns">
 		<a data-open="modalAbstrationReform">Abstraction Reform and Water Resilience outside of the Public Water Supply. Podcast of a talk he gave at the jointly hosted Oxford Water Network and CIWEM South Central Branch Evening Seminar on 16 March 2016</a> <br>

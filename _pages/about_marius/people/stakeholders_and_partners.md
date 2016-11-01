@@ -37,7 +37,7 @@ Please meet the members of the Stakeholder Advisory Group:
 
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/mike_morecroft.jpg" alt="Mike Morecroft" />
+		<img src="/mariusdroughtproject.org/assets/img/people/mike_morecroft.png" alt="Mike Morecroft" />
 	</div>
 	<div class="large-9 columns">
 		<b>Environment Agency</b><br>
@@ -126,7 +126,7 @@ Thames Water.</p>
 
 <div class="row profile">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/people/chris_lambert.jpg" alt="Dr Chris Lambert" />
+		<img src="/mariusdroughtproject.org/assets/img/people/default.png" alt="Dr Chris Lambert" />
 	</div>
 	<div class="large-9 columns">
 		<b>Thames Water</b><br>

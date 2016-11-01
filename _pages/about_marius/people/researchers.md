@@ -57,10 +57,10 @@ Meet the researchers below!
 <div class="row profile">
 	<div class="large-3 columns">
 		<a name="vicky_bell"></a>
-		<img src="/mariusdroughtproject.org/assets/img/people/vicky_bell.jpg" alt="Dr Vicky Bell" />
+		<img src="/mariusdroughtproject.org/assets/img/people/default.png" alt="Dr Vicky Bell" />
 	</div>
 	<div class="large-9 columns">
-		<b>Dr Vicky Bell</b><br>
+		<a href="http://www.ceh.ac.uk/staff/vicky-bell" target="_blank"><b>Dr Vicky Bell</b></a><br>
 		<p>Dr Vicky Bell leads the Hydrological Modelling and Risk group at the Centre for Ecology and Hydrology in Wallingford. She specialises in the development of spatially-distributed hydrological models, and modelling of hydro-ecological systems as affected by natural hazards, including the Grid-to-Grid hydrological model, currently used for UK-wide seasonal hydrological forecast system (“Hydrological Outlooks”). For MaRIUS, Vicky will be working on the development and application of national gridded hydrological models to enhance the representation of drought processes.</p>
 	</div>
 </div>
@@ -90,7 +90,7 @@ Meet the researchers below!
 <div class="row profile">
 	<div class="large-3 columns">
 		<a name="ed_byers"></a>
-		<img src="/mariusdroughtproject.org/assets/img/people/ed_byers.png" alt="Ed Byers" />
+		<img src="/mariusdroughtproject.org/assets/img/people/ed_byers.jpg" alt="Ed Byers" />
 	</div>
 	<div class="large-9 columns">
 		<b>Dr Ed Byers</b><br>
@@ -269,8 +269,9 @@ Meet the researchers below!
 		<img src="/mariusdroughtproject.org/assets/img/people/alison_kay.jpg" alt="Dr Alison Kay" />
 	</div>
 	<div class="large-9 columns">
-		<b>Dr Alison Kay</b><br>
-		<p>Dr Alison Kay is a reseracher at CEH Wallingford, with interests in the potential impacts of climate change on hydrology. She is specifically interested in the development and application of continuous simulation rainfall-runoff models, both catchment-based and national gridded models, to simulate river flows across Britain. For MaRIUS, Alison will be working with Vicky Bell on the development and application of national gridded hydrological models to enhance the representation of drought processes.</p>
+		<a href="http://www.ceh.ac.uk/staff/alison-kay" target="_blank"><b>Dr Alison Kay</b></a><br>
+		
+		<p>Dr Alison Kay is a researcher (Senior mathematical modeller) at CEH Wallingford, with interests in the potential impacts of climate change on hydrology. She is specifically interested in the development and application of continuous simulation rainfall-runoff models, both catchment-based and national gridded models, to simulate river flows across Britain. For MaRIUS, Alison will be working with Vicky Bell on the development and application of national gridded hydrological models to enhance the representation of drought processes.</p>
 	</div>
 </div>
 

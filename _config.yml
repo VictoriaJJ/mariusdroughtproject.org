@@ -1,3 +1,12 @@
+# GitHub
+username: 5j4
+repo: 5j4.github.io
+branch: gh-pages
+
+# Jekyll source / destination
+source: .
+destination: _site
+
 # exclude: ["ReadMe.md", "Rakefile", "License.md"]
 include: ["_pages"]
 
