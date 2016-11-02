@@ -26,8 +26,8 @@ defaults:
 
 markdown: kramdown
 # kramdown config to force interpretation into html block
-# kramdown:
-#   parse_block_html: true
+kramdown:
+  parse_block_html: true
 
 baseurl: /mariusdroughtproject.org
 
