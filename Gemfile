@@ -29,4 +29,5 @@ gem 'github-pages'
 # 	# gem "jekyll-feed"
 # 	# gem "html-proofer"
 # 	# gem "jekyll-archives"
+# 	# gem "markdown"
 # end
