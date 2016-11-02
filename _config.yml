@@ -8,6 +8,7 @@ source: .
 destination: _site
 
 # exclude: ["ReadMe.md", "Rakefile", "License.md"]
+exclude: ["vendor"]
 include: ["_pages"]
 
 # This will require each of these gems automatically.
