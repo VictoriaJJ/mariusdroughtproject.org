@@ -11,6 +11,7 @@ fi
 # rev=$(git rev-parse --short HEAD)
 
 cd _site
+ls -la
 
 # git remote add origin "https://user:${GH_ACCESS_TOKEN}@${GITHUB_REPO}"
 # git fetch origin
@@ -23,4 +24,4 @@ touch .nojekyll
 
 git add -A .
 git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
-git push -q origin HEAD:gh-pages #> /dev/null 2>&1
+git push origin gh-pages #> /dev/null 2>&1
