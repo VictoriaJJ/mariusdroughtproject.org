@@ -1,20 +1,17 @@
 # GitHub
 username: 5j4
 repo: 5j4.github.io
-branch: gh-pages
+branch: master
 
 # Jekyll source / destination
 source: .
 destination: _site
 
-# exclude: ["ReadMe.md", "Rakefile", "License.md"]
 exclude: ["vendor"]
 include: ["_pages"]
 
 gems:
   - jekyll-gist
-  # - MarkdownTag
-  # - render_time
 
 # gems: [jekyll-gist, markdown, render_time]
 

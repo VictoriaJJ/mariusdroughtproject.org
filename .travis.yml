@@ -7,26 +7,27 @@ rvm:
 
 branches:
   only:
-  - gh-pages
+    - master
 
-script:
-- bundle exec jekyll build
+before_script:
+  - git config --global user.email "5j4@users.noreply.github.com"
+  - git config --global user.name "5j4"
+  - git remote rm origin
+  - git remote add origin https://user:${GH_ACCESS_TOKEN}@${GITHUB_REPO}
+
+script: bundle exec jekyll build
 
 after_success:
-- git clone https://$GH_REF
-- cd $(basename ${GH_REF%.git})
-- git config user.name "5j4"
-- git config user.email ${EMAIL}
-- rsync -az --delete --exclude '.git*' ../_site/ .
-- touch .nojekyll
-- git add -A .
-- git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
-- git push -f "https://${DEPLOY_KEY}@${GH_REF}" ${TARGET_BRANCH} > /dev/null 2>&1
+  - bash deploy.sh
+  # - git add -A .
+  # - git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
+  # - git push -f "https://${DEPLOY_KEY}@${GITHUB_REPO}" ${TARGET_BRANCH} > /dev/null 2>&1
+  # - git push -f "https://${GITHUB_API_KEY}@${GITHUB_REPO}" ${TARGET_BRANCH}
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - GH_REF: github.com/5j4/mariusdroughtproject.org.git
-  - TARGET_BRANCH: gh-pages
-  - secure: TX5WN2r6vao0nPcWYkfkDyAGdjVP5ONNGr400zv+CznZEVyyFYzxKIsc3tlSycgzCMzUSauyyghcPaMFqRR41Fh+2iPF4hN9gAsewNYeBX51B2In+od+JoADNxOaZKRoCkHlKjio2a2xSJDEj7Qh6EMzAPdRlgLXlFmvNUxSJJMuMAXYqPI6v1Q0YNlLNCcINQKDHSxpiX+fXvlBRYLzngRvDLEByqqoeyTdFRlBRbo7nG/Wco+m4y0wHJLrv+o8k5qUwI/w55U3LlrOoW+pZtqFu+YalsW8NCNVUpredMdyAmEubs16QfbDonB9/iYm9vuAehzHYlTvONPmpEccfidVPDz0puQRuF2t+SlceqqdEVPrZeLnwyfEqUdEDSWEFykoruZSP0wJTlby8ANafQUJWNAfrfHT4nVEZcYOl/kFu7OroX8A5Q1W4FqrnWgbFdrHBrFh/9s6RXdoIfwHFjfl4TwaR3G5O+0rnHtXezfNNAjkt+9r5vfoA2dwIB7fzHOvR3EKhwsRU3ymLVg9LAqHFarY3eP3ofhxwD1Xg9GzEqFTBRZSGdlqBwYOzh53tJRykEYb0vsshozv0GyiLFuYBUKbVtBXDi6SpMtjYCTgnonwKpS9cYvyi4f3bbbgwixJax+08VnEacqo716ekxJ2qlgLF7mXoTb9MmDTm+A=
-  - secure: ctOFYewG7suiec7XcUkLplY6rMQDoGFXf/94dAgCgtxpYvMuHo8fgsddP+4Pi9b/I64kgLMUcLNfufJZR/59HtcOb08/1SLicnxbLtVWCrojYN/b0pJ+2ejJebie4qXApGTupP4Y2iYMBAYjgI7egZet5G8GNWZ1hIFiMg7U3LjgTXqR8AjZSaDTcdKzV0XEmf93FlF8uPQT0kJk6j97Cri+FQZVZXsIgZ43T+i9ZYilIknNzSrItcbBAYLuMO6ufKrhe0w3Nqhj8X57UM8kDfsYhbPtSEklxJUJ/bsDPGqfwH4k3WDyJF6dCDUimRzb4VVH4VNGKChk373Q2G+cBvAjXbYtL6nFHb/SPVjyDTiSopwOkk32ehuBK1XgVdph+qEhOGtTtZjevqZFmtH7r5X3dqhEtTO5RvxJTt1DfutlLuA8UVUNtwcJTAlUcdhcvnUqzrG7FtpidhjTaDRwVb8D6cCv6JO27EDT2vEXcdTCBVD7PvVPOqBjEZSp3TrhBZ9Q/oa+NOcLSCixmxRk9KpxVPoUgUxOzgPv+eOLdY01kPwCQj+jXYDZ7bw0vYbHOzNSqh5TMcLE6C89nOnWGEoSANzQTGhmjom0nBgr09qWsMg7H51xCa1RQR18PiylC8ED8K2ztZ520MNzUniGg7okcDYY3g9xZ9G5yHdlV0A=
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+    - GITHUB_REPO: github.com/5j4/mariusdroughtproject.org.git
+    - TARGET_BRANCH: gh-pages
+    # secure: encrypted-github-personal-access-token
+    - secure: "WE6x8LEQcTEzz9d5DnEvD+TW9lwTZBdVR+Op834uWKgWrpd6s8iBdxGjIn9lTOptZX1kJ88tdy5trr7c0Fq22o23EAwNsDJqmt4no2GyaOxc3To3hf9RY4uDZMSvcbqzsfzk0xs+Q597B2BTAor2ivxbkukJj7SKOBSxe0RCkVl0qWVQKsL/A/E4kAcwYj2IZFvovihd9wXKyiptfy2MRtWBOlKOiFmaGqwbNUIsWXz0kY+2uu+nUfxpkr1AurY0itAahBUb3CXq7kVz1asd4JE8utkbA8Fs2EYmx0dU0ZVip6ZEaXtCRl1WXxhxsxy3vSYowhUns8CYYdqX6Njc4QzgIrNvJXlVmScmDkHfHb/kV4K0VVFBORuqBfMoFacctdelQ5fNhqXjRgcktfLl+wjhkRCqB38m/AimIZegHVpka6tc25F59vHSdoDgKJi6u8RW3FllIjOFpX85qLkBVWwfagASDFZ9msqioxmVnAx6sXm3iASPSIWkObLe0e7dg7QyGauTGZYfE1gaCy7U5iU9Utl7q8jlaBeWAoLR9qacfwxxopdfhFxdwDXD/5tQGxdjb681ezBz/Uy0YzqE7OMgZ3womEjB03iKZj3otd6FCu+1bQ83P7HJvbNr8D2VSG+HgtNapkGWxlyCVQNeBenhnzdAn9pchfYFGwR4u4c="
