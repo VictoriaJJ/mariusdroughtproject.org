@@ -5,25 +5,34 @@ language: ruby
 rvm:
 - 2.3.1
 
+cache: bundler
+
+install:
+- bundle install
+
 branches:
   only:
-    - master
+    - ${SOURCE_BRANCH}
 
-before_script:
-  - git config --global user.email "5j4@users.noreply.github.com"
-  - git config --global user.name "5j4"
-  - git remote rm origin
-  - git remote add origin https://user:${GH_ACCESS_TOKEN}@${GITHUB_REPO}
+script:
+- "./scripts/build.sh"
 
-script: bundle exec jekyll build
+# before_script:
+#   - git config --global user.email "5j4@users.noreply.github.com"
+#   - git config --global user.name "5j4"
+#   - git remote rm origin
+#   - git remote add origin https://user:${DEPLOY_TOKEN}@${GITHUB_REPO}
 
-after_success:
-  - bash scripts/deploy.sh
+# script: bundle exec jekyll build
+
+# after_success:
+#   - bash scripts/deploy.sh
 
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
     - GITHUB_REPO: github.com/5j4/mariusdroughtproject.org.git
+    - SOURCE_BRANCH: master
     - TARGET_BRANCH: gh-pages
-    # secure: encrypted-github-personal-access-token (GH_ACCESS_TOKEN)
-    - secure: "WE6x8LEQcTEzz9d5DnEvD+TW9lwTZBdVR+Op834uWKgWrpd6s8iBdxGjIn9lTOptZX1kJ88tdy5trr7c0Fq22o23EAwNsDJqmt4no2GyaOxc3To3hf9RY4uDZMSvcbqzsfzk0xs+Q597B2BTAor2ivxbkukJj7SKOBSxe0RCkVl0qWVQKsL/A/E4kAcwYj2IZFvovihd9wXKyiptfy2MRtWBOlKOiFmaGqwbNUIsWXz0kY+2uu+nUfxpkr1AurY0itAahBUb3CXq7kVz1asd4JE8utkbA8Fs2EYmx0dU0ZVip6ZEaXtCRl1WXxhxsxy3vSYowhUns8CYYdqX6Njc4QzgIrNvJXlVmScmDkHfHb/kV4K0VVFBORuqBfMoFacctdelQ5fNhqXjRgcktfLl+wjhkRCqB38m/AimIZegHVpka6tc25F59vHSdoDgKJi6u8RW3FllIjOFpX85qLkBVWwfagASDFZ9msqioxmVnAx6sXm3iASPSIWkObLe0e7dg7QyGauTGZYfE1gaCy7U5iU9Utl7q8jlaBeWAoLR9qacfwxxopdfhFxdwDXD/5tQGxdjb681ezBz/Uy0YzqE7OMgZ3womEjB03iKZj3otd6FCu+1bQ83P7HJvbNr8D2VSG+HgtNapkGWxlyCVQNeBenhnzdAn9pchfYFGwR4u4c="
+    # secure: encrypted-github-personal-access-token (DEPLOY_TOKEN)
+    - secure: "HaelMbXcXP41sd3nhd6KiNLh2R5tODIOaXseX4TiFuWYYxpUzyYn7ipQZMExyCX0lxzW7ckSQEWdfopcSuZb2T4iIDfMBpC8biRkBsFcqezD0Foce1E+1bANk7OEjtPsrQklxr731LfjOgRy2fT2SVfTEmU8ij+u7s412dfTF67ySOSRQQ/R58gcmRMrHUtjidjHfVi9zVP528JzolUZjDpfgSn/Aqf+4led/wz4i4Q9JsB78k4LjDWmAxALkp0b5Uf+XphJgfQ6zU3LQVWCjJfbFmKFuIudw3SNw9RCIKy9gE/i5MaMiVgoOow/Etvw9MRooYqcMiO7KwkFMYQGrDOr7+Z7vXa5okotZWsJeXWRKEzxzyqRmzc7whNXF7AieR3k2ktf9Fi+aHnlNVn8pVK0u3P26qIyYXNh6s4px2Z8WwxHa3Rv/QKOL6YOqfamyjrEY/74WlWWPJDGFgIdAqXMnRIMlMxXrcIN6jS63dAqABQSZPl1beHP+9YJMcY/VUCJXoBuZbQIRwApXIf+lRzo7gHgCHGoOjF1Nnn5zFwu+lEGLQKLqudCqOS1EwicQIXA+a82MQMZMw5RaZLX0vZSLbfdVg0JGEPeS0Yxt6MawdsLafI/JBpT5ZTd6OGHFM+L37o0AvL5aGkRexlETkz9anaku4gotPbnfFGn30Y="
