@@ -2,6 +2,10 @@ $(function(){
 
 	$(document).foundation();
 
+	$("a[target=_blank]").each(function () {
+		$("a").attr('title', 'Open in a new tab');
+	});
+
 	var popup = new Foundation.Reveal($('#videoModal'));
 
 	// $('.your-class').slick({

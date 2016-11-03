@@ -43,10 +43,15 @@ abbr, acronym {
 }
 
 p>a[target="_blank"]:after {
-    /*content: " (e)";*/
-    content: url('fi-external-link');
+    font-family: FontAwesome;
+    content: " \f08e"; /* http://fontawesome.io/icon/external-link/ */
+    font-size: 12px;
+    color: #ccc;
 }
 
+/*p>a[target="_blank"]:hover:after {
+    content: "\f14c";
+}*/
 
 header {
     height: 140px;
@@ -242,3 +247,15 @@ footer > div {
 .scroll-top-wrapper i.fa {
     line-height: inherit;
 }
+
+/* Foundation font sizes */
+.size-12 { font-size: 12px; }
+.size-14 { font-size: 14px; }
+.size-16 { font-size: 16px; }
+.size-18 { font-size: 18px; }
+.size-21 { font-size: 21px; }
+.size-24 { font-size: 24px; }
+.size-36 { font-size: 36px; }
+.size-48 { font-size: 48px; }
+.size-60 { font-size: 60px; }
+.size-72 { font-size: 72px; }
