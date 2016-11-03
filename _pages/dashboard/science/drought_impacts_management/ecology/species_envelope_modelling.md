@@ -22,7 +22,7 @@ Climate change is already affecting habitats and their species in several ways. 
 
 ## Research methods
 
-Using databases of species’ distribution or published maps, which we digitised, we applied an ensemble of species distribution models (BIOMOD) and also an artificial neural network model (SPECIES) to characterise the relationship between each distribution and baseline climate. We then applied the UKCP09 and the Marius future events dataset to these relationships in order to project how the suitable climate space for the growth of that species might change.  The potential impacts on the habitats were inferred by examining the changes in suitable climate space for its dominant and characteristic species.
+Using databases of species’ distribution or published maps, which we digitised, we applied an ensemble of species distribution models (BIOMOD) and also an artificial neural network model (SPECIES) to characterise the relationship between each distribution and baseline climate. We then applied the UKCP09 and the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> future events dataset to these relationships in order to project how the suitable climate space for the growth of that species might change.  The potential impacts on the habitats were inferred by examining the changes in suitable climate space for its dominant and characteristic species.
 
 ### MG 4 Alopecurus pratensis–Sanguisorba officinalis Lowland hay meadows
 

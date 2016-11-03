@@ -2,22 +2,36 @@
 layout: dpe
 published: true
 permalink: /dashboard/dpe/drought_events_past_future/
-_title: 'Droughts: past and future'
+_title: 'Meteorological Droughts: past and future'
+related_links:
+  - name: Drought datasets and how to access them
+    url: '!science_url!/drought_climatology/dd/'
 ---
 
 Over the past 40 years there has been a number of droughts in England. The most recent notable droughts were 1975-1976, 1989-1992, 1995-1996, 2004-2006 and 2010-2012. Over-abstraction to meet the needs of growing populations, agricultural and industrial use, and the effects of climate change are causing multiple challenges in many water-stressed regions, and these are likely to increase in the future.
+
 However, a study of historical events alone does not provide sufficiently diverse and extreme conditions to study the full range of possible drought conditions and impacts that may occur in the future. As such, MaRIUS has developed an extensive ‘event set’ covering the past, present day and future drought conditions.
 
-*The results highlights that: Placeholder for key statements e.g...*
+The event set has been used to provide a range of possible weather time series and assess projected changes in drought characteristics for different time-periods that:
 
-_1. The frequency and intensity of droughts experienced in the past is likely to change e.g. a drought with similar intensity to 2010-2012 may occur x times more frequently in the future, or drought intensity likely to increase by x%....
-2. Drought conditions unprecedented in the recent past may be experienced in the future e.g. a drought x times more intense and x months longer in duration than the 1975-1976 event could occur…_
+- could have occured in the past (‘Baseline’, 1900-2006)
+- might occur in the near future (‘Near Future’, 2020-2049)
+- might occur in the far future (‘Far Future’, 2070-2099)
+
+
+COMING SOON!!
+
+- Projected change in drought characteristics for the baseline, near, far future.
+- SPEI timeseries and associated maps for the UK showing the most extreme droughts identified in the event set for the baseline, near and far future. 
+- How do the most extreme droughts identified compare to the 1975-1976 drought event?
+
+
 
 <div class="large-6 medium-6 columns">
 	<label>Select a <b>time period</b></label>
-	<input type="radio" name="time_period" value="time_period_present" id="time_period_present"><label for="time_period_present">Present</label>
-	<input type="radio" name="time_period" value="time_period_2030s" id="time_period_2030s"><label for="time_period_2030s">2030s</label>
-	<input type="radio" name="time_period" value="time_period_2080s" id="time_period_2080s"><label for="time_period_2080s">2080s</label>
+	<input type="radio" name="time_period" value="time_period_baseline" id="time_period_baseline"><label for="time_period_present">Baseline</label>
+	<input type="radio" name="time_period" value="time_period_near_future" id="time_period_near_future"><label for="time_period_2030s">Near Future</label>
+	<input type="radio" name="time_period" value="time_period_far_future" id="time_period_far_future"><label for="time_period_2080s">Far Future</label>
 	<input type="radio" name="time_period" value="time_period_all" id="time_period_all"><label for="time_period_all">All</label>
 
 	<label>Select an <b>SPEI time period</b></label>
@@ -156,4 +170,4 @@ initGraph('sgnb_chart1', 'Intensity');
 initGraph('sgnb_chart2', 'Frequency');
 </script>
 
-*[MaRIUS]: Expand MaRIUS
+*[MaRIUS]:  Managing the Risks, Impacts and Uncertainties of drought and water Scarcity

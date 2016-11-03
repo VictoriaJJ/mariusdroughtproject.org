@@ -3,17 +3,28 @@ layout: dpe
 published: true
 permalink: /dashboard/dpe/what_are_droughts/
 _title: What are droughts?
+related_links:
+  - name: Droughts over the 20th century
+    url: '!science_url!/drought_climatology/20c/'
+  - name: CEH UK Drought Portal
+    url: 'https://eip.ceh.ac.uk/droughts'
+    external: true
 ---
 
-Droughts are natural events which occur when a period of low rainfall creates a shortage of water. Each drought is different, with the nature, timing and impacts varying according to location and which sectors are affected such as public water supply, agriculture, the environment or industry. 
+Droughts are natural events which occur when a period of low rainfall creates a shortage of water. Each drought is different, with the nature, timing and impacts varying according to location and which sectors are affected such as public water supply, agriculture, the environment or industry. Water scarcity describes the relationship between water demand and availability.
 
-Drought events can also be defined based on the duration of the rainfall deficit and the particular impacts that evolve over time. The Environment Agency identify three main types of drought which may occur separately or together: **Environmental Drought**, where a shortage of rainfall has a detrimental impact on the environment. For example, reduced river flows, exceptionally low groundwater levels and insufficient moisture within soils. **Agricultural Drought**, where there isn’t enough rainfall and moisture in soils to support crop production or farming practices such as spray irrigation. **Water Supply Drought**, where a shortage of rainfall causes water companies concern about supplies for their customers. 
+Drought events can also be defined based on the duration of the rainfall deficit and the particular impacts that evolve over time. The Environment Agency identify three main types of drought which may occur separately or together:
+
+![Drought definitions_v02.png]({{site.baseurl}}/assets/img/Drought definitions_v02.png)
+
 
 ## Identifying drought events
 
-Drought indices can incorprate various climate and hydrological data within a single indicator that can be used for analysing trends and relaying information to stakeholders, policy makers and the public in a clear format. The drought index value is often presented as a single number, which can be far easier to understand and use than raw data. In MaRIUS we used the Standardized Precipitation Evapotranspiration Index **(SPEI)** to determine drought. This reflects changes in rainfall and increased temperatures on water demand through the inclusion of potential evapotranspiration (PET).
+Drought indices can incorprate various climate and hydrological data within a single indicator that can be used for analysing trends and relaying information to stakeholders, policy makers and the public in a clear format. The drought index value is often presented as a single number, which can be far easier to understand and use than raw data. In <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> we used the Standardized Precipitation Evapotranspiration Index **(SPEI)** to determine drought. The SPEI reflects changes in rainfall as well temperature on water demand through the inclusion of potential evapotranspiration (PET).
 
 The SPEI can be calculated for different time periods so that the dynamics of different types of drought (environmental, agricultural, or water supply drought) can be assessed. Drought onset, severity, and duration are categorised based on the SPEI values, with negative values below a set threshold used to determine drought.
+
+The graph right illustrate the SPEI time series from 1974-77. From May 1975 to August 1976 it illustrates the effects of below aveage rainfall, which resulted in the most significant drought to affect the UK since 1910. This can be selected for different SPEI timeseries and shows regional averages for different river basin regions. 
 
 <div class="large-6 medium-6 columns">
 	<label><b>Select an SPEI time period</b></label>
@@ -97,8 +108,6 @@ The SPEI can be calculated for different time periods so that the dynamics of di
 <script src='{{ site.baseurl }}/assets/js/stacked_area.js' type='text/javascript'> </script>
 <script src='{{ site.baseurl }}/assets/libs/js/stream_layers.js' type='text/javascript'> </script>
 <script src='{{ site.baseurl }}/assets/js/stacked_grouped_nbar_chart.js' type='text/javascript'> </script>
-
-[Placeholder - Video graphic to click and run - See how the SPEI changes over time for the UK]
 
 
 *[MaRIUS]:  Managing the Risks, Impacts and Uncertainties of drought and water Scarcity

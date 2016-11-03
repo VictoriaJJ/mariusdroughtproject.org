@@ -1,12 +1,7 @@
 ---
 layout: dpe
 published: true
-permalink: /dashboard/dpe/
-_title: Management Dashboard
+permalink: /dashboard/dpe/what_to_do_about_droughts/
+
+_title: What to do about droughts?
 ---
-Suggested to delete this page...
-
-Then would link straight to 'What are droughts page' rather than index page which I think is a bit odd...
-
-Will thik about how we could have a 'home page' here and what to out on it.
-

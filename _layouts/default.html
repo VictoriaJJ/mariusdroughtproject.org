@@ -4,120 +4,67 @@ layout: nil
 section: default
 noindex: true
 ---
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" dir="ltr"><!--<![endif]-->
-<head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    
-    {% if layout.noindex %}
-    <meta name="robots" content="noindex" />
-    {% endif %}
-
-    <title>{{ page._title }}</title>
-    
-    <!-- <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico"> -->
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    {% if layout.interactive %}
-    <link href="{{ site.baseurl }}/assets/libs/css/nv.d3.css" rel="stylesheet">
-    <script src="{{ site.baseurl }}/assets/libs/js/d3.v3.js"></script>
-    <script src="{{ site.baseurl }}/assets/libs/js/nv.d3.js"></script>
-    {% endif %}
-</head>
-
-<body class="">
-<!--[if lt IE 8]>
-    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-<![endif]-->
-
-  <header class="expanded row">
-    <div class="row">
-      <div class="large-12 columns">
-      {{ page.dashboard }}
-          <h1>MaRIUS - {% if layout.dashboard_title %}{{ layout.dashboard_title }}{% else %}{{ layout.section | capitalize }}{% endif %}</h1> 
-      </div>
-    </div>
-  </header>
+{% include _site_top.html %}
   
-  <div id="" class="expanded row">
+  <!--<div id="" class="expanded row">-->
+  <div id="" class="row">
 
-    <div class="large-3 medium-3 columns" id="side-nav">
+    <div class="large-3 medium-3 columns nav">
+
+    <div class="row">
+      <div class="large-12 columns"></div>
+    </div>
+
+    <ul class="site-nav">
+      <li>
+        <a href="{{ site.baseurl }}/" alt="home">MaRIUS Project</a>
+      </li>
+    </ul>
+
+    <hr>
+
     {% if layout.section %}
       <!-- nav for section: {{ layout.section }} -->
-    	{% include nav_{{ layout.section }}.html section=layout.section %}
+      {% include navigation_{{ layout.section }}.html section=layout.section %}
     {% else %}
-    	{% include nav_default.html %}
+      {% include nav_default.html %}
     {% endif %}
+
+    <hr>
+
+    <ul class="site-nav">
+      <li><a href="{{ site.baseurl }}/dashboard/"><b>Dashboards</b></a>
+      <li><a href="{{ site.dpe_url }}/what_are_droughts/">Droughts, People and the Environment</a>
+      <li><a href="{{ site.science_url }}/">Science</a>
+    </ul>
+
     </div>
 
     <div class="large-9 medium-9 columns content">
+
+      <div class="row">
+        <div class="large-12 columns section-ident"></div>
+      </div>
 
       <span class="section">{{ page.subsection }}</h3></span>
       <h1>
       {% if page.heading %}{{ page.heading }}{% else %}{{ page._title }}{% endif %}
       </h1>
 
+      <hr>
+
       {{ content }}
+
+      {% if page.related_links %}
+        <hr>
+        <h2>Related links</h2>
+        {% for link in page.related_links %}
+        <a href="{{ link.url | replace: '!science_url!', site.science_url | replace: '!dpe_url!', site.dpe_url }}" {% if link.external %}target="_blank"{% endif %}>{{ link.name }}</a><br>
+        {% endfor %}
+      {% endif %}
 
     </div>
     
   </div>
   
-  <footer class="expanded row">
-    <div class="large-12 columns">footer</div>
-  </footer>
-
-<!-- stylesheets -->
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/libs/css/foundation-6.2.3-custom.min.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css"> <!-- app -->
-
-<!-- layout|page: extra_css -->
-{% if layout.extra_css %}
-  {% for css_file in layout.extra_css %}
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ css_file }}.css" media="screen" type="text/css">
-  {% endfor %}
-{% endif %}
-
-{% if page.extra_css %}
-  {% for css_file in page.extra_css %}
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ css_file }}.css" media="screen" type="text/css">
-  {% endfor %}
-{% endif %}
-
-<!-- javascript -->
-<script src="{{ site.baseurl }}/assets/libs/js/jquery_foundation-6.2.3-custom.min.js"></script>
-<script src="{{ site.baseurl }}/assets/libs/js/foundation-6.2.3-custom.min.js"></script>
-<script src="{{ site.baseurl }}/assets/libs/js/app_foundation-6.2.3-custom.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/main.js"></script> <!-- app -->
-
-{% if layout.section %}
-  <!-- style for section: {{ layout.section }} -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ layout.section }}.css" media="screen" type="text/css">
-{% endif %}
- 
-<!-- layout|page: extra_js -->
-{% if layout.extra_js %}
-  {% for js_file in layout.extra_js %}
-  <script src='{{ site.baseurl }}/assets/{{ js_file }}.js' type="text/javascript"></script>
-  {% endfor %}
-{% endif %}
-
-{% if page.extra_js %}
-  {% for js_file in page.extra_js %}
-  <script src='{{ site.baseurl }}/assets/{{ js_file }}.js' type="text/javascript"></script>
-  {% endfor %}
-{% endif %}
-
-</body>
-</html>
+{% include _site_bottom.html %}

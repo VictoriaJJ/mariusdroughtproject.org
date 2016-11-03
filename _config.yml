@@ -1,5 +1,19 @@
-# exclude: ["ReadMe.md", "Rakefile", "License.md"]
+# GitHub
+username: 5j4
+repo: 5j4.github.io
+branch: master
+
+# Jekyll source / destination
+source: .
+destination: _site
+
+exclude: ["vendor"]
 include: ["_pages"]
+
+gems:
+  - jekyll-gist
+
+# gems: [jekyll-gist, markdown, render_time]
 
 # This will require each of these gems automatically.
 # gems: [liquid-inheritance]
@@ -48,6 +62,7 @@ prose:
     - /_layouts
     - /_plugins
     - /assets
+    - .travis.yml
   metadata:
     _pages:
       - name: "layout"
@@ -86,6 +101,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
+          label: "Related links"
           value: "science"
       - name: "published"
         field:

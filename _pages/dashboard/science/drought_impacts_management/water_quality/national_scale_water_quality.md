@@ -2,12 +2,12 @@
 layout: science
 published: true
 permalink: /dashboard/science/drought_impacts_management/water_quality/nswq/
-
 subsection: Drought Impacts Management > Water Quality
 _title: National scale water quality
 ---
 
-## Key science findings or outputs
+
+## Key science findings or outputs
 
 * National scale data analysis of the impacts of drought on water quality in UK rivers
 * Development of an end member mixing model for the simulation and prediction of nitrate and phosphorus concentrations in rivers at the national scale

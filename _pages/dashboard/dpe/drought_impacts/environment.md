@@ -4,22 +4,22 @@ published: true
 permalink: /dashboard/dpe/drought_impacts/environment/
 subsection: Drought Impacts
 _title: Impacts of drought on the environment
+related_links:
+  - name: Ecology
+    url: '!science_url!/drought_impacts_management/ecology/'
+  - name: CEH Wetland Tool for Climate Change
+    url: 'http://www.ceh.ac.uk/our-science/projects/wetland-tool-climate-change'
+    external: true
 ---
+Climate change is already affecting habitats and their species in several ways and future changes in temperature and water availability are likely to lead to further changes in the distribution of many species and thus in habitat composition and functioning. Both water scarcity and drought could also result in changes to the ecosystem services provided by the ecosystems and their species. In <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> we focused on selected **woodland**, **river**, **wetland** and **grassland** ecosystems, concluding that all ecosystems will respond to drought, but will vary in the magnitude of the impact and their ability to recover.
 
-Droughts and water scarcity jointly pose a substantial threat to the environment, agriculture, infrastructure, society and culture in the UK, yet our ability to characterise and predict their occurrence, duration and intensity, as well as minimise their impacts, is often inadequate.
+For example, **woodlands** are very important for biodiversity, carbon storage, water regulation and watershed protection. Recent literature has reported drought-induced mortality and dieback of forests in different regions across the world. In Great Britain, the potential impacts of drought on tree species and woodlands are not well understood. In Marius, therefore, we have analysed the temporal and spatial patterns of the potential impacts of and vulnerability to drought for important British forest species. Results highlighted that:
 
-In MaRIUS we developed new methodologies and models for analysis of the impacts of water scarcity on ecosystems, society and various economic activities including agriculture, industry and household consumers. By supporting the analysis of a full range of impacts in a common framework MaRIUS provides multi-attribute characterisation of drought impacts and evidence to evaluate trade-offs between different impacts.
+- Droughts can alter the processes that govern terrestrial ecosystems, leading to changes in their species composition, structure and functioning, their interactions and benefits they provide to people. 
+- Ecosystems in the south and east of England and Wales are more likely to be altered by climate change than those elsewhere in Great Britain.
+- In woodlands, beech and oak appear to be more susceptible to drought than other tree species.
 
-
-Water is fundamental for the functioning of all **ecosystems**, but they may display different responses depending on their ecological characteristics and the severity and duration of water shortages. In MaRIUS **ecological models** were refined and combined for improved assessment of the impacts of drought on aquatic and wetland habitats and their species. Research findings are influential in demonstrating the complexity of ecological response to drought. Impacts were also linked to ecosystem function and services, and potential effectiveness of ecosystem management and conservation explored.
-
-_[Placeholder for key results:
-1. All ecosystems will respond to drought, but will vary in the magnitude of the impact and their ability to recover.
-2. Terrestrial (woodlands) – different mortality responses of species and change of mortality composition
-3. River flows are reduced by droughts, making conditions unsuitable for many species. River habitats can be fragmented preventing normal species movements required for feeding, predictor predator avoidance and reproduction. River ecosystems can recover from drought. The time taken depends on the species and much depends on the severity and duration of the drought.
-4. River fed/Rain fed wetlands...]_
-
-
+The map right highlights the percentage change in tree mortality of beech and oak across sub-catchments in the Thames Basin, in the near (2030s) and far future (2080s) relative to the baseline.
 
 <div class="large-6 medium-3 columns">
 	<label>Select a <b>drought event</b></label>
@@ -30,31 +30,11 @@ _[Placeholder for key results:
 
 	<label>Select an <b>spatial scale</b></label>
 	<input type="radio" name="spatial_scale" value="spatial_scale_thames" id="spatial_scale_thames"><label for="spatial_scale_thames">Thames</label>
-	<input type="radio" name="spatial_scale" value="spatial_scale_severn" id="spatial_scale_severn"><label for="spatial_scale_severn">Severn</label>
 	<input type="radio" name="spatial_scale" value="spatial_scale_england" id="spatial_scale_england"><label for="spatial_scale_england">England</label>
-
-	<label>Select an <b>impact</b></label>
-	<input type="radio" name="impact" value="impact_water_quality" id="impact_water_quality"><label for="impact_water_quality">Water quality</label>
-	<input type="radio" name="impact" value="impact_ecology" id="impact_ecology"><label for="impact_ecology">Ecology</label>
-	<input type="radio" name="impact" value="impact_agriculture" id="impact_groundwater"><label for="impact_groundwater">Agriculture</label>
-	<input type="radio" name="impact" value="impact_economy" id="impact_economy"><label for="impact_economy">Economy</label>
-</div>
-
-<div class="large-6 medium-6 columns">
-	<ol>
-		<li>Horizontal bar (100%)</li>
-		<li>Spatial distribution map</li>
-	</ol>
-</div>
-
-<script src='{{ site.baseurl }}/assets/js/pie_chart.js' type='text/javascript'> </script>
-
-_[Placeholder - Tree composition chart and map showing change in composition of tree species for climate scenario by grid or catchment]._   
-
-
-
-
-
-* [Water Quality]({{ site.dpe_url }}/drought_impacts/water_quality/)
-* [Agriculture]({{ site.dpe_url }}/drought_impacts/agriculture/)
-* [Economy]({{ site.dpe_url }}/drought_impacts/economy/)
+	<input type="radio" name="spatial_scale" value="spatial_scale_england" id="spatial_scale_england"><label for="spatial_scale_england">Great Britain</label>
+    
+    	<label>Select a <b>Habitat/Species</b></label>
+	<input type="radio" name="Habitat/Species" value="Habitat/Species_A" id="Habitat/Species_A"><label for="drought_event_01">A</label>
+	<input type="radio" name="Habitat/Species" value="Habitat/Species_B" id="Habitat/Species_B"><label for="drought_event_02">B</label>
+	<input type="radio" name="Habitat/Species" value="Habitat/Species_C" id="Habitat/Species_C"><label for="drought_event_03">C</label>
+	<input type="radio" name="Habitat/Species" value="Habitat/Species_D" id="Habitat/Species_D"><label for="drought_event_04">D</label>

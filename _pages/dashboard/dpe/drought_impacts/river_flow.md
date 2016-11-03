@@ -2,22 +2,37 @@
 layout: dpe
 published: true
 permalink: /dashboard/dpe/drought_impacts/river_flow/
+subsection: Drought Impacts
 _title: Impacts of drought on river flow
+related_links:
+  - name: Hydrology
+    url: '!science_url!/drought_impacts_management/hydrology/'
+  - name: Hydrological output UK
+    url: 'http://www.hydoutuk.net/latest-outlook'
+    external: true
 ---
-The Environment Agency monitor droughts using various indicators or drought triggers. Triggers can be based on hydrological thresholds such as river levels and flows, reservoir storage and groundwater levels. Understanding the hydrological response to rainfall deficit is essential for drought risk assessment, management and water resource planning.
+The Environment Agency and water companies monitor droughts using various indicators or drought triggers. Triggers can be based on hydrological thresholds such as river levels and flows, reservoir storage and groundwater levels. Understanding the hydrological response to rainfall deficit is essential for drought risk assessment, management and water resource planning.
 
-Hydrological models represent the land surface, rivers, vegetation and sub-surface water. In particular, they are used to estimate flows and groundwater levels at abstraction points, river and wetland water levels for aquatic ecology, soil moisture for ecological and agricultural impacts assessment, as well as providing the basis for water quality assessment. 
+Hydrological models represent the land surface, rivers, vegetation and sub-surface water. In particular, they are used to estimate river flows and soil moisture for ecological and agricultural impacts assessment, as well as providing the basis for a water quality assessment.
 
-*For example, results from the MaRIUS models highlight that... focus on changes in river flows*
+Output from the hydrological models can be used within [environmental](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/environment/), [water resource management](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_management/water_supply_options/), [farming](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/farming/), and [economic](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/economy/) modelling for further analysis of impacts of drought and water scarcity.
 
-The hydrological indicators are used within the [ecological](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/ecology/ "Ecological impact page"), [agricultural](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/agriculture/ "Agricultural impact page"), and [economic](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/economy/ "Economic impact page") models for impact assessment.
+![Monthly mean river flow for July 1976.png]({{site.baseurl}}/assets/img/Monthly mean river flow for July 1976.png)
+
+_Thames basin: Monthly mean river flow for July 1976 (G2G output)_
+
+COMING SOON!!
+
+- See outputs from the different <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> hydrological models for river flow, soil moisture, run-off, and ground water.
+- How these outputs vary across spatial scales ranging from the Thames and Severn catchments to England and Great Britain.
+- How these outputs vary for the baseline, near future and far future.
+
 
 <div class="large-6 medium-6 columns">
-	<label>Select a <b>drought event</b></label>
-	<input type="radio" name="drought_event" value="drought_event_01" id="drought_event_01"><label for="drought_event_01">01</label>
-	<input type="radio" name="drought_event" value="drought_event_02" id="drought_event_02"><label for="drought_event_02">02</label>
-	<input type="radio" name="drought_event" value="drought_event_03" id="drought_event_03"><label for="drought_event_03">03</label>
-	<input type="radio" name="drought_event" value="drought_event_04" id="drought_event_04"><label for="drought_event_04">04</label>
+	<label>Select a <b>temporal scale</b></label>
+	<input type="radio" name="drought_event" value="drought_event_01" id="drought_event_01"><label for="drought_event_01">current</label>
+	<input type="radio" name="drought_event" value="drought_event_02" id="drought_event_02"><label for="drought_event_02">near future</label>
+	<input type="radio" name="drought_event" value="drought_event_03" id="drought_event_03"><label for="drought_event_03">far future</label>
 
 	<label>Select an <b>spatial scale</b></label>
 	<input type="radio" name="spatial_scale" value="spatial_scale_thames" id="spatial_scale_thames"><label for="spatial_scale_thames">Thames</label>
@@ -31,14 +46,3 @@ The hydrological indicators are used within the [ecological](https://5j4.github.
 	<input type="radio" name="impact" value="Ground water" id="Ground water"><label for="Ground water">Ground water</label>
 	<input type="radio" name="impact" value="Soil moisture" id="Soil moisture"><label for="Soil moisture">Soil moisture</label>
 </div>
-
-<div class="large-6 medium-6 columns">
-
-<div id='mlc_chart1' style='width:100%'>
-		Hydrological indicators
-		<svg style='height:300px'></svg>
-	</div>
-
-</div>
-
-<script src='{{ site.baseurl }}/assets/js/multi_line_chart.js' type='text/javascript'> </script>
