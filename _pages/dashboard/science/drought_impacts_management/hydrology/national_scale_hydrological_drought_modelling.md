@@ -36,17 +36,22 @@ Schematic of the Grid-to-Grid national scale hydrological model
 
 Model estimates of river flows and soil moisture, driven by weather observations, have been used to assess change in drought occurrence, duration and severity throughout the 20th Century. This work will also include a low flow frequency analysis.  
 
-
+![]({{site.baseurl}}/assets/img/Vicky2.jpg.png)![Vicky2.jpg.png]({{site.baseurl}}/assets/img/Vicky2.jpg.png)
+Grid-to-Grid model output (1km x 1km) of standardised drought severity (river flow) for 1975, 1976 and 1977. They maps show the most severe drought in each year. The darker the colour the more severe the drought.  
 
 ### National analysis of future drought risk using MaRIUS baseline and future drought event-sets
 
 An ensemble of near- and far-future weather outputs from multiple RCM simulations will provide the driving data needed to understand how drought occurrence and characteristics might change in the future.
 
+![Vicky3.jpg.png]({{site.baseurl}}/assets/img/Vicky3.jpg.png)
+Observed and simulated low flow frequency curves for the Thames at Kingston (station number 39001).
 
 ### Enhanced modelling capability to include surface and groundwater abstractions and discharges in the Grid-to-Grid model
 
 G2G has been enhanced to include the influence of abstractions and discharges on river flows
 
+![Vicky4.jpg.png]({{site.baseurl}}/assets/img/Vicky4.jpg.png)
+Daily mean river flow for the Thames at Kingston. Observed river flow (black), G2G simulated naturalised river flow (blue) and G2G simulated river flow accounting for abstractions and discharges (red).
 
 
 ## Further information
