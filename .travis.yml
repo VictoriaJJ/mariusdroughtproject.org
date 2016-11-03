@@ -17,12 +17,19 @@ before_script:
 
 script: bundle exec jekyll build
 
-after_success:
-  - bash deploy.sh
+# after_success:
+#   - bash deploy.sh
   # - git add -A .
   # - git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
   # - git push -f "https://${DEPLOY_KEY}@${GITHUB_REPO}" ${TARGET_BRANCH} > /dev/null 2>&1
   # - git push -f "https://${GITHUB_API_KEY}@${GITHUB_REPO}" ${TARGET_BRANCH}
+
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: scripts/deploy.sh
+  on:
+    branch: gh-pages
 
 env:
   global:
