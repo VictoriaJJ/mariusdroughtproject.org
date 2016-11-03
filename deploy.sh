@@ -8,13 +8,13 @@ then
   exit 0
 fi
 
-rev=$(git rev-parse --short HEAD)
+# rev=$(git rev-parse --short HEAD)
 
 cd _site
 
 # git remote add origin "https://user:${GH_ACCESS_TOKEN}@${GITHUB_REPO}"
-git fetch origin
-git reset origin/gh-pages
+# git fetch origin
+# git reset origin/gh-pages
 
 # echo "example.com" > CNAME
 
