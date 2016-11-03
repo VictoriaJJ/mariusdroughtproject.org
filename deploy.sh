@@ -12,7 +12,7 @@ rev=$(git rev-parse --short HEAD)
 
 cd _site
 
-git remote add origin "https://user:${GH_ACCESS_TOKEN}@${GITHUB_REPO}"
+# git remote add origin "https://user:${GH_ACCESS_TOKEN}@${GITHUB_REPO}"
 git fetch origin
 git reset origin/gh-pages
 
