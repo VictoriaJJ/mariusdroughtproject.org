@@ -6,15 +6,11 @@
     - kramdown
 =end
 module Jekyll
-  # class MarkdownTag < Liquid::Tag
-  class MarkdownTag
-
-    puts 'in the plugin'
+  class MarkdownTag < Liquid::Tag
     
     def initialize(tag_name, text, tokens)
       super
       @text = text.strip
-      puts 'in the plugin 2'
     end
     
     require "kramdown"
@@ -30,4 +26,3 @@ module Jekyll
 end
 
 Liquid::Template.register_tag('markdown', Jekyll::MarkdownTag)
-# Liquid::Template.register_tag("twitter", TwitterJekyll::TwitterTag)

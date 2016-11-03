@@ -13,8 +13,8 @@ include: ["_pages"]
 
 gems:
   - jekyll-gist
-  - markdown
-  - render_time
+  # - MarkdownTag
+  # - render_time
 
 # gems: [jekyll-gist, markdown, render_time]
 

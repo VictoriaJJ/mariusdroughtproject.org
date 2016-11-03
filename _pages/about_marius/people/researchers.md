@@ -10,7 +10,7 @@ The <abbr title="Managing the Risks, Impacts and Uncertainties of drought and wa
 
 Meet the researchers below!
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="jim_hall"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/jim_hall.jpg" alt="Professor Jim Hall" />
@@ -21,7 +21,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="myles_allen"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/myles_allen.jpg" alt="Professor Myles Allen" />
@@ -32,7 +32,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="mike_acreman"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/mike_acreman.jpg" alt="Dr Mike Acreman" />
@@ -43,7 +43,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="pam_berry"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/pam_berry.jpg" alt="Dr Pam Berry" />
@@ -54,7 +54,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="vicky_bell"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/default.png" alt="Dr Vicky Bell" />
@@ -65,7 +65,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="mike_bowes"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/mike_bowes.jpg" alt="Dr Mike Bowes" />
@@ -76,7 +76,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="gianbattista_bussi"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/gianbattista_bussi.png" alt="Dr Gianbattista Bussi" />
@@ -87,7 +87,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="ed_byers"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/ed_byers.jpg" alt="Ed Byers" />
@@ -98,7 +98,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="christina_cook"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/christina_cook.jpg" alt="Dr Christina Cook" />
@@ -109,7 +109,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="gemma_coxon"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/gemma_coxon.jpg" alt="Dr Gemma Coxon" />
@@ -120,7 +120,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="chris_decker"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/chris_decker.jpg" alt="Dr Chris Decker" />
@@ -131,7 +131,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="simon_dadson"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/simon_dadson.png" alt="Dr Simon Dadson" />
@@ -142,7 +142,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="jaume_freire_gonzalez"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/alex_elliot.jpg" alt="Dr Alex Elliot" />
@@ -153,7 +153,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="jim_freer"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/jim_freer.jpg" alt="Prof Jim Freer" />
@@ -164,7 +164,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="jaume_freire_gonzalez"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/jaume_freire_gonzalez.jpg" alt="Dr Jaume Freire Gonzalez" />
@@ -175,7 +175,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="helen_gavin"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/helen_gavin.png" alt="Dr Helen Gavin" />
@@ -186,7 +186,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="kevin_grecksch"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/kevin_grecksch.png" alt="Dr Kevin Grecksch" />
@@ -197,7 +197,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="benoit_guillod"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/benoit_guillod.jpg" alt="Dr Benoit Guillod" />
@@ -208,7 +208,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="ian_holman"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/ian_holman.jpg" alt="Dr Ian Holman" />
@@ -219,7 +219,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/nicholas_howden.jpg" alt="Dr Nicholas Howden" />
 	</div>
@@ -230,7 +230,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="matthew_ives"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/matthew_ives.jpg" alt="Dr Matthew Ives" />
@@ -241,7 +241,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="katie_jenkins"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/katie_jenkins.jpg" alt="Dr Katie Jenkins" />
@@ -252,7 +252,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="richard_jones"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/richard_jones.jpg" alt="Prof Richard Jones" />
@@ -263,7 +263,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="alison_kay"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/alison_kay.jpg" alt="Dr Alison Kay" />
@@ -275,7 +275,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="bettina_lange"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/bettina_lange.jpg" alt="Dr Bettina Lange" />
@@ -286,7 +286,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="catharina_landstrom"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/catharina_landstrom.png" alt="Dr Catharina Landström" />
@@ -297,7 +297,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="cedric_laize"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/cedric_laize.jpg" alt="Cedric Laize" />
@@ -308,7 +308,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="jude_musuuza"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/jude_musuuza.jpg" alt="Dr Jude Musuuza" />
@@ -319,7 +319,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="mohammad_mortazavi"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/mohammad_mortazavi.jpg" alt="Dr Mohammad Mortazavi" />
@@ -330,7 +330,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="ponnambalam_rameshwaran"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/ponnambalam_rameshwaran.png" alt="Dr Ponnambalam Rameshwaran" />
@@ -341,7 +341,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="david_parsons"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/david_parsons.jpg" alt="Dr David Parsons" />
@@ -352,7 +352,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="ali_rudd"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/ali_rudd.jpg" alt="Dr Ali Rudd" />
@@ -363,7 +363,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="dolores_rey"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/dolores_rey.jpg" alt="Dr Dolores Rey" />
@@ -374,7 +374,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="nick_reynard"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/nick_reynard.jpg" alt="Nick Reynard" />
@@ -385,7 +385,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="eric_sarmiento"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/eric_sarmiento.jpg" alt="Dr Eric Sarmiento" />
@@ -396,7 +396,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="nirman_shrestha"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/nirman_shrestha.jpg" alt="Dr Nirman Shrestha" />
@@ -407,7 +407,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="sarah_whatmore"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/sarah_whatmore.png" alt="Prof Sarah Whatmore" />
@@ -418,7 +418,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="thorsten_wagener"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/thorsten_wagener.jpg" alt="Prof Thorsten Wagener" />
@@ -429,7 +429,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="ross_woods"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/ross_woods.jpg" alt="Dr Ross Woods" />
@@ -440,7 +440,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">	
 		<a name="paul_whitehead"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/paul_whitehead.png" alt="Prof Paul Whitehead" />
@@ -451,7 +451,7 @@ Meet the researchers below!
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<a name="jianjun_yu"></a>
 		<img src="/mariusdroughtproject.org/assets/img/people/jianjun_yu.jpg" alt="Dr Jianjun Yu" />

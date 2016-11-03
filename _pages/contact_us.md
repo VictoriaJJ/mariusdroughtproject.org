@@ -14,4 +14,4 @@ If you would like to know more about the project, please get in touch using [thi
 
 {% render_time page rendered at: %}
 
-{% gist 389c23a6ba4e10c87fb4be36978574a8 %}
+{% markdown test.md %}

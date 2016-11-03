@@ -13,7 +13,7 @@ In addition we have close working relationships with Defra, Environment Agency, 
 
 Please meet the members of the Stakeholder Advisory Group:
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/ben_piper.jpg" alt="Ben Piper" />
 	</div>
@@ -24,7 +24,7 @@ Please meet the members of the Stakeholder Advisory Group:
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/glenn_watts.jpg" alt="Glenn Watts" />
 	</div>
@@ -35,7 +35,7 @@ Please meet the members of the Stakeholder Advisory Group:
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/mike_morecroft.png" alt="Mike Morecroft" />
 	</div>
@@ -46,7 +46,7 @@ Please meet the members of the Stakeholder Advisory Group:
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/paul_hammet.jpg" alt="Mike Morecroft" />
 	</div>
@@ -57,7 +57,7 @@ Please meet the members of the Stakeholder Advisory Group:
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/bill_baker.jpg" alt="Bill Baker" />
 	</div>
@@ -68,7 +68,7 @@ Please meet the members of the Stakeholder Advisory Group:
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/ronan_palmer.jpg" alt="Ronan Palmer" />
 	</div>
@@ -79,7 +79,7 @@ Please meet the members of the Stakeholder Advisory Group:
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/nathan_richardson.jpg" alt="Dr Nathan Richardson" />
 	</div>
@@ -90,7 +90,7 @@ Please meet the members of the Stakeholder Advisory Group:
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/paul_sayers.jpg" alt="Paul Sayers" />
 	</div>
@@ -101,7 +101,7 @@ Please meet the members of the Stakeholder Advisory Group:
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/barry_bendall.jpg" alt="Barry Bendall" />
 	</div>
@@ -112,7 +112,7 @@ Please meet the members of the Stakeholder Advisory Group:
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/ugo_gasparino.jpg" alt="Ugo Gasparino" />
 	</div>
@@ -124,7 +124,7 @@ Thames Water.</p>
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/default.png" alt="Dr Chris Lambert" />
 	</div>
@@ -135,7 +135,7 @@ Thames Water.</p>
 	</div>
 </div>
 
-<div class="row profile">
+<div class="row profile-card">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/sarah_heineman.jpg" alt="Sarah Heineman" />
 	</div>

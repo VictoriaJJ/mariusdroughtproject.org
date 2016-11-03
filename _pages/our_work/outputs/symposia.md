@@ -19,7 +19,7 @@ The events have been very successful, attracting a large audience each year, and
 Below is a summary of each of the three events, with links to the presentations and podcasts where available.
 
 
-<div class="row symposium">
+<div class="row symposium-card">
 	<div class="large-3 columns">
 		<a name="drought_science_and_management"></a>
 		<img src="/mariusdroughtproject.org/assets/img/2016_DroughtPoster_v20160708-208x300.png" alt="" />
@@ -55,7 +55,7 @@ Below is a summary of each of the three events, with links to the presentations 
 
 <!--  -->
 
-<div class="row symposium">
+<div class="row symposium-card">
 	<div class="large-3 columns">
 		<a name="drought_risk_and_decision_making"></a>
 		<img src="/mariusdroughtproject.org/assets/img/2016_DroughtPoster_v20160708-208x300.png" alt="" />
@@ -558,7 +558,7 @@ Below is a summary of each of the three events, with links to the presentations 
 
 <!--  -->
 
-<div class="row symposium">
+<div class="row symposium-card">
 	<div class="large-3 columns">
 		<a name="drought_risk_context_of_change"></a>
 		<img src="/mariusdroughtproject.org/assets/img/DroughtRisk_Sept2104.png" alt="" />

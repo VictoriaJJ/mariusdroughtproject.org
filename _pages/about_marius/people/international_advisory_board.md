@@ -15,7 +15,7 @@ In order to maximise the benefits from having these prestigious international re
 
 Meet the members of the IAB below!
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/gunter_bloschl.jpg" alt="Professor Günter Blöschl" />
 	</div>
@@ -26,7 +26,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/casey_brown.jpg" alt="Professor Casey Brown" />
 	</div>
@@ -37,7 +37,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/chris_duffy.jpg" alt="Professor Chris Duffy" />
 	</div>
@@ -48,7 +48,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/gregg_garfin.jpg" alt="Professor Gregg Garfin" />
 	</div>
@@ -59,7 +59,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/dustin_garrick.jpg" alt="Professor Dustin Garrick" />
 	</div>
@@ -70,7 +70,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/alberto_garrido.jpg" alt="Professor Alberto Garrido" />
 	</div>
@@ -81,7 +81,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/lee_godden.jpg" alt="Professor Lee Godden" />
 	</div>
@@ -92,7 +92,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/lesley_head.jpg" alt="Professor Lesley Head" />
 	</div>
@@ -103,7 +103,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/stuart_lane.jpg" alt="Professor Staurt Lane" />
 	</div>
@@ -114,7 +114,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/henny_van_lanen.jpg" alt="Dr Henny van Lanen" />
 	</div>
@@ -125,7 +125,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/ian_prosser.jpg" alt="Dr Ian Prosser" />
 	</div>
@@ -136,7 +136,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/lucia_de_stefano.jpg" alt="Professor Lucia De Stefano" />
 	</div>
@@ -147,7 +147,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/narendra_tuteja.jpg" alt="Dr Narendra Tuteja" />
 	</div>
@@ -158,7 +158,7 @@ Meet the members of the IAB below!
 	</div>
 </div>
 
-<div class="row profile" markdown="0">
+<div class="row profile-card" markdown="0">
 	<div class="large-3 columns">
 		<img src="/mariusdroughtproject.org/assets/img/people/don_wilhite.jpg" alt="Professor Don Wilhite" />
 	</div>
