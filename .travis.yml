@@ -14,14 +14,14 @@ branches:
   only:
     - master
 
-script: 
-- bash build.sh
-
-# before_script:
-#   - git config --global user.email "5j4@users.noreply.github.com"
-#   - git config --global user.name "5j4"
+before_script:
+  - git config --global user.email "5j4@users.noreply.github.com"
+  - git config --global user.name "5j4"
 #   - git remote rm origin
 #   - git remote add origin https://user:${DEPLOY_TOKEN}@${GITHUB_REPO}
+
+script: 
+- bash build.sh
 
 # script: bundle exec jekyll build
 
