@@ -15,7 +15,7 @@ function main {
 	clean
 	get_current_site
 	build_site
-	# deploy
+	deploy
 }
 
 function clean { 
@@ -30,7 +30,7 @@ function get_current_site {
 
 function build_site { 
 	echo "building site"
-	bundle exec jekyll build 
+	bundle exec jekyll build
 }
 
 function deploy {
@@ -55,7 +55,9 @@ function deploy {
 	git add -A
 	git status
 	git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
-	git push $DEPLOY_REPO master:master
+	git branch
+	git remote
+	# git push $DEPLOY_REPO master:master
 }
 
 main
