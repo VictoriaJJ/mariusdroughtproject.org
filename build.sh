@@ -56,10 +56,7 @@ function deploy {
 	git add -A
 	git status
 	git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
-	git branch
-	git remote
-	git fetch
-	git push -q $DEPLOY_REPO master:gh-pages
+	git push -f $DEPLOY_REPO master:gh-pages
 }
 
 main
