@@ -2,9 +2,12 @@
 
 @import url('main.css');
 
-header {
-    height: 80px;
-    /*margin: 10px 0;*/
+/* section colour: #0583F2; */
+
+header {}
+
+.section-ident {
+    height: 15px;
     margin-bottom: 20px;
     border-bottom: solid 1px #ccc;
     background-color: #0583F2;
