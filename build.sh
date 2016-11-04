@@ -53,7 +53,7 @@ function deploy {
 	git config user.name "5j4"
 	git config user.email "5j4@users.noreply.github.com"
 	git add -A
-	git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
+	git commit -m "Generated Jekyll Site by Travis CI (Build #${TRAVIS_BUILD_NUMBER})"
 	git push -f $DEPLOY_REPO master:gh-pages
 }
 
