@@ -14,7 +14,8 @@ branches:
   only:
     - master
 
-script: build.sh
+script: 
+- "./build.sh"
 
 # before_script:
 #   - git config --global user.email "5j4@users.noreply.github.com"
