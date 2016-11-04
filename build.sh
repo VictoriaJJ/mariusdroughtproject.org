@@ -58,7 +58,8 @@ function deploy {
 	git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
 	git branch
 	git remote
-	git push $DEPLOY_REPO master:gh-pages
+	git fetch
+	git push -q $DEPLOY_REPO master:gh-pages
 }
 
 main
