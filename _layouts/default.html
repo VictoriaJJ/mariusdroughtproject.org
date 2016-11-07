@@ -24,10 +24,14 @@ noindex: true
 
     {% if layout.section %}
       <!-- nav for section: {{ layout.section }} -->
-      {% include navigation_{{ layout.section }}.html section=layout.section %}
+      {% include navigation_{{ layout.section }}.html %}
     {% else %}
-      {% include navigation_default.html section=layout.section %}
+      {% include navigation_default.html %}
     {% endif %}
+
+    {{ layout }}
+
+    {{ page }}
 
     <hr>
 
