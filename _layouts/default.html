@@ -21,16 +21,12 @@ noindex: true
     </ul>
 
     <hr>
-    
-    {{ layout.section }}
-    {{ page.layout }}
 
     {% if layout.section %}
       <!-- nav for section: {{ layout.section }} -->
       {% include navigation_{{ layout.section }}.html section=layout.section %}
     {% else %}
       {% include navigation_default.html section=layout.section %}
-      {{ layout.section }}
     {% endif %}
 
     <hr>
