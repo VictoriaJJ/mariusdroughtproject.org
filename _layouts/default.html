@@ -4,4 +4,5 @@ section: default
 noindex: true
 ---
 <!-- section: default -->
-{% include _page.html layout=layout page=page %}
+{% assign section = "default" %}
+{% include _page.html section=section %}
