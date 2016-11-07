@@ -5,8 +5,13 @@ permalink: /dashboard/science/drought_impacts_management/hydrology/idhns/
 
 subsection: Drought Impacts Management > Hydrology
 _title: Integrating drought hydrology to the national scale
+research_team:
+  - gemma_coxon
+  - jim_freer
+  - thorseten_wagener
+  - ross_woods
+  - nicholas_howden
 ---
-
 ## Key science findings
 
 * Quantification and analysis of uncertainties in hydrological modelling of drought
@@ -53,11 +58,3 @@ Drought modelling is challenging as the dynamic processes that occur during low 
 ### National analysis of catchment flow to future drought event sets and generation of probabilistic future flow predictions for multi-scale drought risk analysis
 
 The future drought event sets developed using weather@home are propagated through dynamic TOPMODEL to provide probabilistic future flow simulations for the multi-scale drought risk analysis.  Importantly, these future probabilistic flow predictions are generated considering uncertainty in the climate input by using an ensemble of drought events, uncertainty in the hydrological model parameters and uncertainty in future drought management scenarios.  The probabilistic future flow simulations are analysed to better understand how future climate change and drought management scenarios may impact the frequency, duration and severity of droughts across the UK. 
-
-## Research team
-
-* Gemma Coxon (gemma.coxon@bristol.ac.uk)
-* Jim Freer
-* Thorsten Wagener
-* Ross Woods
-* Nicholas Howden

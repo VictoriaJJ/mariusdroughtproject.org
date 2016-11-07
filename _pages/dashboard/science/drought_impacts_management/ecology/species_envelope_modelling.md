@@ -5,8 +5,10 @@ permalink: /dashboard/science/drought_impacts_management/ecology/sem/
 
 subsection: Drought Impacts Management > Ecology
 _title: Species envelope modelling
+research_team:
+  - pam_berry
+  - jianjun_yu
 ---
-
 ## Key science findings
 
 Climate change with its associated water scarcity could lead to changes in wetland communities, as species no longer have suitable climate space.
@@ -34,8 +36,3 @@ There are important concentrations of lowland meadows in the Thames Basin, but b
 ![]({{ site.baseurl }}/assets/img/sem_suitableclimatespace_change.jpg){:width="50%"}
 
 Changes in suitable climate space for MG 4 Alopecurus pratensis–Sanguisorba officinalis Lowland hay meadows species under different UKCP09 scenarios. Low and High refer to the emissions scenario. SCP1 and 9 to the 10% and 90% probability respectively.
-
-## Research team
-
-* Pam Berry (pam.berry@eci.ox.ac.uk)
-* Jianjun Yu

@@ -4,8 +4,12 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/hydrology/nshmd/
 subsection: Drought Impacts Management > Hydrology
 _title: National scale hydrological modelling of droughts
----
-
+research_team:
+  - victoria_bell
+  - alison_rudd
+  - alison_kay
+  - ponnambalam_rameshwaran
+--- 
 ## Key science findings:
 1.	Identification of drought events across Great Britain using simulated river flow and soil moisture 
 2.	 National analysis of future drought risk using MaRIUS baseline and future drought event-sets
@@ -66,10 +70,3 @@ Daily mean river flow for the Thames at Kingston. Observed river flow (black), G
 ### Journal Paper in preparation
 
 * Rudd, A., Bell, VA, Kay, AL, and Davies, HN. (2016) “Hydrological droughts in Great Britain, 1912-2011” (in preparation).
- 
-## Research team
-
-* Victoria Bell (vib@ceh.ac.uk) - CEH lead PI, national scale hydrological modelling with Grid-to-Grid
-* Alison Rudd – hydrological drought identification (1910 – 2010) , regional changes in drought occurrence, length and severity
-* Alison Kay – drought frequency analysis
-* Ponnambalam Rameshwaran – national hydrological modelling incorporating abstractions and discharges

@@ -4,6 +4,8 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/das/gov/dgs/
 subsection: Drought and Society > Human Geography
 _title: Drought governance scenarios
+research_team:
+  - kevin_grecksch
 ---
 
 ## Key science findings
@@ -38,7 +40,3 @@ The workshop has an interactive format and requires active participation from ev
 ![Particpant arranging influencing factors according to uncertainty and importance]({{site.baseurl}}/assets/img/KevinS1.jpg){:width="50%"}
 
 Participant arranging influencing factors according to uncertainty and importance
-
-## Research team
-
-* Kevin Grecksch

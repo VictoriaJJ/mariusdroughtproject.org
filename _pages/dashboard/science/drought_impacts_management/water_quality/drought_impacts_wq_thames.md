@@ -4,7 +4,15 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/water_quality/diwqrt/
 subsection: Drought Impacts Management > Water Quality
 _title: River Thames Water Quality Modelling
+research_team:
+  - gianbattista_bussi
+  - paul_whitehead
+  - simon_dadson
+  - mike_bowes
+  - daniel_read
+  - alex_elliot
 ---
+
 ## Key science findings or outputs
 
 * Droughts cause reduction in low flows and therefore increase phosphorus concentration in the river due to decreased availability of water to dilute wastewater effluents.
@@ -55,12 +63,3 @@ Chlorophytes, diatoms and Microcystis-like cyanobacteria decrease their concentr
 * G. Bussi, P. Whitehead, S. Dadson. 2016. Modelling climate change, land-use change and phosphorus reduction impacts on phytoplankton in the River Thames (UK). Geophysical Research Abstracts. EGU General Assembly 2016. Vienna, Austria. April 2016. ISSN 1029-7006. Open presentation
 * G. Bussi, S. Dadson, P. Whitehead. 2016. Modelling the impacts of climate and land-use change on the sediment transport of the River Thames (UK). Geophysical Research Abstracts. EGU General Assembly 2016. Vienna, Austria. April 2016. ISSN 1029-7006. Open poster
 Podcast: Algal modelling https://www.youtube.com/watch?v=50VbF4TuYyk
-   
-## Research team
-
-* Gianbattista Bussi (gianbattista.bussi@ouce.ox.ac.uk)
-* Paul Whitehead
-* Simon Dadson
-* Mike Bowes
-* Daniel Read
-* Alex Elliott

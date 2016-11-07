@@ -5,6 +5,12 @@ permalink: /dashboard/science/drought_impacts_management/das/gov/dpgs/
 
 subsection: Drought and Society > Governance
 _title: Drought planning governance space
+
+research_team:
+  - bettina_lange
+  - christina_cook
+  - chris_decker
+  - kevin_grecksch
 ---
 * [Water Companies](#water_companies)
 * [The Environment Agency for England](#ea)
@@ -192,10 +198,3 @@ The DWI implements EU legislative standards on drinking water quality, i.e. the 
 ### Further information
 
 Lange, Bettina, and Christina Cook. “Mapping a Developing Governance Space: Managing Drought in the UK.” Current Legal Problems (2015): cuv014.
-
-## Research team
-
-* Bettina Lange
-* Christina Cook
-* Chris Decker
-* Kevin Grecksch

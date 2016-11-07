@@ -2,8 +2,9 @@ $(function(){
 
 	$(document).foundation();
 
-	$("a[target=_blank]").each(function () {
-		$("a").attr('title', 'Open in a new tab');
+	$('.content a[target="_blank"]').each(function () {
+		$(this).attr('title', 'Open in a new tab');
+		// $(this).addClass('external-link');
 	});
 
 	var popup = new Foundation.Reveal($('#videoModal'));

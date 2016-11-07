@@ -13,14 +13,4 @@ Droughts and water scarcity affect rain-fed and irrigated **agricultural** syste
 
 The maps right show potential changes in different land use types (Intensive Farmland/Arable, Grassland, Very Extensive Grassland, Forest, Urban, Unmanaged) under scenarios of increasing temperatures and declining precipitation.
 
-<div class="large-6 medium-6 columns">
-	<label>Select a <b>drought event</b></label>
-	<input type="radio" name="drought_event" value="drought_event_01" id="drought_event_01"><label for="drought_event_01">01</label>
-	<input type="radio" name="drought_event" value="drought_event_02" id="drought_event_02"><label for="drought_event_02">02</label>
-	<input type="radio" name="drought_event" value="drought_event_03" id="drought_event_03"><label for="drought_event_03">03</label>
-	<input type="radio" name="drought_event" value="drought_event_04" id="drought_event_04"><label for="drought_event_04">04</label>
-
-	<label>Select an <b>spatial scale</b></label>
-	<input type="radio" name="spatial_scale" value="spatial_scale_thames" id="spatial_scale_thames"><label for="spatial_scale_thames">Thames</label>
-	<input type="radio" name="spatial_scale" value="spatial_scale_severn" id="spatial_scale_severn"><label for="spatial_scale_severn">Severn</label>
-	<input type="radio" name="spatial_scale" value="spatial_scale_england" id="spatial_scale_england"><label for="spatial_scale_england">England</label>
+<!-- interactive goes here -->

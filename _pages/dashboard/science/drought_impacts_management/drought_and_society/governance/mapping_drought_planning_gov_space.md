@@ -5,6 +5,12 @@ permalink: /dashboard/science/drought_impacts_management/das/gov/mdpgs/
 
 subsection: Drought and Society > Governance
 _title: Mapping the drought planning governance space
+
+research_team:
+  - bettina_lange
+  - christina_cook
+  - chris_decker
+  - kevin_grecksch
 ---
 
 ## Key science findings
@@ -24,10 +30,3 @@ This figure maps the drought planning framework in England. The key actors in th
 ## Further information
 
 Lange, Bettina, and Christina Cook. “Mapping a Developing Governance Space: Managing Drought in the UK.” Current Legal Problems (2015): cuv014.
-
-## Research team
-
-* Bettina Lange
-* Christina Cook
-* Chris Decker
-* Kevin Grecksch

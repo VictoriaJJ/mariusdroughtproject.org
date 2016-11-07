@@ -4,7 +4,13 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/agriculture/irrigated/
 subsection: Drought Impacts Management > Agriculture
 _title: Irrigated agriculture
-sub__title: Agricultural droughts impacts and responses
+sub_title: Agricultural droughts impacts and responses
+research_team:
+  - ian_holman
+  - david_parsons
+  - dolores_rey
+  - victoria_janes
+  - nirman_shrestha
 ---
 
 ## Key science findings
@@ -51,11 +57,3 @@ The apparent impact of drought on irrigated farm businesses has declined since t
 * Rey, D; Holman, I.P; Daccache, A; Morris, J, Weatherhead, E.K, and Knox, J.W (In Press). Modelling and mapping the economic value of supplemental irrigation in a humid climate.  Agricultural Water Management
 * “Managing risks, impacts and uncertainty of drought” http://www.ukia.org/data/conference/Holman.pdf
 * Podcast: “Evidence of increasing resilience in the irrigated agricultural sector in the face of increasing water scarcity” by Dr Lola Rey https://www.youtube.com/watch?v=k1_fjjWYAuU&feature=youtu.be
- 
-## Research Team
-
-* Prof. Ian Holman i.holman@cranfield.ac.uk
-* Dr David Parsons
-* Dr Lola Rey Vicario
-* Dr Victoria Janes
-* Dr Nirman Shrestha

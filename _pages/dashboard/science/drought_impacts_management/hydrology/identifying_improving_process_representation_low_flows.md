@@ -5,8 +5,13 @@ permalink: /dashboard/science/drought_impacts_management/hydrology/iirplf/
 
 subsection: Drought Impacts Management > Hydrology
 _title: Identification and improved representation of processes during low flows
+research_team:
+  - jude_musuuza
+  - thorsten_wagener
+  - ross_woods
+  - jim_freer
+  - nicholas_howden
 ---
-
 ## Key science findings
 
 * Identification of processes that control droughts and low flows at the catchment scale by using the physically-based model PIHM as a laboratory.
@@ -42,11 +47,3 @@ A platform that assesses the sensitivity of the system to different human activi
 ### Improved process representation in nation-scale models
 
 The level of process complexity in the large-scale models will be assessed. With the control processes known, the representation in large-scale models will be enhanced by either increasing or reducing the complexity.
-
-## Research team
-
-* Jude Musuuza (jude.musuuza@bristol.ac.uk)
-* Thorsten Wagener
-* Ross Woods
-* Jim Freer
-* Nicholas Howden

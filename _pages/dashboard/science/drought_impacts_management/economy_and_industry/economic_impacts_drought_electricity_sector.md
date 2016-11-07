@@ -5,6 +5,9 @@ permalink: /dashboard/science/drought_impacts_management/economy_and_industry/ei
 
 subsection: Drought Impacts Management > Economy & Industry
 _title: Economic impacts of drought on electricity sector
+research_team:
+  - ed_byers
+  - jim_hall
 ---
 
 ## Key science findings or outputs
@@ -73,8 +76,3 @@ Percentage generation unavailability
 * Byers, Edward A; Hall, Jim W; Amezaga, Jaime M; Electricity generation and cooling water use: UK pathways to 2050, Global Environmental Change,25,16-30, 2014.
 * Byers, E.A.; Qadrdan, M.; Leathard, A.; Alderson, D; Hall, J.W; Amezaga, J.M; Tran, M.; C.G., Kilsby; Chaudry, M.; Cooling water for Britain’s future electricity supply, Proceedings of the Institution of Civil Engineers– Energy, 2015.
 * Byers, Edward A; Hall, Jim W; Amezaga, Jaime M; O'Donnell, Greg M; Leathard, Alex; Water and climate risks to power generation with carbon capture and storage, Environmental Research Letters, 11, 2016.
-
-## Research team
-
-* Dr Edward Byers, International Institute for Applied Systems Analysis, Austria (byers@iiasa.ac.at)
-* Prof Jim Hall, Environmental Change Institute, University of Oxford.

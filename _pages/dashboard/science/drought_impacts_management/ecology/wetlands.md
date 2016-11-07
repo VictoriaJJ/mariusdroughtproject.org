@@ -4,6 +4,9 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/ecology/wetlands/
 subsection: Drought Impacts Management > Ecology
 _title: Response and recovery of wetland ecosystems to drought
+research_team:
+  - james_blake
+  - mike_acreman
 ---
 
 ## Key science findings
@@ -30,7 +33,4 @@ We have developed simple computer models of different wetland types. They estima
 
 Projected risk of ecological change to wetlands given alterations to the intensity, duration and frequency of droughts under climate change.
 
-## Research Team
-
 James Blake Contact: jarib@ceh.ac.uk
-Mike Acreman

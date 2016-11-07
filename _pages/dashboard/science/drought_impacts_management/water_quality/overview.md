@@ -3,10 +3,22 @@ layout: science
 published: true
 permalink: /dashboard/science/drought_impacts_management/water_quality/ndocs/
 subsection: Drought Impacts Management > Water Quality
-_title: >-
-  Water quality – Nitrogen, Phosphorus, Chlorophyll, Phytoplanton, Dissolved
-  organic carbon and Sediment
----
+_title: Water quality - Nitrogen, Phosphorus, Chlorophyll, Phytoplanton, Dissolved organic carbon and Sediment
+research_team:
+  - paul_whitehead
+  - gianbattista_bussi
+  - alex_elliot
+  - mike_bowes
+  - dan_reader
+--- 
+## Research team
+
+* Paul Whitehead (paul.whitehead@ouce.ox.ac.uk)
+* Gianbattista Bussi
+* Alex Elliott
+* Mike Bowes
+* Dan Reader
+
 ## Key science findings or outputs
 
 * Droughts have big effects on water quality. Reduced flows reduce dilution so that pollutant concentrations rise. Hence phosphorus levels rise causing eutrophication problems.
@@ -37,11 +49,3 @@ Extensive data sets have been obtained on water quality and ecology for the Tham
 * P.G. Whitehead, H. Leckie, K. Rankinen, D. Butterfield, M.N. Futter, G. Bussi. 2016. An INCA model for pathogens in rivers and catchments: model structure, sensitivity analysis and application to the River Thames catchment, UK. Science of the Total Environment. doi:10.1016/j.scitotenv.2016.01.128.
 * G. Bussi, P.G. Whitehead, M.J. Bowes, D.S. Read, C. Prudhomme, S.J. Dadson. 2016. Impacts of climate change, land-use change and phosphorus reduction on phytoplankton in the River Thames (UK). Science of the Total Environment. doi:10.1016/j.scitotenv.2016.02.109.
 * Lu, M.N. Futter, L. Nizzetto, G. Bussi, M.D. Jürgens, P.G. Whitehead. Fate and Transport of Polychlorinated Biphenyls (PCBs) in the River Thames Catchment – Insights from a Coupled Multimedia Fate and Hydrobiogeochemical Transport Model. Science of the Total Environment. doi: 10.1016/j.scitotenv.2016.03.029.
- 
-## Research team
-
-* Paul Whitehead (paul.whitehead@ouce.ox.ac.uk)
-* Gianbattista Bussi
-* Alex Elliott
-* Mike Bowes
-* Dan Reader

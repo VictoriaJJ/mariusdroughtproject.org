@@ -4,6 +4,10 @@ published: true
 permalink: dashboard/science/drought_impacts_management/knowledges/
 subsection: Drought Impacts Management > Knowledges
 _title: Drought Knowledges
+research_team:
+  - sarah_whatmore
+  - eric_sarmiento
+  - catharina_landstrom
 ---
 
 ## Findings:  TBA
@@ -27,9 +31,3 @@ The Human Geography team has investigated knowledge about drought and water scar
 * Three social science papers, aimed at one human geography journal, one social studies of science journal and one social theory journal, will be submitted for peer-review.
 * A methodological innovation called ‘Community Modelling’ that will be publicised on a dedicated website.
 * A contribution to the Marlborough Area Neighbourhood Plan based on a report from the River Kennet ECG.
-
-## Research team
-
-* Sarah Whatmore
-* Eric Sarmiento
-* Catharina Landström (key contact)

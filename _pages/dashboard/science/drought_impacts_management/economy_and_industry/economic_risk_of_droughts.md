@@ -4,6 +4,10 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/economy_and_industry/erd/
 subsection: Drought Impacts Management > Economy & Industry
 _title: Economic risk of droughts
+research_team:
+  - katie_jenkins
+  - chris_decker
+  - jim_hall
 ---
 
 ## Key science findings
@@ -64,10 +68,3 @@ A first insight from this analysis is that for a given climatic condition, say a
 ### Publications
 - Freire-González, J., Decker, C. and J.W. Hall (2016). The economic impacts of droughts: a framework for analysis. Manuscript submitted for publication.
 - Freire-González, J., Decker, C. and J.W. Hall (2016).  AS scenario-based framework for assessing the economic impacts of potential droughts. Manuscript submitted for publication.
-
-
-## Research team
-
-* Katie Jenkins (katie.jenkins@eci.ox.ac.uk)
-* Chris Decker
-* Jim Hall

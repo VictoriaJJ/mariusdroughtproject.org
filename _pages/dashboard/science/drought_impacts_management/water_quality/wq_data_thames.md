@@ -5,6 +5,13 @@ permalink: /dashboard/science/drought_impacts_management/water_quality/rtwqd/
 
 subsection: Drought Impacts Management > Water Quality
 _title: River Thames water quality data
+research_team:
+  - mike_bowes
+  - daniel_read
+  - pete_scarlett
+  - heather_wickham
+  - linda_armstrong
+  - david_nicholls
 ---
 
 ## Key science outputs
@@ -35,12 +42,3 @@ Phytoplankton characterised by Flow Cytometry.
 
 * Bussi, G., P. G. Whitehead, M. J. Bowes, D. S. Read, C. Prudhomme & S. J. Dadson, 2016. Impacts of climate change, land-use change and phosphorus reduction on phytoplankton in the River Thames (UK). Sci Total Environ doi:http://dx.doi.org/10.1016/j.scitotenv.2016.02.109.
 * Whitehead, P. G., G. Bussi, M. J. Bowes, D. S. Read, M. G. Hutchins, J. A. Elliott & S. J. Dadson, 2015. Dynamic modelling of multiple phytoplankton groups in rivers with an application to the Thames river system in the UK. Environmental Modelling & Software 74:75-91 doi:http://dx.doi.org/10.1016/j.envsoft.2015.09.010.
- 
-## Research Team
-
-* Mike Bowes
-* Daniel Read
-* Pete Scarlett
-* Heather Wickham
-* Linda Armstrong
-* David Nicholls

@@ -54,13 +54,28 @@ noindex: true
       <hr>
 
       {{ content }}
+      
+      {% if page.research_team %}
+      <div id="research-team">
+        <h3>Research Team</h3>
+        <div class="row small-up-1 medium-up-2 large-up-3">
+          {% for person in page.research_team %}
+          <div class="column">
+            {% include person_summary.html person_id=person %}
+            <!--<img src="//placehold.it/300x300" class="thumbnail" alt="">-->
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
 
       {% if page.related_links %}
-        <hr>
-        <h2>Related links</h2>
+      <div id="related-links">
+        <h3>Related Links</h3>
         {% for link in page.related_links %}
         <a href="{{ link.url | replace: '!science_url!', site.science_url | replace: '!dpe_url!', site.dpe_url }}" {% if link.external %}target="_blank"{% endif %}>{{ link.name }}</a><br>
         {% endfor %}
+      </div>
       {% endif %}
 
     </div>

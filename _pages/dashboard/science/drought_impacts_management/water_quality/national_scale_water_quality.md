@@ -4,9 +4,13 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/water_quality/nswq/
 subsection: Drought Impacts Management > Water Quality
 _title: National scale water quality
+research_team:
+  - gemma_coxon
+  - jim_freer
+  - nicholas_howden
+  - paul_whitehead
+  - gianbattista_bussi
 ---
-
-
 ## Key science findings or outputs
 
 * National scale data analysis of the impacts of drought on water quality in UK rivers
@@ -39,11 +43,3 @@ For the research in MaRIUS, an end-member mixing model is developed for the simu
 ![End member mixing model]({{ site.baseurl }}/assets/img/nswq_endmembermixingmodel.png){:width="50%"}
 
 End member mixing model
-
-## Research Team
-
-* Dr Gemma Coxon (gemma.coxon@bristol.ac.uk)
-* Prof Jim Freer
-* Dr Nicholas Howden
-* Prof Paul Whitehead
-* Dr Gianbattista Bussi

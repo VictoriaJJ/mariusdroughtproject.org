@@ -4,8 +4,11 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/ecology/rivers/
 subsection: Drought Impacts Management > Ecology
 _title: Response and recovery of river ecosystems to drought
+research_team:
+  - cedric_laize
+  - mike_acreman
+  - francois_edwards
 ---
-
 ## Key science findings
 
 * Droughts can alter the processes that govern ecosystems, causing changes to physical character, species occurrences and numbers, their interactions and benefits they provide to people.
@@ -64,9 +67,3 @@ Modelled depths are then used to assess loss of connectivity within major catchm
 ![Catchment fragmentation mapping; year 1976 (red, loss of connectivity at least once at one site; green, no loss).]({{site.baseurl}}/assets/img/Cedric3.jpg.png){:width="50%"}
 
 Catchment fragmentation mapping; year 1976 (red, loss of connectivity at least once at one site; green, no loss).
-
-## Research Team: 
-
-Dr Cedric Laize Contact: clai@ceh.ac.uk	 
-Prof Mike Acreman
-Dr Francois Edwards

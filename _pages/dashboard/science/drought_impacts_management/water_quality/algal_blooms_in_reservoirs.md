@@ -4,6 +4,8 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/water_quality/abr/
 subsection: Drought Impacts Management > Water Quality
 _title: Algal blooms in reservoirs
+research_team:
+  - alex_elliot
 ---
 
 ## Key science outputs
@@ -34,7 +36,3 @@ Predicting the proportion of cyanobacteria (“blue-green algae”) in reservoir
 ![Total chlorophyll concentration in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September.]({{site.baseurl}}/assets/img/Alex2.jpeg)
 
 Total chlorophyll concentration in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September.
-
-## Research team
-
-* Alex Elliot (alexe@ceh.ac.uk)

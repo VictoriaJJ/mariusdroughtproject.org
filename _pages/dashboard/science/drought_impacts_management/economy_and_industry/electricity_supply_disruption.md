@@ -5,6 +5,10 @@ permalink: /dashboard/science/drought_impacts_management/economy_and_industry/es
 
 subsection: Drought Impacts Management > Economy & Industry
 _title: Electricity supply disruption
+research_team:
+  - katie_jenkins
+  - chris_decker
+  - jim_hall
 ---
 
 ## Key science findings
@@ -18,9 +22,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit minus laboriosam
 ## Research methods
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam odit reiciendis, aspernatur adipisci cupiditate id ut, molestiae asperiores eum delectus nobis! Quae ullam suscipit, distinctio non hic corporis, accusamus velit?
-
-## Research team
-
-* Katie Jenkins (katie.jenkins@eci.ox.ac.uk)
-* Chris Decker
-* Jim Hall

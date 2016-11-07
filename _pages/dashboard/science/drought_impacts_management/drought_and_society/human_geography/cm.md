@@ -4,8 +4,12 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/das/k/cm/
 _title: Community modelling in the Lea
 subsection: Drought and society > Knowledge
+research_team:
+  - catharina_landstrom
+  - eric_sarmiento
+  - sarah_whatmore
+  - gianbattista_bussi
 ---
-
 ## Key science findings: 
 1.	A bespoke set up computer model became a useful tool for Thames 21 for local community engagement with river and water management.
 2.	Set up for the River Lea and its tributary Salmons Brook the INCA model incorporated data collected by local volunteers taking part in citizen science monitoring.
@@ -20,7 +24,6 @@ Human Geography research in the <abbr title="Managing the Risks, Impacts and Unc
 
 1) develop the Environmental Competency Groups methodology into an application that will enable local communities to make use of scientific tools;  
 2) create a bespoke computer model that the local rivers trust, Thames 21, and its volunteering residents found useful for increasing their  understanding of the processes impacting on water quality in the River Lea in East London.  
-
 
 ## Research methods
 
@@ -46,12 +49,3 @@ Having established that computer modelling could be of value to Thames 21 in the
 ## Result 3: The bespoke model of Salmons Brook connected local river restoration interventions and citizen science monitoring to scientific analysis of water quality under different flow scenarios.
 
 The INCA model enabled Thames 21 officers and volunteers to contextualise their activities focussing on reducing nitrogen and phosphate levels in Salmons Brook by river restoration interventions. In the third Community Modelling session the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project team made video tutorials together with Thames 21 officers and volunteers in order to enable future local use of the model. The bespoke model was handed over to them. Using the model with monitoring data collected locally the local community now has the capacity to consider the impacts of interventions like reed beds and wetlands in relation to water quantity and other factors. 
-
-
-## Research Team
-
-Catahrina Landstrom (catharina.landstrom@ouce.ox.ac.uk)
-Eric Sarmiento
-Sarah Whatmore
-with
-Gianbattista Bussi

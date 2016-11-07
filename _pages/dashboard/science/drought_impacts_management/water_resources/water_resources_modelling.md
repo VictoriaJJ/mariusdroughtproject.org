@@ -5,8 +5,9 @@ permalink: /dashboard/science/drought_impacts_management/water_resources/tbm/
 
 subsection: Drought Impacts Management > Water Resources
 _title: Thames basin modelling
+research_team:
+  - mohammad_mortazavi
 ---
-
 ## Key science findings
 
 * Assess public water supply vulnerability in Thames basin in presence of climate change with and without water quality constraints.
@@ -22,7 +23,3 @@ The general question I am trying to address is the impacts of drought and water 
 The Thames water resource system in WATHNET has been developed. With this is platform it will be integrated with water quality and energy consumption model.
 
 Our approach is risk-based which means we will run the model for many number of scenarios (i.e. 1000) and we will extract statistical outputs of these scenarios.
-
-## Research team
-
-Mohammad Mortazavi-Naeini (mohammad.mortazavi-naeini@ouce.ox.ac.uk)
