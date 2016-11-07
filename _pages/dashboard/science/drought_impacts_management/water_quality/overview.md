@@ -9,16 +9,8 @@ research_team:
   - gianbattista_bussi
   - alex_elliot
   - mike_bowes
-  - dan_reader
+  - daniel_read
 --- 
-## Research team
-
-* Paul Whitehead (paul.whitehead@ouce.ox.ac.uk)
-* Gianbattista Bussi
-* Alex Elliott
-* Mike Bowes
-* Dan Reader
-
 ## Key science findings or outputs
 
 * Droughts have big effects on water quality. Reduced flows reduce dilution so that pollutant concentrations rise. Hence phosphorus levels rise causing eutrophication problems.

@@ -9,7 +9,7 @@ gem 'github-pages'
 # #
 # #     bundle exec jekyll serve
 # #
-gem "jekyll", "3.2.1"
+# gem "jekyll", "3.2.1"
 
 # gem "rake", "~> 10.1.1"
 

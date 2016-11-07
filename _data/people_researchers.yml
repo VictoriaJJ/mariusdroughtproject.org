@@ -34,7 +34,7 @@ pam_berry:
   profile: 
     "Dr Pam Berry is Leader of the Biodiversity and Climate Adaptation group in the University of Oxford, focussing upon assessment of change in biodiversity and ecosystem services in the UK and elsewhere in Europe. She was a Lead Author on the England Synthesis chapter for the UK National Ecosystem Assessment and on the Working Group for UK Terrestrial Biodiversity Climate Change Impacts Report Card. Pam’s work on MaRIUS will be to undertake an assessment of the effect of droughts on ecology, by combining hydrological alteration metrics and using eco-hydrological models of organism/community response to long-term discharge. The output will be biologically-based eco-hydrological indicators of low flow regimes enabling assessment of implications of drought for fish, macro-invertebrates and macrophytes. This will be undertaken in association with Cedric Laize and Mike Acreman."
 
-vicky_bell:
+victoria_bell:
   name: Vicky Bell
   title: Dr
   position: Hydrological Modeller. Group leader, Hydrological Modelling and Risk (HMR) Group
@@ -372,7 +372,7 @@ nick_reynard:
   profile: 
     "Nick Reynard is head of a science section at CEH in Wallingford, managing a large group of land-surface and hydrological modellers. He is Science Area Lead for Natural Hazards, which includes flood and drought prediction and forecasting and land surface modelling. Nick was a member of the Science and Engineering Panel of the Pitt Review of the summer floods of 2007 and represented CEH in the Government Foresight Initiative on Floods (UK, China and USA). His research interests include continuous flow simulation approaches for river flow modelling, in particular application to investigating the implications of environmental (including climate) change, quantification of uncertainty in hydrological modelling under non-stationarity and development of techniques for detecting and attributing trends in environmental datasets."
 
-ali_rudd:
+alison_rudd:
   name: Ali Rudd
   title: Dr
   position: Hydrological Modeller
