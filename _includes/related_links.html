@@ -1,8 +1,0 @@
-{% if page.related_links %}
-<div id="related-links">
-	<h3>Related Links</h3>
-	{% for link in page.related_links %}
-	<a href="{{ link.url | replace: '!science_url!', site.science_url | replace: '!dpe_url!', site.dpe_url }}" {% if link.external %}target="_blank"{% endif %}>{{ link.name }}</a><br>
-	{% endfor %}
-</div>
-{% endif %}
