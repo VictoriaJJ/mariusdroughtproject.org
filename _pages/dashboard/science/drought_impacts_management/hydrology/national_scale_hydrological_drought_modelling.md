@@ -9,7 +9,8 @@ research_team:
   - alison_rudd
   - alison_kay
   - ponnambalam_rameshwaran
---- 
+---
+ 
 ## Key science findings:
 1.	Identification of drought events across Great Britain using simulated river flow and soil moisture 
 2.	 National analysis of future drought risk using MaRIUS baseline and future drought event-sets
@@ -59,6 +60,7 @@ Daily mean river flow for the Thames at Kingston. Observed river flow (black), G
 
 
 ## Further information
+Visit the Management dashboard [Management dashboard page]({{ site.dpe_url }}/drought_impacts/river_flow/)
 
 ### Poster presentations
 
