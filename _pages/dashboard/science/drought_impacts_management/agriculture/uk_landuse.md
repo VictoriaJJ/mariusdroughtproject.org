@@ -3,7 +3,7 @@ layout: science
 published: true
 permalink: /dashboard/science/drought_impacts_management/agriculture/uklu/
 subsection: Drought Impacts Management > Agriculture
-_title: UK Landuse change
+_title: UK Land use change
 research_team:
   - victoria_janes
   - ian_holman
